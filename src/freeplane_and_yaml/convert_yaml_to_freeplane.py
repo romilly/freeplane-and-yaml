@@ -2,6 +2,8 @@ import yaml
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 import uuid
+import argparse
+import os
 
 def generate_node_id():
     """Generate a unique ID for a node."""
@@ -70,7 +72,7 @@ def converter(yaml_content):
 
     return pretty_xml
 
-def convert_yaml_file_to_freeplane(yaml_file_path, output_file_path):
+def convert_yaml_file(yaml_file_path, output_file_path):
     """Convert a YAML file to a Freeplane mind map file."""
     with open(yaml_file_path, 'r', encoding='utf-8') as yaml_file:
         yaml_content = yaml_file.read()
@@ -82,5 +84,17 @@ def convert_yaml_file_to_freeplane(yaml_file_path, output_file_path):
 
 # Example usage:
 if __name__ == "__main__":
-    convert_yaml_file_to_freeplane('../../data/mindmap-notes.yaml',
-                                   'habits.mm')
+    parser = argparse.ArgumentParser(description='Convert YAML file to Freeplane mind map')
+    parser.add_argument('input_file', help='Input YAML file path')
+    parser.add_argument('output_dir', help='Output directory for the mind map file')
+    
+    args = parser.parse_args()
+    
+    # Create output directory if it doesn't exist
+    os.makedirs(args.output_dir, exist_ok=True)
+    
+    # Generate output filename based on input filename
+    input_basename = os.path.splitext(os.path.basename(args.input_file))[0]
+    output_file = os.path.join(args.output_dir, f"{input_basename}.mm")
+    
+    convert_yaml_file(args.input_file, output_file)
