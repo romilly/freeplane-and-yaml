@@ -1,16 +1,21 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Theory of Cerebellar Cortex" FOLDED="false" ID="ID_44660f95_c9ae_441a_a962_8899fdfcb5fd" CREATED="1739361894777" MODIFIED="1739361894777"><richcontent TYPE="NOTE">
+<node TEXT="Theory of Cerebellar Cortex" FOLDED="false" ID="ID_44660f95_c9ae_441a_a962_8899fdfcb5fd" CREATED="1739361894777" MODIFIED="1739368059198"><richcontent TYPE="NOTE">
 
 <html>
-                <head/>
-                <body>
-                    <p>A detailed theory explaining how the cerebellum learns to perform motor skills through specific cellular architecture and synaptic modifications</p>
-                </body>
-            </html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">A detailed theory explaining how the cerebellum learns to perform motor skills through specific cellular architecture and synaptic modifications</font>
+    </p>
+  </body>
+</html>
+
 </richcontent>
-<hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false" show_note_icons="true"/>
+<hook NAME="MapStyle" zoom="1.7">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
