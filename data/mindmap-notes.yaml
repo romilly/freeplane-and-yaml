@@ -1,0 +1,142 @@
+root:
+  title: "Habits, Rituals & the Evaluative Brain"
+  note: "A comprehensive review examining how habits and rituals are formed, maintained, and regulated in the brain, exploring both normal behavior and neurological disorders."
+  children:
+    habit_characteristics:
+      title: "Habit Characteristics"
+      note: "Core features that define habits and distinguish them from other types of behavior."
+      children:
+        learned:
+          title: "Learned through experience"
+          note: "Habits are acquired through experience-dependent plasticity, not innate behaviors."
+        repetitive:
+          title: "Repetitive behaviors"
+          note: "Habits involve consistent repetition of actions over extended periods."
+        triggered:
+          title: "Context/stimulus triggered"
+          note: "Specific environmental cues or contexts reliably trigger habitual behaviors."
+        automatic:
+          title: "Nearly automatic execution"
+          note: "Once formed, habits require minimal conscious oversight to perform."
+        sequential:
+          title: "Sequential actions"
+          note: "Habits typically involve ordered sequences of actions that become chunked together."
+        cognitive_motor:
+          title: "Can be motor or cognitive"
+          note: "Habits can manifest as both physical actions and patterns of thought."
+
+    neural_circuits:
+      title: "Neural Circuits"
+      note: "Brain systems involved in habit formation and maintenance, centered on basal ganglia circuits."
+      children:
+        basal_ganglia:
+          title: "Basal Ganglia"
+          note: "Central brain structure in habit formation and maintenance."
+          children:
+            striatum:
+              title: "Striatum"
+              note: "Key structure with distinct regions for different stages of habit formation."
+              children:
+                ventral:
+                  title: "Ventral striatum: early learning"
+                  note: "Critical for initial learning and motivation in habit formation."
+                dorsal:
+                  title: "Dorsal striatum: habit execution"
+                  note: "Becomes dominant as habits become well-established and automatic."
+            dopamine:
+              title: "Dopamine system"
+              note: "Provides crucial learning and motivation signals for habit formation."
+              children:
+                prediction:
+                  title: "Reward prediction"
+                  note: "Signals differences between expected and actual outcomes."
+                learning:
+                  title: "Learning signals"
+                  note: "Guides plasticity in neural circuits supporting habit formation."
+        prefrontal:
+          title: "Prefrontal Cortex"
+          note: "Provides executive control and goal-directed behavior regulation."
+          children:
+            goal_directed:
+              title: "Goal-directed behavior"
+              note: "Maintains focus on desired outcomes and behavioral flexibility."
+            executive:
+              title: "Executive control"
+              note: "Enables suppression or modification of habits when needed."
+
+    formation_process:
+      title: "Habit Formation Process"
+      note: "Progression from conscious, goal-directed behavior to automatic responses."
+      children:
+        evaluation:
+          title: "Evaluation phase"
+          note: "Initial assessment of behavior outcomes and rewards."
+        selection:
+          title: "Selection phase"
+          note: "Reinforcement of successful behaviors through repetition."
+        chunking:
+          title: "Chunking phase"
+          note: "Integration of individual actions into unified sequences."
+        automatization:
+          title: "Automatization"
+          note: "Final phase where behavior becomes automatic and effortless."
+
+    repetitive_behaviors:
+      title: "Types of Repetitive Behaviors"
+      note: "Various forms of repeated actions ranging from normal to pathological."
+      children:
+        normal:
+          title: "Normal habits"
+          note: "Adaptive, beneficial routines that can be modified when needed."
+        rituals:
+          title: "Rituals"
+          note: "Complex, culturally-influenced repetitive behaviors serving social functions."
+        fixed_patterns:
+          title: "Fixed action patterns"
+          note: "Species-specific, stereotyped behavioral sequences often present from birth."
+        stereotypies:
+          title: "Stereotypies"
+          note: "Highly repetitive, purposeless behaviors emerging under stress or pathology."
+        addictive:
+          title: "Addictive behaviors"
+          note: "Compulsive habits driven by dysregulated reward circuits."
+
+    clinical:
+      title: "Clinical Relevance"
+      note: "Implications for neurological and psychiatric conditions affecting habit systems."
+      children:
+        ocd:
+          title: "OCD"
+          note: "Disorder involving intrusive thoughts and compulsive behaviors linked to habit circuit dysfunction."
+        tourette:
+          title: "Tourette syndrome"
+          note: "Movement disorder featuring tics and disrupted pattern generation in basal ganglia."
+        addiction:
+          title: "Addiction"
+          note: "Pathological habit formation involving drug-induced plasticity in reward circuits."
+        parkinsons:
+          title: "Parkinson's disease"
+          note: "Motor disorder affecting execution of learned habits and procedures."
+        huntingtons:
+          title: "Huntington's disease"
+          note: "Genetic disorder progressively affecting habit circuits and motor control."
+
+    key_concepts:
+      title: "Key Concepts"
+      note: "Fundamental principles underlying habit formation and control."
+      children:
+        action_outcome:
+          title: "Action-Outcome vs Stimulus-Response"
+          note: "Transition from goal-directed to automatic behavioral control."
+        explore_exploit:
+          title: "Explore-Exploit transition"
+          note: "Shift from variable behavioral exploration to fixed exploitation of learned patterns."
+        boundary:
+          title: "Boundary marking in sequences"
+          note: "Neural signaling of start and end points in habitual action sequences."
+        value:
+          title: "Value-based learning"
+          note: "Role of reward and motivation in shaping habit formation."
+        social:
+          title: "Social and cultural aspects"
+          note: "Influence of social context and cultural factors on habit development."
