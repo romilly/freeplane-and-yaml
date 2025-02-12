@@ -4,6 +4,9 @@ A Python tool that converts YAML files into Freeplane mind maps. This allows you
 
 The YAML file can be created using [Claude AI](https://claude.ai/chat/). A suitable prompt is given [below](#converting-documents-to-mind-maps-using-claude-ai).
 
+You can read about how it got written using AI on [medium](https://medium.com/@romillyc/build-your-own-mind-map-tools-with-ai-b193564f2464?sk=b353aa7d16d6412e4aae8f3eab0ec554).
+That's a friend link so you can read it even if you're not a subscriber.
+
 ## Installation
 
 First, clone this repository:
