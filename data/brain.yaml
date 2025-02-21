@@ -1,0 +1,51 @@
+root:
+  title: "Human Brain Overview"
+  note: "The central organ of the nervous system controlling body activities and processing information."
+  children:
+    cerebrum:
+      title: "Cerebrum"
+      note: "Largest part, divided into two hemispheres with specific lobes and functions."
+      children:
+        cerebral_hemispheres:
+          title: "Cerebral Hemispheres"
+          note: "Each hemisphere has a cortex composed of grey matter; connected by the corpus callosum."
+        frontal_lobe:
+          title: "Frontal Lobe"
+          note: "Associated with executive functions such as planning and reasoning."
+        parietal_lobe:
+          title: "Parietal Lobe"
+          note: "Involved in processing sensory information."
+        temporal_lobe:
+          title: "Temporal Lobe"
+          note: "Important for auditory perception and memory."
+        occipital_lobe:
+          title: "Occipital Lobe"
+          note: "Dedicated to vision."
+
+    brainstem:
+      title: "Brainstem"
+      note: "Connects the cerebrum with the spinal cord, consisting of midbrain, pons, and medulla oblongata."
+
+    cerebellum:
+      title: "Cerebellum"
+      note: "Connected to the brainstem via three pairs of nerve tracts; involved in motor control."
+
+    ventricular_system:
+      title: "Ventricular System"
+      note: "Composed of four interconnected ventricles for producing and circulating cerebrospinal fluid."
+
+    brain_protection_and_vulnerability:
+      title: "Protection and Vulnerability"
+      note: "Protected by skull and cerebrospinal fluid, yet susceptible to damage, disease, and infection."
+
+    neurons_and_glial_cells:
+      title: "Brain Cells"
+      note: "Composed of over 86 billion neurons and supportive glial cells, facilitating neurotransmission."
+
+    brain_studies:
+      title: "Studying the Brain"
+      note: "Involves neuroanatomy and neuroscience through various techniques including medical imaging and EEG."
+
+    cultural_impact:
+      title: "Cultural Impact"
+      note: "Addresses questions of consciousness and explores the mind-body problem."
