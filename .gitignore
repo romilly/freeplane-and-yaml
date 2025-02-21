@@ -138,8 +138,7 @@ ENV/
 
 # .idea/ no longer excluded
 
-test/test/data/generated
 
 Link.md
 
-/tests/generated/
+/tests/data/generated/
