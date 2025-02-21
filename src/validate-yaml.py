@@ -2,7 +2,7 @@ import jsonschema
 import yaml
 import json
 
-def validate_mindmap_yaml(yaml_content, schema_file='mindmap_schema.json'):
+def validate_mindmap_yaml(yaml_content, schema_file='schema/mindmap-schema.json'):
     # Load the schema
     with open(schema_file, 'r') as f:
         schema = json.load(f)
