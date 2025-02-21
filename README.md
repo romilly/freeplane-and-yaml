@@ -21,7 +21,86 @@ pip install freeplane-and-yaml
 
 ## Usage
 
-Your YAML file should follow [this schema](src/schema/mindmap-schema.json). Here's an example structure:
+Your YAML file should follow this schema:
+
+```json
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Mind Map Schema",
+  "description": "Schema for Freeplane-compatible mind map YAML format",
+  
+  "definitions": {
+    "node": {
+      "type": "object",
+      "required": ["title"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "The display text for the node"
+        },
+        "note": {
+          "type": "string",
+          "description": "Rich text note attached to the node"
+        },
+        "children": {
+          "type": "object",
+          "description": "Child nodes of this node",
+          "patternProperties": {
+            "^[a-zA-Z0-9_]+$": {
+              "$ref": "#/definitions/node"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+
+  "type": "object",
+  "required": ["root"],
+  "properties": {
+    "root": {
+      "allOf": [
+        { "$ref": "#/definitions/node" },
+        { 
+          "required": ["children"],
+          "description": "The root node must have at least one child"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+
+  "examples": [
+    {
+      "root": {
+        "title": "Example Mind Map",
+        "note": "This is the root node",
+        "children": {
+          "topic1": {
+            "title": "First Topic",
+            "note": "Note for first topic",
+            "children": {
+              "subtopic1": {
+                "title": "Subtopic 1",
+                "note": "Note for subtopic"
+              }
+            }
+          },
+          "topic2": {
+            "title": "Second Topic",
+            "note": "Note for second topic"
+          }
+        }
+      }
+    }
+  ]
+}
+
+```
+
+Here's an example structure:
 
 ```yaml
 root:
@@ -57,13 +136,13 @@ The YAML must conform to these rules:
 - Child node keys must be alphanumeric (including underscores)
 - No additional properties are allowed beyond title, note, and children
 
-For full schema details, see [schema](src/schema/mindmap-schema.json).
+For full schema details, see above.
 
 ### Converting Documents to YAML using Claude AI
 
 You can use Claude Sonnet to automatically convert documents (PDFs, articles, specifications, etc.) into the required YAML format. Here's the workflow:
 
-1. Share your document and the [schema](src/schema/mindmap-schema.json) with Claude Sonnet.
+1. Share your document and the schema (above) with Claude Sonnet.
 2. Use this prompt:
    ```
    I've uploaded a document and a schema file.  I'd like you to summarise the document as a yaml file following the schema that I uploaded.
