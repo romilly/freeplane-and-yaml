@@ -1,4 +1,4 @@
-# Freeplane YAML Converter
+# YAML to Freeplane Converter
 
 A Python tool that converts YAML files into Freeplane mind maps. This allows you to generate mind maps programmatically from structured YAML data.
 
@@ -12,6 +12,7 @@ That's a friend link so you can read it even if you're not a subscriber.
 First, clone this repository:
 
 ```bash
+# clone the project from GitHub
 git clone https://github.com/romilly/freeplane-and-yaml.git
 cd freeplane-and-yaml
 ```
@@ -91,7 +92,7 @@ The generated `.mm` file can be opened in Freeplane. When you first open the fil
 
 ![Freeplane Warning Dialog](images/warning-dialog.png)
 
-This is normal and expected - simply click OK to load the mind map.
+This is normal and expected — click OK to load the mind map.
 
 Here's an example of how the output looks:
 
@@ -108,4 +109,6 @@ Here's an example of how the output looks:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Apologiresd to readers from the USA. This README uses UK spelling.
+
+This project is licensed under the MIT Licence — see the [LICENCE](LICENSE) file for details.

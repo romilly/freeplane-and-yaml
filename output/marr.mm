@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Theory of Cerebellar Cortex" FOLDED="false" ID="ID_44660f95_c9ae_441a_a962_8899fdfcb5fd" CREATED="1739361894777" MODIFIED="1739368059198"><richcontent TYPE="NOTE">
+<node TEXT="Theory of Cerebellar Cortex" FOLDED="false" ID="ID_44660f95_c9ae_441a_a962_8899fdfcb5fd" CREATED="1739361894777" MODIFIED="1739449098004"><richcontent TYPE="NOTE">
 
 <html>
   <head>
