@@ -9,24 +9,15 @@ That's a friend link so you can read it even if you're not a subscriber.
 
 ## Installation
 
-First, clone this repository:
-
-```bash
-# clone the project from GitHub
-git clone https://github.com/romilly/freeplane-and-yaml.git
-cd freeplane-and-yaml
-```
-
 This project requires Python and should be run in a virtual environment:
 
 ```bash
-# Create and activate virtual environment
+# Create and activate virtual environment in the direcoty of your choice
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install required packages
-pip install pyyaml
+pip install freeplane-and-yaml
 ```
+
 
 ## Usage
 
@@ -81,11 +72,11 @@ This workflow is useful for:
 
 To convert a YAML file to a Freeplane mind map:
 
-```python
-from freeplane_and_yaml.convert_yaml_to_freeplane import convert_yaml_file
+```bash
 
-# Convert YAML to mind map
-convert_yaml_file('path/to/your/input.yaml', 'output.mm')
+# Convert YAML and store mind map in temp
+convert data/marr.yaml temp
+
 ```
 
 The generated `.mm` file can be opened in Freeplane. When you first open the file, Freeplane will show this warning dialog because the file wasn't created by Freeplane itself:
@@ -109,6 +100,6 @@ Here's an example of how the output looks:
 
 ## License
 
-Apologiresd to readers from the USA. This README uses UK spelling.
+_Apologies to readers from the USA. This README uses UK spelling._
 
 This project is licensed under the MIT Licence — see the [LICENCE](LICENSE) file for details.
