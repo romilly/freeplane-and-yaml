@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="freeplane-yaml",  # Your package name (it must be unique on PyPI)
-    version="0.1.0",  # Initial release version
+    name="freeplane-and-yaml",  # Your package name (it must be unique on PyPI)
+    version="0.1.1",  # Initial release version
     description="A tool to convert YAML files to Freeplane MM format",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",  # Use Markdown for PyPI description
@@ -21,5 +21,11 @@ setup(
         "License :: OSI Approved :: MIT License",  # Your license
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.9",  # Specify minimum Python version
+    python_requires=">=3.9", # Specify minimum Python version
+entry_points={
+        "console_scripts": [
+            "convert=freeplane_and_yaml.cli:main",
+        ],
+    },
+
 )

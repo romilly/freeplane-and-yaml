@@ -1,7 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 import pytest
-from convert_yaml_to_freeplane import convert_yaml_file
+from freeplane_and_yaml.convert import convert_yaml_file
 
 # Paths
 TESTS_DIR = os.path.dirname(__file__)
