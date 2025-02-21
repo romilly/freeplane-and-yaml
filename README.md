@@ -21,7 +21,7 @@ pip install freeplane-and-yaml
 
 ## Usage
 
-The code should be run from the `src` directory after activating the virtual environment. Your YAML file should follow the schema defined in `schema/mindmap-schema.json`. Here's an example structure:
+Your YAML file should follow [this schema](src/schema/mindmap-schema.json). Here's an example structure:
 
 ```yaml
 root:
@@ -38,6 +38,16 @@ root:
       # ... and so on
 ```
 
+### Converting YAML to Mind Map
+
+To convert a YAML file to a Freeplane mind map:
+
+```bash
+
+# Convert YAML and store mind map in temp
+convert data/marr.yaml temp
+```
+
 ### YAML Schema Requirements
 
 The YAML must conform to these rules:
@@ -47,13 +57,13 @@ The YAML must conform to these rules:
 - Child node keys must be alphanumeric (including underscores)
 - No additional properties are allowed beyond title, note, and children
 
-For full schema details, see `schema/mindmap-schema.json`.
+For full schema details, see [schema](src/schema/mindmap-schema.json).
 
-### Converting Documents to Mind Maps using Claude AI
+### Converting Documents to YAML using Claude AI
 
 You can use Claude Sonnet to automatically convert documents (PDFs, articles, specifications, etc.) into the required YAML format. Here's the workflow:
 
-1. Share your document and the schema (from `schema/mindmap-schema.json`)with Claude Sonnet.
+1. Share your document and the [schema](src/schema/mindmap-schema.json) with Claude Sonnet.
 2. Use this prompt:
    ```
    I've uploaded a document and a schema file.  I'd like you to summarise the document as a yaml file following the schema that I uploaded.
@@ -68,16 +78,6 @@ This workflow is useful for:
 - Creating structured summaries of technical documentation
 - Organizing research notes
 
-### Converting YAML to Mind Map
-
-To convert a YAML file to a Freeplane mind map:
-
-```bash
-
-# Convert YAML and store mind map in temp
-convert data/marr.yaml temp
-
-```
 
 The generated `.mm` file can be opened in Freeplane. When you first open the file, Freeplane will show this warning dialog because the file wasn't created by Freeplane itself:
 
