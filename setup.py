@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="freeplane-and-yaml",  # Your package name (it must be unique on PyPI)
-    version="0.1.3",  # Initial release version
+    version="0.1.4",  # Initial release version
     description="A tool to convert YAML files to Freeplane MM format",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",  # Use Markdown for PyPI description
