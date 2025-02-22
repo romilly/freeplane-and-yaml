@@ -2,10 +2,11 @@
 
 A Python tool that converts YAML files into Freeplane mind maps. This allows you to generate mind maps programmatically from structured YAML data.
 
-The YAML file can be created using [Claude AI](https://claude.ai/chat/). A suitable prompt is given [below](#converting-documents-to-mind-maps-using-claude-ai).
+The YAML file can be created using [Claude AI](https://claude.ai/chat/). 
+A suitable prompt is given [below](https://github.com/romilly/freeplane-and-yaml?tab=readme-ov-file#converting-documents-to-yaml-using-claude-ai).
 
 You can read about how it got written using AI on [medium](https://medium.com/@romillyc/build-your-own-mind-map-tools-with-ai-b193564f2464?sk=b353aa7d16d6412e4aae8f3eab0ec554).
-That's a friend link so you can read it even if you're not a subscriber.
+That's a _friend link_ so you can read it even if you're not a subscriber.
 
 ## Installation
 
@@ -21,7 +22,7 @@ pip install freeplane-and-yaml
 
 ## Usage
 
-Your YAML file should follow this schema:
+Your YAML file should follow this [schema](https://raw.githubusercontent.com/romilly/freeplane-and-yaml/refs/heads/main/src/schema/mindmap-schema.json). It includes an example.
 
 ```json
 {
@@ -100,23 +101,6 @@ Your YAML file should follow this schema:
 
 ```
 
-Here's an example structure:
-
-```yaml
-root:
-  title: "Your Main Topic"
-  note: "Optional note for the main topic"
-  children:
-    subtopic1:
-      title: "Subtopic 1"
-      note: "Optional note for subtopic 1"
-      children:
-        # ... more nested topics
-    subtopic2:
-      title: "Subtopic 2"
-      # ... and so on
-```
-
 ### Converting YAML to Mind Map
 
 To convert a YAML file to a Freeplane mind map:
@@ -127,9 +111,9 @@ To convert a YAML file to a Freeplane mind map:
 convert data/marr.yaml temp
 ```
 
-### YAML Schema Requirements
+### YAML Schema requirements explained
 
-The YAML must conform to these rules:
+As the schema specifies, The YAML must conform to these rules:
 - Must have a root node with a title and at least one child
 - Each node requires a title
 - Notes are optional
