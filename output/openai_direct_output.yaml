@@ -1,0 +1,57 @@
+root:
+  title: "A New Look at Habits and the Habit–Goal Interface"
+  note: "This document outlines a model explaining the mechanisms of habitual control and its interaction with goals."
+  children:
+    introduction:
+      title: "Introduction to Habits and Goals"
+      note: "The model discusses how habits are formed through associations between responses and contextual features."
+      children:
+        habit_definition:
+          title: "Definition of Habits"
+          note: "Habits are learned associations that trigger responses based on context without a mediating goal."
+        habit_goal_interface:
+          title: "Interface Between Habits and Goals"
+          note: "Goals can influence habit formation and can be inferred from habitual behaviors."
+    empirical_evidence:
+      title: "Empirical Evidence of Habitual Behavior"
+      note: "Studies show that a significant portion of daily behaviors are repetitive and context-dependent."
+      children:
+        experience_sampling:
+          title: "Experience Sampling Studies"
+          note: "Participants recorded their behaviors, revealing a high rate of repetition in stable contexts."
+        ecological_analysis:
+          title: "Ecological Analysis of Daily Activities"
+          note: "Research indicates that children's activities show a high degree of repetition linked to specific environments."
+    theoretical_perspectives:
+      title: "Theoretical Perspectives on Habits"
+      note: "The model synthesizes various theories from behaviorism to cognitive science regarding habitual behavior."
+      children:
+        behaviorism:
+          title: "Behaviorism and Habit Formation"
+          note: "Early behaviorists focused on stimulus-response mechanisms to explain habitual actions."
+        cognitive_science:
+          title: "Cognitive Science Contributions"
+          note: "Cognitive models emphasize internal processes and the role of goals in guiding behavior."
+    habit_principles:
+      title: "Principles of Habit Formation"
+      note: "Three key principles outline how habits are cued by contexts and their relationship with goals."
+      children:
+        principle_one:
+          title: "Principle 1: Context Cues"
+          note: "Habitual responses are triggered by features of the context that have been associated with past behaviors."
+        principle_two:
+          title: "Principle 2: Absence of Goal Mediation"
+          note: "Habits operate independently of current goals once formed, relying on context cues."
+        principle_three:
+          title: "Principle 3: Interaction with Goals"
+          note: "Habits can inform and be informed by goals, allowing for a dynamic interaction."
+    research_implications:
+      title: "Implications for Future Research"
+      note: "The model opens avenues for research on habit change and behavior interventions."
+      children:
+        habit_change:
+          title: "Understanding Habit Change"
+          note: "Insights into how habits can be modified to align with new goals."
+        behavior_interventions:
+          title: "Tailoring Behavior Change Interventions"
+          note: "Strategies to maximize the effectiveness of interventions aimed at changing habits."

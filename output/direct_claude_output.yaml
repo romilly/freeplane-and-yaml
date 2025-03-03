@@ -1,0 +1,34 @@
+root:
+  title: A New Look at Habits and the Habit-Goal Interface
+  note: This article presents a model that outlines the mechanisms underlying habitual control of responding and how habits interface with goals.
+  children:
+    principles:
+      title: Key Principles
+      note: The model is based on three key principles about habits.
+      children:
+        principle1:
+          title: Principle 1 - Habits are cued by contexts
+          note: Habits emerge from the gradual learning of associations between responses and the features of contexts that have historically covaried with those responses. Once formed, perception of those contexts directly triggers the associated response.
+          children:
+            cuing_forms:
+              title: Forms of Context Cuing
+              note: There are two potential forms of context cuing that can activate habit responses.
+              children:
+                direct_cuing:
+                  title: Direct Cuing
+                  note: Habits are represented as direct context-response associations that develop from repeated co-activation of the context and response representations in memory.
+                motivated_cuing:
+                  title: Motivated Cuing  
+                  note: Habit associations arise through a process where the reward value of response outcomes becomes conditioned onto the associated context cues, motivating performance of the rewarded response when those cues are encountered.
+        principle2:
+          title: Principle 2 - Habits are not mediated by goals
+          note: Once formed, habits are performed without the mediation of a goal representation. This differentiates habits from more flexible, goal-dependent forms of automaticity.
+        principle3:
+          title: Principle 3 - Habits interface with goals within constraints  
+          note: Habits arise slowly from context-response learning and do not shift easily with current goals. However, within these constraints, goals can guide habit formation, habits can inform goal inferences, and habits and goals can interact to determine responses.
+    historical_context:
+      title: Historical Context
+      note: The model synthesizes diverse theoretical traditions on habits, automaticity, and goal-directed action control from across the 20th century.
+    implications:
+      title: Implications
+      note: The model raises new research questions about co-opting habits for different goals, forms of habit regulation, and tailoring behavior change interventions.

@@ -1,0 +1,68 @@
+root:
+  title: A New Look at Habits and the Habit-Goal Interface
+  children:
+    introduction:
+      title: Introduction
+      children:
+        habit_definition:
+          title: Habits are learned dispositions to repeat past responses triggered by context cues without mediation of goals
+        model_principles:
+          title: Three principles of the model
+          children:
+            context_cuing:
+              title: Habits are cued by recurring contexts that covaried with past performance
+              children:
+                direct_cuing:
+                  title: Direct cuing through context-response associations in procedural memory
+                motivated_cuing:
+                  title: Motivated cuing through transfer of reward value to contexts
+            no_goal_mediation:
+              title: Habit performance is not mediated by goals
+            habit_goal_interface:
+              title: Habits interface with goals within constraints
+    historical_perspective:
+      title: Habits in Historical Perspective
+      children:
+        behaviorism:
+          title: Ties to behaviorism and stimulus-response habits
+        cognitive_science:
+          title: Shift to cognitive science with purposive, top-down models
+        synthesis:
+          title: Current synthesis retains habit mechanisms with goal systems  
+    principle_1:
+      title: Principle 1 - Habits are cued by contexts
+      children:
+        context_cues:
+          title: Context cues include locations, preceding actions, other people
+        cuing_mechanisms:
+          title: Two possible cuing mechanisms
+          children:
+            direct_cuing:
+              title: Direct cuing through context-response associations
+            motivated_cuing:
+              title: Motivated cuing through incentive conditioning of rewards onto contexts
+    principle_2:
+      title: Principle 2 - Habits are not mediated by goals  
+      children:
+        goal_independence:
+          title: Habits exhibit goal-independent automaticity
+        habit_vs_goals:
+          title: Contrasts with variability of goal-dependent automaticity
+        evidence:
+          title: Evidence habits persist without available supporting goals
+    principle_3:
+      title: Principle 3 - Habits interface with goals within constraints
+      children:
+        constraints:
+          title: Habits form slowly and are insensitive to current goals
+        goal_habit_relations:
+          title: Goals can guide habit formation, be inferred from habits, and interact with habits
+    implications:
+      title: Implications
+      children:
+        habit_change:
+          title: Insights for changing habits
+        habit_regulation:
+          title: Possibilities for simple habit regulation without goals
+        goal_cooptation:
+          title: Established habits may be co-opted for new goals

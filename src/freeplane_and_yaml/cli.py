@@ -1,6 +1,6 @@
 import sys
 import os
-from .convert import convert_yaml_file  # Import your conversion logic
+from   freeplane_and_yaml.convert import convert_yaml_file  # Import your conversion logic
 
 
 def main():
@@ -31,10 +31,13 @@ def main():
     base_name = os.path.basename(input_file).replace(".yaml", ".mm")
     output_file = os.path.join(output_dir, base_name)
 
-    # Perform the conversion
+    # Perform the conversio
     try:
         convert_yaml_file(input_file, output_file)
         print(f"Conversion complete: {output_file}")
     except Exception as e:
         print(f"Error during conversion: {e}")
         sys.exit(1)
+
+if __name__ == "__main__":
+    main()

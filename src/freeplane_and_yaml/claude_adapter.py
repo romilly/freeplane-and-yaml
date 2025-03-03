@@ -4,6 +4,7 @@ from typing import Dict, Any
 from dotenv import load_dotenv
 import anthropic
 from .llm_adapter import LLMAdapter, DEFAULT_SCHEMA_PATH
+from .yaml_utils import extract_yaml_from_markdown
 
 # Load environment variables from .env file
 load_dotenv()
@@ -50,20 +51,18 @@ class ClaudeAdapter(LLMAdapter):
         with open(DEFAULT_SCHEMA_PATH, 'r') as f:
             schema = f.read()
             
-        # Construct a prompt for Claude
-        prompt = self._construct_prompt(text, schema)
-        
         # Make the API call to Claude
-        yaml_content = self._call_claude_api(prompt)
+        yaml_content = self._call_claude_api(text, schema)
         
         return yaml_content
     
-    def _call_claude_api(self, prompt: str) -> str:
+    def _call_claude_api(self, text: str, schema: str) -> str:
         """
-        Call the Claude API with the given prompt.
+        Call the Claude API with the text and schema.
         
         Args:
-            prompt: The prompt to send to Claude
+            text: The text content to convert to a mind map
+            schema: The JSON schema content
             
         Returns:
             The generated YAML content
@@ -73,81 +72,42 @@ class ClaudeAdapter(LLMAdapter):
                 model=self.model,
                 max_tokens=4000,
                 temperature=0.2,
-                system="You are an expert at creating structured mind maps in YAML format. Your task is to organize the provided text into a hierarchical structure that follows the schema exactly. Only output valid YAML without any explanations, markdown code blocks, or extra text.",
-                messages=[{"role": "user", "content": prompt}]
+                system="You are an expert at creating structured mind maps in YAML format. Your task is to organize the provided text into a hierarchical structure that follows the schema exactly. Every node must include both a title and a descriptive note providing context or details for that node. Only output valid YAML without any explanations, markdown code blocks, or extra text.",
+                messages=[{
+                    "role": "user", 
+                    "content": [
+                        {
+                            "type": "text", 
+                            "text": """I'd like you to summarise a document as a yaml file following a schema.
+
+Please respond with ONLY the YAML content that follows the schema, without any additional text or explanations.
+The YAML should have a root node with an appropriate title and organized children nodes that capture
+the key points and structure of the text.
+
+IMPORTANT: Every node (including the root and ALL child nodes) should include both a title AND a note. 
+The note should provide additional context, explanation, or details about that specific node."""
+                        },
+                        {
+                            "type": "text", 
+                            "text": f"Here is the schema to follow:\n\n{schema}"
+                        },
+                        {
+                            "type": "text", 
+                            "text": f"Here is the document to summarize:\n\n{text}"
+                        }
+                    ]
+                }]
             )
             
             # Extract the response content
             content = message.content[0].text
             
-            # Some basic preprocessing to ensure we get just the YAML
-            # Remove any markdown code block syntax if present
-            if content.startswith("```yaml"):
-                content = content.replace("```yaml", "", 1)
-                if content.endswith("```"):
-                    content = content[:-3]
-            elif content.startswith("```"):
-                content = content.replace("```", "", 1)
-                if content.endswith("```"):
-                    content = content[:-3]
-                    
-            return content.strip()
+            # Use the utility function to extract YAML from markdown
+            content = extract_yaml_from_markdown(content)
+                
+            return content
             
         except Exception as e:
             raise RuntimeError(f"Error calling Claude API: {str(e)}") from e
         
-    def _construct_prompt(self, text: str, schema: str) -> str:
-        """
-        Construct a prompt for Claude to generate a mind map.
-        
-        Args:
-            text: The text content to convert to a mind map
-            schema: The schema content
-            
-        Returns:
-            A prompt string for Claude
-        """
-        return f"""
-I need you to summarize the following text as a structured mind map in YAML format.
-Please follow the schema specification provided below exactly.
-
-# Schema:
-```json
-{schema}
-```
-
-# Text to summarize:
-```
-{text}
-```
-
-Please respond with ONLY the YAML content that follows the schema, without any additional text or explanations.
-The YAML should have a root node with an appropriate title and organized children nodes that capture
-the key points and structure of the text.
-"""
     
-    def _call_claude_api(self, prompt: str) -> str:
-        """
-        Call the Claude API with the given prompt.
-        
-        Args:
-            prompt: The prompt to send to Claude
-            
-        Returns:
-            The generated YAML content
-        """
-        # This would be replaced with actual API calls in a real implementation
-        # For example, using the Anthropic Python client library
-        
-        # import anthropic
-        # client = anthropic.Anthropic(api_key=self.api_key)
-        # message = client.messages.create(
-        #     model="claude-3-sonnet-20240229",
-        #     max_tokens=4000,
-        #     temperature=0.2,
-        #     system="You are an expert at creating structured mind maps in YAML format.",
-        #     messages=[{"role": "user", "content": prompt}]
-        # )
-        # return message.content[0].text
-        
-        pass
