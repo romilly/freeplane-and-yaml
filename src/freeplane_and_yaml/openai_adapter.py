@@ -16,7 +16,7 @@ class OpenAIAdapter(LLMAdapter):
     It makes API calls to OpenAI to generate mind maps from text.
     """
     
-    DEFAULT_MODEL = "gpt-4-turbo"  # Default OpenAI model to use
+    DEFAULT_MODEL = "gpt-4o"  # Default OpenAI model to use
     
     def __init__(self, api_key: str = None, model: str = None):
         """

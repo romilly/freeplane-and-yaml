@@ -1,5 +1,4 @@
 include README.md
 include LICENSE
-include freeplane_yaml/*.py
-include schema/mindmap-schema.json         # Include the specific JSON file
+include src/freeplane_and_yaml/schema/mindmap-schema.json
 

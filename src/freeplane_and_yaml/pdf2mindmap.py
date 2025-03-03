@@ -33,7 +33,7 @@ def main():
     )
     parser.add_argument(
         "--model", 
-        help="OpenAI model to use (defaults to gpt-4o-mini)"
+        help="OpenAI model to use (defaults to gpt-4o)"
     )
     parser.add_argument(
         "--save-text",

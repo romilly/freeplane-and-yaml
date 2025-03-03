@@ -13,6 +13,9 @@ setup(
     packages=find_packages(where="src"),  # Look for packages in src/
     package_dir={"": "src"},  # Root of packages is src/
     include_package_data=True,  # Include non-Python files listed in MANIFEST.in
+    package_data={
+        "freeplane_and_yaml": ["schema/*.json"],  # Include schema files
+    },
     install_requires=[
         "PyYAML",
         "python-dotenv",

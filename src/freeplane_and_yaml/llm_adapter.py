@@ -2,13 +2,18 @@ from abc import ABC, abstractmethod
 from typing import Dict, Any
 import os
 
-# Default schema path relative to the project root
-DEFAULT_SCHEMA_PATH = os.path.abspath(
-    os.path.join(
-        os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
-        "src", "schema", "mindmap-schema.json"
+# Default schema path - using a path that works both in development and when installed
+# First try the package-relative path (for installed package)
+DEFAULT_SCHEMA_PATH = os.path.join(os.path.dirname(__file__), 'schema', 'mindmap-schema.json')
+
+# If that doesn't exist, try the development path
+if not os.path.exists(DEFAULT_SCHEMA_PATH):
+    DEFAULT_SCHEMA_PATH = os.path.abspath(
+        os.path.join(
+            os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
+            "src", "schema", "mindmap-schema.json"
+        )
     )
-)
 
 
 class LLMAdapter(ABC):
