@@ -74,7 +74,7 @@ class OpenAIAdapter(LLMAdapter):
 
 Please respond with ONLY the YAML content that follows the schema, without any additional text or explanations.
 The YAML should have a root node with an appropriate title and organized children nodes that capture
-the key points and structure of the text. Aim to have one node per 20 lines of input text/
+the key points and structure of the text. Aim to have one node per 20 lines of input text.
 
 IMPORTANT: Every node (including the root and ALL child nodes) should include both a title AND a note. 
 The note should provide additional context, explanation, or details about that specific node.
