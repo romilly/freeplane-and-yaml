@@ -1,5 +1,3 @@
-import os
-import pytest
 import yaml
 from dotenv import load_dotenv
 from freeplane_and_yaml.openai_adapter import OpenAIAdapter

@@ -1,3 +1,16 @@
+"""
+Test module for the YAML to Freeplane mind map conversion functionality.
+
+This module tests the core conversion functionality of the freeplane-and-yaml package.
+It verifies that YAML files are correctly converted to Freeplane .mm files by:
+1. Converting a sample YAML file to a Freeplane mind map
+2. Comparing the generated mind map with an expected reference file
+3. Ensuring the structure (nodes, titles, notes) matches exactly
+
+The tests use a combination of fixtures to prepare the environment and helper
+functions to extract and compare the hierarchical structure of mind maps.
+"""
+
 import os
 import xml.etree.ElementTree as ET
 import pytest

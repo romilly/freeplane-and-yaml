@@ -1,12 +1,5 @@
 import os
-import warnings
-import pytest
 import pymupdf4llm
-
-# Suppress SWIG-related deprecation warnings
-warnings.filterwarnings("ignore", message="builtin type SwigPyPacked has no __module__ attribute")
-warnings.filterwarnings("ignore", message="builtin type SwigPyObject has no __module__ attribute")
-warnings.filterwarnings("ignore", message="builtin type swigvarlink has no __module__ attribute")
 
 
 def test_extract_text_with_sample_pdf():
