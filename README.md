@@ -13,10 +13,17 @@ That's a _friend link_ so you can read it even if you're not a subscriber.
 This project requires Python and should be run in a virtual environment:
 
 ```bash
-# Create and activate virtual environment in the direcoty of your choice
+# Create and activate virtual environment in the directory of your choice
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install freeplane-and-yaml
+```
+
+If you want to use the text-to-mindmap feature with Claude AI, additional dependencies will be installed automatically. You'll need to set up your Anthropic API key in a `.env` file or as an environment variable.
+
+```bash
+# Create a .env file in your project directory
+echo "ANTHROPIC_API_KEY=your_api_key_here" > .env
 ```
 
 
@@ -106,10 +113,64 @@ Your YAML file should follow this [schema](https://raw.githubusercontent.com/rom
 To convert a YAML file to a Freeplane mind map:
 
 ```bash
-
 # Convert YAML and store mind map in temp
 convert data/marr.yaml temp
 ```
+
+### Converting Text Directly to Mind Map
+
+You can convert text files directly to mind maps using Claude AI:
+
+1. First, set up your API key in a `.env` file at the project root:
+   ```
+   ANTHROPIC_API_KEY=your_api_key_here
+   ```
+
+2. Then use the `text2mindmap` command:
+   ```bash
+   # Convert a text file to a mind map
+   text2mindmap path/to/document.txt output_directory
+   
+   # Use a specific Claude model
+   text2mindmap path/to/document.txt output_directory --model claude-3-opus-20240229
+   
+   # Use mock adapter (no API calls, for testing)
+   text2mindmap path/to/document.txt output_directory --mock
+   ```
+
+This will:
+1. Process the text document with Claude AI
+2. Generate a YAML mind map representation
+3. Convert the YAML to a Freeplane mind map (.mm file)
+4. Save both files in the output directory
+
+### Converting PDF Documents to Mind Map
+
+You can also convert PDF documents directly to mind maps:
+
+1. Ensure your API key is set up in a `.env` file:
+   ```
+   ANTHROPIC_API_KEY=your_api_key_here
+   ```
+
+2. Use the `pdf2mindmap` command:
+   ```bash
+   # Convert a PDF file to a mind map
+   pdf2mindmap path/to/document.pdf output_directory
+   
+   # Choose a text extraction strategy
+   pdf2mindmap path/to/document.pdf output_directory --strategy pages
+   
+   # Also save the extracted text
+   pdf2mindmap path/to/document.pdf output_directory --save-text
+   
+   # Use mock adapter (no API calls, for testing)
+   pdf2mindmap path/to/document.pdf output_directory --mock
+   ```
+
+PyMuPDF4LLM is used to extract text from PDF files, converting the PDF content to markdown format for optimal structure preservation.
+
+This functionality uses PyMuPDF4LLM for text extraction and Claude AI for mind map generation.
 
 ### YAML Schema requirements explained
 
@@ -155,11 +216,15 @@ Here's an example of how the output looks:
 ## Features
 
 - Converts YAML structured data to Freeplane mind map format
+- Directly converts text files to mind maps using Claude AI
+- Converts PDF documents to mind maps using PyMuPDF4LLM and Claude AI
 - Supports hierarchical node structure
 - Includes node titles and optional notes
 - Automatically alternates between right and left positions for top-level nodes
 - Generates unique IDs for each node
 - Validates input against JSON schema
+- Hexagonal architecture design for easy extension with different LLM providers
+- Multiple text extraction strategies for PDF documents
 
 ## License
 

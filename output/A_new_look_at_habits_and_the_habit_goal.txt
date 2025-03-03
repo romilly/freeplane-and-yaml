@@ -1,0 +1,2274 @@
+Psychological Review Copyright 2007 by the American Psychological Association
+2007, Vol. 114, No. 4, 843–863 0033-295X/07/$12.00 DOI: 10.1037/0033-295X.114.4.843
+
+# A New Look at Habits and the Habit–Goal Interface
+
+## Wendy Wood and David T. Neal
+Duke University
+
+The present model outlines the mechanisms underlying habitual control of responding and the ways in
+which habits interface with goals. Habits emerge from the gradual learning of associations between
+responses and the features of performance contexts that have historically covaried with them (e.g.,
+physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the
+associated response without a mediating goal. Nonetheless, habits interface with goals. Constraining this
+interface, habit associations accrue slowly and do not shift appreciably with current goal states or
+infrequent counterhabitual responses. Given these constraints, goals can (a) direct habits by motivating
+repetition that leads to habit formation and by promoting exposure to cues that trigger habits, (b) be
+inferred from habits, and (c) interact with habits in ways that preserve the learned habit associations.
+Finally, the authors outline the implications of the model for habit change, especially for the selfregulation of habit cuing.
+
+_Keywords: habit, goal, automaticity, behavior change, self-regulation_
+
+
+Most of the time what we do is what we do most of the time.
+Sometimes we do something new (Townsend & Bever, 2001, p. 2).
+
+From the humdrum to the consequential, daily actions tend to be
+patterned into sequences that are repeated at particular times in
+customary places. If Townsend and Bever (2001) are correct, the
+majority of day-to-day living is characterized by repetition in this
+way.
+Empirical estimates of repetition in daily life come from signalcontingent experience-sampling diary investigations. Participants
+in these studies recorded once per hour for several days what they
+were doing, thinking, and feeling (Quinn & Wood, 2005; Wood,
+Quinn, & Kashy, 2002). In college student as well as community
+samples, about 45% of the behaviors participants listed in their
+diaries tended to be repeated in the same physical location almost
+every day. Substantial amounts of repetition in stable contexts also
+have been documented with other naturalistic paradigms. In Barker
+and Schoggen’s (1978) ecological analysis, observers from the
+Midwest Psychological Field Station obtained finely detailed recordings of children’s everyday activities in a small town. The
+researchers found a high degree of repetition in daily activities, and
+consistent with the diary studies, this repetition was linked to
+specific environments. Accordingly, Barker (1968) proposed that
+
+Wendy Wood and David T. Neal, Department of Psychology and
+Neuroscience, Duke University.
+We thank Jeffrey Quinn for his important contribution to early stages of
+this work. In addition, the manuscript was improved from the thoughtful
+commentary of Henk Aarts, Dolores Albarracı´n, John Bargh, Marilynn
+Brewer, Tanya Chartrand, Joel B. Cohen, Mark Conner, Anthony Dickinson, Alice H. Eagly, Scott Huettel, Bas Verplanken, and the students in the
+Duke Interdisciplinary Initiative in Social Psychology. This work was
+supported by the Social Science Research Institute at Duke University.
+Correspondence concerning this article should be addressed to Wendy
+Wood, Department of Psychology and Neuroscience, Duke University,
+Box 90085, Durham, NC 27708. E-mail: wendy.wood@duke.edu
+
+
+the most proximal predictor of responding is the behavior setting,
+defined as “standing patterns of behavior-and-milieu” (p. 19).
+Why do people repeat actions in contexts in this way? In the
+heyday of behaviorism, psychologists invoked associative learning
+mechanisms and stimulus–response (S-R) habits to explain repeated responding cued by recurring stimuli. More recently, social
+and personality psychologists have attributed consistency in responding to people’s goals, intentions, and other dispositions (e.g.,
+attitudes, personality) that lead them to value, and hence to pursue
+repeatedly, particular outcomes in particular contexts. In this article, we outline a synthetic theory that integrates habit responding
+with recognition of the essentially goal-directed nature of much
+human action. As we show below, habits are neither the simple
+S-R links advanced by some behaviorists nor the automatic expression of people’s goals. In our model, habits are subserved by
+a form of automaticity that involves the direct association between
+a context and a response but that interfaces with goals during
+learning and performance.
+
+### New Model of Habits in Brief
+
+Habits are learned dispositions to repeat past responses. They
+are triggered by features of the context that have covaried frequently with past performance, including performance locations,
+preceding actions in a sequence, and particular people. Contexts
+activate habitual responses directly, without the mediation of goal
+states. We decompose this definition into three principles that play
+out in the acquisition of habits and in their performance once
+acquired.
+The first principle in our model centers on the power of contexts
+to trigger habitual responding. That is, the automaticity underlying
+habits builds on patterns of covariation between features of performance contexts and responses—patterns that arise intentionally
+or unintentionally in the course of daily life. People form habits as
+they encode these context–response patterns in procedural memory. Once formed, the habitual response comes to be primed or
+
+
+843
+
+
+-----
+
+### 844 WOOD AND NEAL
+
+
+triggered by the perception of cues in the performance context.
+This process could be initiated by entering the physical setting in
+which the habit typically is performed, completing the response
+that typically precedes it, or encountering a person who typically
+is present. Thus, the first principle stipulates an outsourcing of
+behavioral control to context cues that were, in the past, contiguous with performance.
+We propose that the context cuing of habits arises in two
+possible forms. In the direct form, habit responding is activated by
+cold cognitive associations between context cues and responses,
+and in the motivated form, it is activated by the diffuse motivation
+that is tagged onto performance contexts when people repeatedly
+experience rewards for responding in those contexts.
+The second principle concerns the absence of goal mediation in
+the context–response associations that make up habits. Habits
+typically are the residue of past goal pursuit; they arise when
+people repeatedly use a particular behavioral means in particular
+contexts to pursue their goals. However, once acquired, habits are
+performed without mediation of a goal to achieve a particular
+outcome or a goal to respond (i.e., a behavioral intention). For
+example, purchase of a particular newspaper each morning with
+coffee initially is guided by the recruitment of a mental representation of a goal (e.g., acquiring information, wasting time). However, recruitment of this goal becomes progressively less necessary
+as newspaper purchase is repeated and becomes integrated with the
+morning coffee-purchase routine so that it can be triggered by
+relevant context cues (e.g., sight of the barista, act of ordering
+coffee). The second principle thus differentiates habits from more
+flexible, goal-dependent forms of automaticity, in which goals
+continue to mediate responses albeit in a manner that is automatic,
+implicit, and/or nonconscious. As we explain below, the distinction between these two forms of automaticity is evident at the
+behavioral level. Habitual responses are triggered rigidly by associated cues in the performance context, whereas responses guided
+by implicit goals are performed more variably and often depend on
+the activation of supporting explicit goals.
+The first two habit principles largely are compatible with folk
+concepts of habit performance. “I can’t help it, it’s just a habit,” is
+an excuse that people might offer for such cued behaviors as bad
+habits (e.g., chronic overeating) and action slips (e.g., accidentally
+driving to work when intending to go to the store). By offering
+such accounts, people perhaps are acknowledging that their responses are cued by performance contexts independently of what
+they intended to accomplish.
+On the basis of the first two principles, habit performance might
+seem an obligatory, reflexlike response to associated context cues.
+However, the third principle of our model delineates habits’ interface with goals and related dispositions. Habits arise from context–
+response learning that is acquired slowly with experience. As a
+result, habit dispositions do not alter in response to people’s
+current goals or occasional counterhabitual responses. Thus, habits
+possess conservative features that constrain their relation with
+goals. Within these constraints, goals and habits can direct each
+other. As we explain below, people’s goals can guide the formation of habit associations, and people can rely on habits to make
+inferences about their goals. Furthermore, when habits and goals
+are both present to guide action, they interact in their effects such
+that under some circumstances people respond habitually and
+under others they exert regulatory control to inhibit the cued
+
+
+response and perhaps perform a more desired one. Understanding
+of the habit–goal interface thus echoes dual-mode models that
+specify how automatic, associative processes interact with more
+controlled, rule-based processes (see Chaiken & Trope, 1999;
+Smith & DeCoster, 2000).
+These three principles provide the foundation for a host of new
+research questions. As we speculate at the end of this article, the
+habit–goal interface allows for established habits to be co-opted in
+the service of goals different from those that directed habit formation. Also, some simple forms of habit regulation might proceed
+without the use of goals as comparison standards. The model also
+offers new insights into established literatures, especially how to
+tailor behavior change interventions to maximize their impact on
+habits.
+
+### Habits in Historical Perspective
+
+Our model of habits and their interface with goals synthesizes
+diverse theoretical traditions that influenced theories of action
+control across the last century. The habit construct has strong
+historical ties to behaviorism, especially to Watson’s (1913) and
+Skinner’s (1938) radical behaviorism that famously eschewed cognitive and motivational mediators of behavior. These forms of
+behaviorism built closely on Thorndike’s (1898) notion of learning
+as the formation of a direct bond between some physical event or
+sensory input and a muscle response, so that the external stimulation reflexively comes to cause the response. The decline of this
+perspective in psychology is often traced to Chomsky’s (1959) and
+Mowrer’s (1960) famous critiques that highlighted the inadequacy
+of radical behaviorism’s reduction of complex human behavior,
+especially speech production and language, to a linear series of
+single S-R units.
+As the limitations of some behaviorist models of human functioning became apparent, a new era of cognitive science developed
+that rejected central assumptions of those models. Instead of locating the cause for behavior in the environment, the new perspectives situated causality in internal mental processes, specifically, in
+a hypothesized central executive controller (see Neisser, 1967).
+Cognitive science researchers also raised questions about the adequacy of associationism, central to behaviorist logic, in which
+sets of words, items, or mental representations can become associated through bottom-up processes in which perception of one
+element produces, generates, or arouses the other. With the view
+that associationism is “reductionist and mechanical and not in
+keeping with apparent complexities of human memory” (Mandler,
+2002, p. 334), cognitive science models shifted emphasis to focus
+on the purposive, top-down organization of perceptions and concepts.
+In the past decade, a broad social–cognitive–behaviorist synthesis has developed that incorporates key elements of the behaviorists’ toolbox within a framework of the inherently goal-directed
+nature of human action. As Bargh and Ferguson (2000) noted,
+cognitive models of executive control have been extended to
+include a favored behaviorist tool, the causal role of the environment. For example, in social cognitive models of automaticity,
+goal-dependent responding can be triggered by environmental
+stimuli. Another useful tool for behaviorism, learning through
+association, ultimately never fell out of favor among cognitive
+scientists. The formation of simple associations between individual
+
+
+-----
+
+A NEW LOOK AT HABITS 845
+
+
+concepts provides a foundation for connectionism and other cognitive theories of the development of large, complex systems of
+meanings (see Bower, 2000). Within social psychology, the logic
+of associationism forms the basis for many of the low effort,
+heuristic processes in persuasion, stereotyping, and person perception (see Smith & DeCoster, 2000). The present model further
+develops the emerging synthesis. It retains key features of habit
+mechanisms postulated by early S-R theorists, while drawing
+habits into dialogue with goal systems.
+
+### Habit Responses Are Cued by Contexts Without Mediation by Goals
+
+In our model, habits are repeated responses that come to be cued
+by recurring features of contexts (Principle 1) without mediation
+by a cognitive representation of a goal (Principle 2). Although we
+treat these principles as distinct for analytical purposes, we regard
+them ultimately as dual facets of a unified habit disposition. Each
+principle is necessary, and by itself, neither is sufficient to define
+habits. In this way, our definition aligns with classic treatments of
+habit dispositions. Most notably, William James (1890) proposed
+that habits are triggered spontaneously by sensory cues and preceding actions, and that this cuing proceeds without recourse to
+goal-related constructs of volition and will.
+In the next sections, we evaluate the empirical evidence for each
+principle separately as this evidence emerges across the relevant
+research literatures. Principle 1 situates habit cuing within the
+broader idea that responses can come to be triggered by context
+cues that have reliably accompanied prior performance. The empirical evidence for this facet of habitual responding comes predominantly from cognitive and neural models of the learning
+mechanisms that underlie repeated responding in contiguity with
+particular context cues. Principle 2 differentiates habit cuing from
+other goal-dependent forms of automaticity. The empirical evidence for this facet of habitual responding comes primarily from
+behavior prediction research, computational models of routine
+action, neuroimaging studies of automaticity, and animal learning
+paradigms.
+
+_Principle 1: Habits are cued by context._
+
+Context cues refer broadly to the many elements of the performance environment that potentially can recur as actions are repeated, including physical locations, other people, and preceding
+actions in a sequence. The first principle of our model reflects the
+generally accepted ideas that humans, like other animals, are adept
+at detecting these patterns of covariation and encoding them in
+mental representations that chunk contexts and responses. Contexts can then activate directly—that is, automatically and without
+recruitment of a mediating goal—performance of the response.
+This outsourcing of behavioral control to context cues captures the
+essence of Principle 1.
+The power of contexts to cue habit responding is evident in both
+laboratory and naturalistic paradigms (see Neal & Wood, in press).
+In laboratory settings, the historical covariation of context cues and
+responses is measured or manipulated in order to demonstrate the
+facilitating effects of contexts on the speed or accuracy of responding. Studies in this vein show that people encode and exploit,
+sometimes without conscious awareness, context–response co
+
+variation that is based on abstract visual cues (e.g. LaBar & Phelps,
+2005; Lewicki, Hill, & Bizot, 1988), prior responses in learned
+sequences (see Graybiel, 1998), and everyday objects associated
+with particular physical motions (e.g., power gripping of hammers,
+precision gripping of keys; Tucker & Ellis, 2004).
+As we noted in the introduction to this article, naturalistic
+paradigms reveal substantial covariation between contexts and
+responses that can form the basis for outsourcing behavioral control. Naturalistic data also suggest that this context–response covariation confers causal power onto contexts in activating responses. In this regard, Wood, Tam, and Guerrero Witt (2005)
+studied everyday habits (e.g., reading the newspaper) of college
+students transferring to a new university. Suggesting the causal
+power of contexts, students’ habits were disrupted when the transfer altered specific features of the performance context for that
+behavior, and furthermore, students’ goals to respond were not
+able to account for this disruption.
+In sum, a variety of responses can be primed by a range of cues
+that have in the past reliably covaried with the response. Despite
+the extensive evidence that such cuing occurs, research has yet to
+identify the exact psychological mechanisms through which contexts activate associated overt responses. We consider below two
+possible forms of this cuing, which we call direct cuing and
+_motivated cuing (see Neal, Wood, & Quinn, 2006). As we explain_
+below, both provide promising, although as of yet somewhat
+unexplored, accounts of how people’s perception of context cues
+can produce habit performance. Understanding of habit cuing
+mechanisms is not yet sufficient to prefer one account over the
+other, and it may be that both function to some extent to promote
+habit performance.
+
+### Direct Cuing
+
+When directly cued, habits are represented in memory as direct
+context–response associations that develop from repeated coactivation of the context and response. That is, when the mental
+representation of a response (e.g., buckling seatbelt) is consistently
+activated in conjunction with representation of a context (e.g.,
+getting into a car), associative links gradually form between the
+two (e.g., buckling seatbelt � entering a car).
+The essential mechanism behind direct cuing involves the cognitive neural changes that result from repeated coactivation of
+responses and contexts (see Hebb, 1949). With repetition, incremental changes occur in relevant processors or neural assemblies
+in procedural memory, essentially tuning the processing elements
+in ways that facilitate the repeated aspects of responding to recurring features of performance contexts. This gradual development
+over repeated experience provides a selection mechanism for habit
+learning because only those patterns that are consistently and
+frequently repeated will be encoded in procedural memory in the
+form of habit associations (see Gupta & Cohen, 2002; McClelland,
+McNaughton, & O’Reilly, 1995).
+Simple coactivation plausibly explains how the perception of
+context cues activates a mental representation of a historically
+associated response. However, it is less clear how simple heightened cognitive accessibility drives overt habit responses. In one
+account, the activation of responding emerges via an ideomotor
+mechanism, which stipulates that the mere thought of a behavior
+tends to lead to performance of it (James, 1890). Thus, a context
+
+
+-----
+
+### 846 WOOD AND NEAL
+
+
+cue may directly activate an associated response via simple associative learning, and this activated response may then be enacted
+via an ideomotor mechanism. In a series of compelling demonstrations of ideomotor effects, Bargh, Dijksterhuis, and colleagues
+have shown that participants primed with the elderly stereotype
+walked slowly (Bargh, Chen, & Burrows, 1996), generated slow
+response latencies (Dijksterhuis, Spears, & Lepinasse, 2001), and
+displayed poor memory (Dijksterhuis, Bargh, & Miedema, 2000).
+However, in this research, activation of stereotypes and concepts
+by features of contexts influenced the expression but not necessarily the initiation of responding. As Bargh et al. (1996) noted,
+activation of the elderly stereotype decreased walking speed of
+participants who had already chosen to walk down the hall but did
+not lead them to initiate a new stereotype-linked response (e.g.,
+buying condos in Florida).
+The effects of concept activation can be compared with
+mimicry-based ideomotor movement effects that, in contrast, have
+been shown to initiate overt responding. For example, observation
+of other people’s movements appears to produce unintentional,
+nonconscious mimicry as a result of a common neural substrate
+that supports the perception and performance of action (i.e., mirror
+neurons, Rizzolatti, Fadiga, Gallese, & Fogassi, 1996; see also
+Chartrand & Bargh, 1999; Prinz, 1990). However, mimicry effects
+do not provide a sufficient account for habit cuing, given that
+habits can be triggered not only by movement but also by representations of such varied cues as locations, simple presence of
+others, and preceding responses that occurred contiguous with a
+response in the past.
+Thus, outside of ideomotor effects that arise from a common
+neural substrate for perceiving and acting, the direct cuing effects
+that have been identified to this point largely involve action
+representations influencing the form, or manner, of consciously
+intended action. It remains to be demonstrated whether the simple
+coactivation in direct cuing (e.g., representations of popcorn �
+movie theater) provides a sufficient impetus to initiate an overt
+habit response (e.g., actually purchasing the popcorn) as opposed
+to modifying an already initiated stream of action.
+
+### Motivated Cuing
+
+Habit associations also may arise through a process in which the
+reward value of response outcomes (e.g., positive affect from
+eating popcorn) is conditioned onto context cues (e.g., movie
+theater) that have historically accompanied the receipt of those
+rewards. We refer to this process as motivated cuing because
+context cues in this case carry hot motivational influence insofar as
+they signal opportunities to perform rewarded responses (see Neal
+et al., 2006). This analysis builds on instrumental learning theories
+in which habits develop as organisms learn context–response associations in order to obtain rewarding events (see Dickinson &
+Balleine, 2002). In brief, the logic of incentive conditioning suggests that when cues in the performance context are contiguous
+with a rewarded response, the reward value becomes conditioned
+onto the cues. Given sufficient repetition, the cues themselves then
+carry power to motivate the response because they signal an
+opportunity to acquire the associated reward. In this account then,
+contexts drive habit performance because past reward conditioning
+not only establishes cognitive context–response associations but
+also imbues the context with the motivational impetus for respond
+
+ing. Thus, it is possible that motivational cuing works to augment
+and enhance, rather than replace, context–response learning based
+on direct cuing.
+Models of how incentive conditioning can promote habit performance are developing in research on the neurotransmitter systems that scaffold response to reward. To illustrate, we focus on
+the neurotransmitter dopamine, although the full story of motivated cuing requires more than our necessarily brief account of
+dopaminergic function (see Dayan & Balleine, 2002). Dopamine
+acts in the nucleus accumbens, dorsal and ventral striatum, amygdala, frontal cortex, and perhaps other sites to promote learning of
+rewards to guide future behavior. Dopamine responses reflect a
+sort of prediction error sensitive to differences between expected
+and obtained rewards and to future expectations of reward (Montague, Hyman, & Cohen, 2004; Schultz, 2006). Thus, midbrain
+neurons in dopamine-rich areas emit a positive signal of brief,
+spiked activation to unexpectedly large rewards, limited or no
+activation to expected rewards, and a negative signal of decreased
+activity to unexpectedly small or absent rewards.
+Evidence of dopamine’s role in habit learning and performance
+comes largely from nonhuman research. However, the extension to
+humans is plausible given that habit performance involves phylogenetically primitive learning mechanisms that likely are shared
+across mammalian species. In support, neuroscientists have noted
+reassuringly equivalent forms of habit learning in humans and
+experimental animals that are mediated by common brain structures involving the basal ganglia (e.g., Packard & Knowlton,
+2002). Moreover, human imaging studies have demonstrated dopaminergic responses to abstract rewards of money as well as to
+appetitive rewards of food (O’Doherty, 2004). At least with respect to appetitive rewards, this activation is similar to that found
+with nonhuman samples (Montague et al., 2004).
+Dopamine response systems appear to make multiple contributions to habit formation and performance, including in the initial
+stamping-in of context–response associations in memory and in
+maintaining the incentive value of established context–response
+mappings. These dual roles are illustrated in the often-cited study
+by Mirenowicz and Schultz (1996) in which monkeys initially
+learned a task in which an environmental stimulus (e.g., a light)
+predicted a reward (e.g., a drop of juice) when they gave a
+response (e.g., pressed a lever). At the beginning of learning,
+activity in dopamine-rich areas of the monkey’s brain occurred just
+after receipt of the reward. Dopamine activation following a behavior that is being reinforced works retroactively to stamp in the
+still-active memory traces of the stimulus and the response. In this
+way, dopamine augments learning of context–response associations (see Wise, 2004). After several days of training, the animals
+had learned the task, and they reached for the lever as soon as the
+light was illuminated. Note that this repetition also shifted dopamine responding so that its effects were apparent proactively. That
+is, the dopamine response was no longer elicited by the reward
+itself but instead was activated to the earliest cue to the reward, the
+initial presentation of the light. Thus, with repetition, dopamine
+responses appeared to transfer from rewards to reward-predictive
+context cues.
+Although the mechanisms of the transfer of dopamine responding onto contexts have yet to be demonstrated with humans,
+neuroimaging studies have revealed a parallel phenomenon in
+which, as people practice probabilistic instrumental tasks, brain
+
+
+-----
+
+A NEW LOOK AT HABITS 847
+
+
+activation in dopaminergic areas increases in response to cues that
+signal opportunities to perform rewarded responses (see Knutson
+& Cooper, 2005). In addition, in research on dopamine-altering
+drugs like cocaine, incidental cues in the environments accompanying people’s past drug use apparently can reinstate the drug
+craving (see Kalivas & McFarland, 2003). In these ways, performance environments in which goals are reached or rewards are
+received may acquire the capacity to motivate historically associated responses.
+How does this motivational account of context cuing effects
+mesh with our claim that the context cuing underlying habits is not
+goal mediated? The motivational substrate for habit responding
+has unique properties that stem from it being a cumulative residue
+of consistently rewarded responding. That is, the motivation transferred onto predictive environmental cues is an accumulated value
+that is encoded as a part of the context in the learning of context–
+response associations and does not vary flexibly with changes in
+the current outcomes of responding (Daw, Niv, & Dayan, 2005).
+As a result, context cues provide only a relatively diffuse motivation for habit performance. As Daw et al. (2005) proposed, when
+habits form, the performance contexts of reward become associated with a cached value representing the summary of their longrun future value. This cached value develops through procedural
+learning and is supposedly independent of any specific outcome
+information. Thus, the motivational impetus that comes from incentive conditioning can be differentiated from goals, at least to
+the extent that goals represent particular desired outcomes.
+It is worth noting that incentive conditioning onto contexts is not
+the only reward mechanism that could underlie habit performance.
+Custers and Aarts (2005, 2007) proposed that with conditioning of
+positive affect onto cognitive representations of responses, the
+response representations acquire motivating properties. They speculated further that the mechanisms of such conditioning could be
+located in dopaminergic responding, as the experience of associations between behaviors and positive feelings excites brain structures that encode the behaviors’ general desiredness. Subsequent
+activation of such motivated response representations then instigates wanting to perform the response. Although Custers and Aarts
+interpreted positive affect as a property of the cognitive representation of goals, the evidence of the motivating properties of affective conditioning is equally amenable to a broader interpretation
+that does not involve specific goal representations. Within our
+habit model, the findings suggest that contexts can activate response representations on the basis of learning of contiguity, and
+response representations that acquire a broadly positive valence
+(similar to a cached value) as a result of affective conditioning can
+drive overt performance.
+To summarize motivated cuing, models of the neurotransmitter
+processes that underlie instrumental learning provide a mechanism
+by which the context cues reliably associated with response outcomes can come to motivate habit performance. Specifically,
+models of dopamine function can explain how the diffuse motivating properties of rewards are gradually transferred with habit
+formation onto the contexts of instrumental performance. These
+contexts then can energize the associated response. Additionally, it
+is possible that motivation is conferred onto the response representation, so that activating the representation is sufficient to drive
+overt performance (see Custers & Aarts, 2005, 2007).
+
+
+To summarize context cuing in general, the direct and motivated
+forms both provide potential accounts of the psychological substrate by which context cues trigger overt habit performance. In
+either form, repeated responses can be activated in memory by
+associated contexts, and the activated response representations can
+drive performance without requiring the mediating involvement of
+a goal. As we have characterized them, direct cuing represents a
+cold, nonmotivated process, whereas motivated cuing emerges
+from the value of the rewarding experiences associated in the past
+with contexts and responses. These two forms of habit cuing are
+grounded in separate research literatures in psychology, with direct
+cuing arising within social cognition and motivated cuing within
+neural models of reward learning in animals. Despite their differences, these forms of cuing both have the potential to provide a
+coherent account of the psychological processes that undergird
+habit development and performance. Our guess is that future
+theorizing on habit cuing will build further on, and perhaps integrate, both mechanisms.
+In presenting Principle 1, we described how perception of contexts can activate habit responses in memory and promote their
+overt performance. In the next section of the article, we explain the
+basis for our second principle, that goals do not mediate habit
+performance. In making this assertion, we draw on the widely
+accepted idea that goals can be represented in memory just as can
+other types of information (e.g., Kruglanski et al., 2002).
+
+_Principle 2: Habit context–response associations are not me-_
+diated by goals.
+
+According to our second principle, habit associations are not
+mediated by representations of goals. This claim builds on decompositional models of automaticity that allow automatic processes
+to exhibit multiple separable features that can be present in various
+combinations (Bargh, 1994; Moors & De Houwer, 2006). In the
+language of these approaches, habits can be categorized as a
+_goal-independent form of automaticity, given that habit perfor-_
+mance “does not depend on a goal for its occurrence” (Moors &
+De Houwer, 2006, p. 305). However, given that habits typically
+originate in goal pursuit, habit performance often inadvertently
+promotes goal-consistent outcomes. That is, although they are not
+goal mediated, habits may blindly carry out the work of the goal
+that initially prompted people to respond repeatedly and thus to
+develop the habit. Thus, habits may be goal directed in this
+restrictive sense, even though they are not goal dependent.
+In contrast to our model, habits sometimes have been defined as
+a form of goal-dependent automaticity (e.g., Aarts & Dijksterhuis,
+2000; Verplanken & Aarts, 1999). In this alternative view, habits
+are represented mentally as goal–action links that emerge when
+context cues activate a goal and thereby an associated action to
+achieve that goal. However, as we explain, the features of goaldependent automaticity do not correspond with the features of
+habit performance. In particular, automatic goal pursuit is characterized by variability in response rather than repetition of any
+particular behavioral means.
+Recognizing the flexibility inherent in automatic goal pursuit,
+Bargh and Barndollar (1996) argued that the environmental activation of goals yields “not a static behavioral response, but an
+automated strategy for dealing with the environment” (p. 461,
+italics in original). Building on this idea that goals convey a
+
+
+-----
+
+### 848 WOOD AND NEAL
+
+
+malleable, dynamic orientation, a principle of goal systems theory
+is substitutability in the means of goal pursuit (see Kruglanski et
+al., 2002). That is, to the extent that goals possess the property of
+equifinality (i.e., goals can be met through multiple means), then it
+is plausible that means of comparable expected value can be
+substituted for each other. Even strongly desired goals that stably
+characterize people’s motives do not necessarily yield stability in
+the particular means or responses involved in goal pursuit. Thus,
+activating a goal to be healthy might prompt people sometimes to
+forgo dessert and other times to take a walk.
+Research on automatic goal pursuit provides substantial evidence of variability in responses promoted by the activation of
+nonconscious goals. This variability emerges in part because responses to implicit goals are flexibly moderated by the explicit
+goals that people consciously are pursuing. For example, an implicitly activated goal, such as the desire to help others, that is
+inconsistent with a conscious goal, such as to be on time, appears
+to have little effect on responding (Macrae & Johnston, 1998).
+Variability in response also is characteristic of implementation
+_intentions, a form of automatic goals in which people plan to_
+perform a particular response upon encountering a particular cue.
+For example, Sheeran, Webb, and Gollwitzer (2005, Study 1)
+found that participants who had formed implementation intentions
+to study at particular places and times acted accordingly only if
+they explicitly endorsed the goal of studying. In a second study,
+participants were found to act according to their automated intentions to respond quickly at a task only if a broader achievementrelated goal had been primed outside of awareness (Sheeran,
+Webb, & Gollwitzer, 2005). Furthermore, in line with the idea that
+implicit goal effects depend on people’s explicit goals, the
+achievement goal prime in this study failed to influence performance speed by itself (i.e., when unaccompanied by an implementation intention to respond quickly), presumably because all participants had a conscious task goal of being accurate, and this
+overrode the impact of priming. In explaining this set of findings,
+Sheeran, Webb, and Gollwitzer (2005) noted that “the term ‘strategic’ captures an important feature of the automaticity in implementation intentions that is different to the automaticity associated
+with habits” (p. 96). Thus, automated intentions appear to produce
+the associated behavior primarily when supported by explicit
+goals. In general, although cases of conflict between explicit and
+implicit goals are not always resolved in favor of explicit ones
+(e.g., sometimes implicit goals impair explicit goal pursuit; Shah &
+Kruglanski, 2002), the dependence between implicit and explicit
+goals promotes variability in associated responses.
+In sharp contrast to the evidence that automatic goal effects are
+variable and depend on explicit goals, habit performance does not
+appear to depend on the availability or accessibility of a supporting
+goal in memory. Evidence that habits can be performed without an
+available supporting explicit goal comes from naturalistic studies
+predicting the frequency with which people perform everyday
+behaviors such as watching TV, purchasing fast food, driving a
+car, and recycling (see review in Ouellette & Wood, 1998; see also
+Ji & Wood, in press; Verplanken, Aarts, van Knippenberg, &
+Moonen, 1998). In a typical study, a regression model is constructed to predict future performance from the favorability of
+people’s behavioral goals and the strength of their existing habits
+(as reflected in frequency of past performance, see also Verplanken & Orbell, 2003). The standard result is that habit strength is an
+
+
+independent predictor of the extent to which people repeat activities. In a detailed exploration of this pattern, Ouellette and Wood
+(1998, Study 2) found that habit strength continued to predict
+future responses even in study designs that controlled for people’s
+(a) explicit behavioral goals, (b) perceptions of efficacy and control over performance, (c) self-concept as someone who performs
+the act or not, and (d) attitude accessibility, as assessed by reaction
+times to give attitude judgments. Thus, habit responses continue to
+be performed even in the absence of an available supporting
+explicit goal or other disposition (e.g., attitude accessibility).
+Additional evidence for the idea that habits are not a form of
+automatic goal pursuit comes from Neal, Pascoe, and Wood’s
+(2007) research that manipulated the accessibility of performance
+goals. In this research, participants formed habits in a probabilistic
+cue–response task involving the prediction of weather (rain versus
+shine) based on geometric shapes on tarot cards (see Knowlton,
+Mangels, & Squire, 1996). In the habit formation condition, participants learned by first guessing the outcome on each trial and
+then being presented with the correct outcome. To encourage
+reliance on habit-based procedural memory, participants in this
+condition also counted auditory tones. In the control condition,
+participants learned by simply observing the tarot cards and the
+weather outcome presented simultaneously, thus formulating declarative rules (e.g., circles indicate rain). Prior fMRI studies and
+studies with clinical populations have established that the feedback
+condition does in fact engage habit-based procedural memory,
+whereas the observational condition predominantly engages declarative memory (Knowlton et al., 1996; Poldrack et al., 2001).
+To evaluate whether habit performance depends on accessibility
+of a supporting goal, Neal et al.’s participants were primed after
+the initial learning phase with achievement goals or they were not
+primed, and then all participants were tested on their weatherprediction ability. Those in the control condition, in which learning
+involved declarative rules, performed significantly better on the
+test when the implicit achievement goal was made accessible (see
+similar pattern in Bargh, Gollwitzer, Lee-Chai, Barndollar, &
+Tro¨tschel, 2001). These participants apparently applied the task
+rules more accurately when they had an enhanced goal to perform
+well. However, those in the habit-based procedural learning condition performed significantly worse when the achievement goal
+was primed, a phenomenon reminiscent of choking effects on
+skilled performance (Baumeister, 1984). These results were replicated in a second study in which the achievement goal was
+activated explicitly through performance-contingent payment. The
+overall pattern of Neal et al.’s findings suggest that habits are a
+form of goal-independent automaticity, given that activation of a
+supporting goal did not facilitate habit performance.
+The alternative position, that habits are a type of goal-dependent
+automaticity, has been advanced through a creative series of studies by Aarts and colleagues on transportation and drinking habits.
+Aarts and Dijksterhuis (2000, Study 1) found that college students
+who frequently rode their bikes gave faster judgments about
+whether the bike was a realistic means of transport to a number of
+locations when they had been primed earlier with relevant transportation goals (e.g., going to class) than when they had not been
+primed with goals. In the researchers’ interpretation, cycling habits
+were shown to be goal dependent because cycling-related judgments were facilitated by goal activation. However, because the
+paradigm was limited to judgments, the findings plausibly reflect
+
+
+-----
+
+A NEW LOOK AT HABITS 849
+
+
+goal-activated explicit beliefs and judgments as opposed to procedural memory associations underlying habit performance. Closer
+to the study of actual habit responses is Sheeran, Aarts, et al.’s
+(2005) demonstration that activating goals to socialize can prompt
+students with a habit for alcohol consumption to sign a voucher for
+a free drink. However, signing the voucher presumably was not an
+element of participants’ typical drinking habits but instead was a
+novel action that, again, likely involved reflection and decisionmaking. Thus, in our view, the data do not show that participants’
+actual drinking habits were goal dependent. It remains to be seen,
+for example, whether activation of the socializing goal would
+prompt participants with strong drinking habits, upon leaving the
+experiment, to head for the bar at which they habitually drink.
+In summary, different patterns of responding appear characteristic of automated goal pursuit and habit automaticity. Performance guided by implicit goals often depends on currently held
+explicit goals, whereas habit performance does not do so. Implicit
+goal pursuit that shifts with changes in people’s explicit goals
+appears to yield variability in responding as opposed to the rigid
+repetition typical of habitual responses.
+
+### Role of Goals in Habit Models Across Psychology
+
+The idea that habit associations do not involve the mediation of
+goals is supported by findings from diverse areas across psychology. We briefly review here three relevant literatures: research on
+the neural systems underpinning repeated responding, computational models of the cognitive processes that underlie routine
+action, and animal learning studies of habitual and nonhabitual
+responding.
+In a typical neuroimaging study of habit formation, the neural
+correlates of task performance are monitored as participants repeat
+a motor task until it becomes habitual according to some behavioral criterion (e.g., absence of dual-task interference effects).
+Repetition and the consequent development of habitual control
+typically are associated with a significant redistribution of brain
+activity (see reviews in Jonides, 2004; Kelly & Garavan, 2005).
+Note that the neural correlates of habit development usually feature reduced activation in the prefrontal cortex (PFC) and increased reliance on subcortical structures including the basal ganglia and cerebellum. The PFC is considered critical to the selection
+and pursuit of goals (e.g., Banfield, Wyland, Macrae, Mu¨nte, &
+Heatherton, 2004; E. K. Miller & Cohen, 2001). Thus, evidence of
+the progressive disengagement of the PFC during habit formation
+is consistent with a shift away from goal-based control as responses are repeated into habits.[1]
+
+Also relevant to understanding the role of goals in habit performance are schema-based and connectionist models that describe
+the control of routine action. In theory, models that represent
+routine action in terms of cognitive schemas assume that all action
+is organized by goals (e.g., Cooper & Shallice, 2006; Norman &
+Shallice, 1986), whereas models that represent routines in connectionist networks eschew a goal-mediated structure for habitual
+responses (e.g., Botvinick & Plaut, 2004, 2006). However, Botvinick and Plaut (2006) argued that, in practice, even schema-based
+models accord limited significance to goals in executing routine
+responses. Schema model simulations represent a goal as a gating
+mechanism or negative precondition rather than as “a representation of a desired outcome that is matched against action effects as
+
+
+part of a process of means-ends analysis” (Botvinick & Plaut,
+2006, p. 923). Within schema models, goals assume a means–ends
+function only within alternative systems of action control designed
+for planning nonroutine actions (e.g., Norman & Shallice’s, 1986,
+supervisory attentional system). Thus, a range of computational
+models effectively simulate habit-based responding with only limited representation of goals and action outcomes.
+Animal learning research provides behavioral evidence for the
+independence of habits from goal systems. In the reinforcer de_valuation paradigm, when an animal has initially mastered an_
+instrumental response, such as a rat pressing a bar for a food pellet,
+performance depends on goal-relevant outcomes (see Dickinson &
+Balleine, 2002). For example, bar pressing will rapidly desist if the
+food pellet reinforcer is devalued by feeding the rat to satiation or
+by pairing the pellet with a toxin (e.g., Adams, 1982; Dickinson,
+Balleine, Watt, Gonzalez, & Boakes, 1995). However, if the response has been practiced to the point of being habitual, reinforcer
+devaluation ceases to have an immediate impact on response
+performance, suggesting that the response is not closely dependent
+on the value of its outcomes.[2]
+
+Animal studies of place learning in mazes also suggest a reduced role of goals along with an increased role of context as
+animals acquire habits (Packard, 1999; Packard & McGaugh,
+1996). Initially, rats navigate through a maze as if guided by a
+mental map of the location of the reward. Even if placed in a new
+starting position, they successfully navigate toward the reward
+location. However, with extended maze training, behavioral control shifts to be based on a series of S-R links that are triggered by
+context without appearing to encode the ultimate reward destination. If placed in a new starting position, rats with extensive
+training implement the context-cued turns appropriate for their
+typical starting position instead of the ones that lead to the reward.
+Thus, in animal paradigms of reward devaluation and place learning, habit performance appears to be guided by mental representations of associated contexts and responses rather than by the
+rewards that initially spurred performance.
+Despite the use of varied methods and theoretical frameworks,
+neuroimaging research, computational modeling, and animal
+
+1 Neuroimaging studies of the reduced engagement of the PFC with
+habit development typically focus on conscious–explicit goals and do not
+address nonconscious–implicit goal pursuit. Suggesting that these two
+forms of goal pursuit rely on essentially the same neural structures,
+Pessiglione et al. (2007) reported that supraliminally and subliminally
+presented monetary cues engage essentially the same basal forebrain systems. This supports the idea that reduced PFC engagement with habit
+formation signals reduced reliance on both conscious–explicit and
+nonconscious–implicit goal pursuit.
+
+2 Goal expectancies that develop with repetition provide a possible
+alternative account of the insensitivity of extensively trained responses to
+changes in reward value. That is, insensitivity could arise because stronger
+expectancies are formed with extensive than moderate training, and stronger expectancies are likely influenced less by episodes of devaluation.
+Countering this alternative explanation is research showing that insensitivity to reinforcer devaluation can be accelerated or delayed by lesions in
+habit-related brain systems (Coutureau & Killcross, 2003; Yin, Knowlton,
+& Balleine, 2004). Thus, habitual control, as indexed by insensitivity to
+reinforcer devaluation, can be manipulated in part independently of rates of
+repetition and presumably any associated repetition-based expectancies.
+
+
+-----
+
+### 850 WOOD AND NEAL
+
+
+learning studies converge upon a common conclusion: The neural,
+cognitive, and motivational substrates of action control appear to
+shift with repetition of responding and habit development so that
+performance is not mediated by goals.
+Thus far, we have outlined how habits are represented in the
+association between responses and recurring aspects of performance contexts (Principle 1), and how these associations are not
+mediated by goal representations (Principle 2). However, these
+principles do not imply that habits necessarily are implemented in
+a manner that is devoid of input from people’s goals. Instead, as
+delineated by the third principle of our model, habits interface with
+goal systems in certain limited ways.
+
+### Habits and Goals
+
+The habit–goal interface is constrained by the particular manner
+in which habits are learned and represented in memory. Specifically, the associative learning underlying habits is characterized by
+the slow, incremental accrual of information over time in procedural memory (see Graybiel, 1998; Packard & Knowlton, 2002;
+although also see Pasupathy & Miller, 2005). The slow time course
+of such learning is critical because it insulates habit dispositions
+against short-term changes in behavior that occur as people flexibly pursue their goals. Thus, habit dispositions undergo minimal
+change to reflect current goals or occasional counterhabitual responses. Only with extended repetition in stable contexts are
+behavior patterns likely to be represented in habit learning.
+Slow-learning, conservative memory systems, as exemplified in
+habits, appear to confer functional benefit for learning systems. By
+reflecting the recurring features of an organism’s past experiences,
+such systems shield existing knowledge against potential disruption from being overwritten or unduly distorted by new experience.
+
+
+For example, in McClelland et al.’s (1995) connectionist modeling, the problem of catastrophic interference, by which newly
+learned inputs significantly disrupt existing patterns of knowledge,
+occurred in models that did not incorporate slow-learning systems.
+With respect to habits, the functional benefits of insulating established learning from the vagaries of changing goals have been
+captured in Daw et al.’s (2005) computational model of reinforcement learning. This model incorporates complementary roles for
+habitual control versus goal-mediated (in their terms, cognitive,
+_goal-dependent) control. Habitual control is computationally sim-_
+ple; inflexible; and, as we explained in our description of motivated cuing, oriented toward the cached, cumulative value of a
+response. In contrast, goal-mediated control is computationally
+expensive, flexible, and dynamically sensitive to changes in goalrelevant outcomes. In Daw et al.’s dual system, each controller is
+suited to guide responding in specific circumstances, suggesting a
+unique functionality to conservative habit systems separate from
+more flexible, goal-mediated control.
+A critical implication of the representation of habits in slowlearning neural and cognitive systems distinct from goals is that
+habitual action control is not readily integrated with goal-based
+control systems. Thus, when guiding action, habits and goals do
+not form a unitary, averaged response disposition but instead
+combine in various ways that have the effect of retaining the
+integrity of the habit disposition. In the third principle, we outline
+three ways that the slowly acquired nature of habit associations
+constrains the interface between goals and habits.
+
+_Principle 3: Habits interface with goals._
+
+Figure 1 depicts the ways in which habits and goals interface
+according to the third principle of our model. In one form of this
+
+
+**GOALS DIRECT HABITS** **HABITS AND GOALS INTERACT**
+
+Habit learning:
+Direct/motivated Perceive cues
+cuing that activate YES Conflicting
+
+response goal?
+
+YES
+
+Direct/motivated YES
+YES YES NO cuing
+
+Response In contiguity
+repeated? with context? Self-control
+
+Not NO resources?
+
+NO performed
+NO LOW
+
+No habit
+learning Habitual
+
+No habit
+
+response
+
+learning
+
+**HABITS INFORM GOALS**
+
+_Figure 1._ Illustration of the interface between habitual and goal-based systems of action control as outlined in
+the third principle of the model. The left panel reflects how goals direct habit formation, the right panel reflects
+the interaction between goals and habits in guiding performance, and the arrow at the bottom reflects how habits
+inform goals, as when people infer goals and related dispositions from habit performance.
+
+
+-----
+
+A NEW LOOK AT HABITS 851
+
+
+interface, illustrated in the left side of the figure, habit responses
+operate in the service of goals. Typically, this form occurs because
+goals direct control of responses prior to habit formation and thus
+define the contexts under which a response is repeated into a habit.
+Goals also direct habits when they lead people to encounter contexts that themselves activate habitual sequences of responding.
+However, as we explain, the triggered habit may promote goal
+pursuit or may subvert it (e.g., action slips).
+A second way in which habits and goals work in concert to
+guide performance occurs when past habit responding informs
+people’s goals. This inference process is depicted in Figure 1 in the
+arrow running from the bottom right to the bottom left. Habits are
+informative in this way when people reflect on how they have
+acted in the past in order to make inferences about their goals and
+related dispositions, such as attitudes and personality traits.
+Finally, the interface also allows for habits and goals to interact
+in guiding action. This occurs when a habit disposition and goal
+disposition are both available to control a given response. The
+processes by which goals and habits interact are depicted in the
+right side of Figure 1. Because the slow acquisition of context–
+response associations precludes flexible integration of habits with
+current goals, the interaction reflects that responding generally is
+guided by one or the other disposition. Control of habit responding
+in favor of conflicting goals involves effortful self-control to
+override the automatically cued habitual response. Exerting such
+control depends on available regulatory capacity to inhibit the
+unwanted habit.
+
+### Habits in the Service of Goals
+
+_Goals spur habit learning._ Goals guide habits most fundamentally by providing the initial outcome-oriented impetus for response repetition. In this sense, habits often are a vestige of past
+goal pursuit. This is not to say that people’s habits always are in
+line with their goals. By definition, unwanted or bad habits are in
+conflict with goals, and furthermore action slips sometimes involve the performance of an unwanted habit as opposed to an
+intended response (Reason, 1990). However, given that habits
+often originate in goal pursuit, the outcomes of habits should
+generally accord with what people wish to achieve.
+The correspondence between habits and desired outcomes was
+demonstrated in Ouellette and Wood’s (1998) meta-analysis across
+33 studies, which revealed that habit strength (as reflected in
+frequency of past performance) was positively correlated with
+favorability of behavioral goals (r � .43, p � .01). Furthermore, in
+experience-sampling diary studies in which participants reported
+each time they wanted to change some response, strong habits
+proved to be a minority of the unwanted responses nominated for
+change, with only about one fourth of those mentioned being
+strongly habitual (Quinn, Pascoe, & Wood, 2007, Studies 1 and 2).
+Although these correlational patterns are consistent with the idea
+that habits originate in purposive action and hence tend to promote
+desired ends, in the following section (Habits Inform Goals), we
+address the possibility that such associations can reflect the reverse
+causal order in which people infer goals from habits.
+The goal-dependent process of habit learning can emerge
+whether or not a person explicitly intends to tie responses to
+context cues. Thus, in Figure 1, goals might direct habit learning
+when people repeatedly implement goals to respond to a particular
+
+
+context cue (e.g., skill learning, implementation intentions) as well
+as when they repeatedly implement goals to respond that do not
+specify contexts (e.g., implicit learning). In both cases, goals
+provide initial top-down control until the response is practiced into
+a habit and is cued by contexts in a bottom-up fashion.
+_1. Habit learning from goals to respond to a context cue._
+Goals to respond repeatedly to a given cue underlie much of skill
+acquisition, which involves people tailoring their responses to
+environmental events with the goal of perfecting their performance
+(e.g., feel dancing partner moving forward � move back; see
+Anderson, 1982). This phenomenon also is exemplified by implementation intentions, or plans to perform a response given a
+specific cue (Gollwitzer, 1999; e.g., “I will put my fork down after
+every bite”). By repeatedly enacting such behavioral goals in
+stable contexts, people plausibly are slowly acquiring the context–
+response associations by which responding can be cued without
+goal mediation.
+_2. Habit learning from goals to respond._ Habit learning also
+can originate in goals when people are not aiming to respond to
+any particular context cue. An extensive literature on implicit
+learning shows that while purposefully repeating actions, people
+learn associations between contexts and responses even when they
+could not plausibly have any goal to learn them (e.g., Cleeremans,
+Destrebecqz, & Boyer, 1998; Frensch & Ru¨nger, 2003). For example, in sequential response tasks, people detect—apparently
+without a goal or awareness—statistical relationships between
+contextual stimuli and responses and then use this information to
+guide responding. As illustrated in Lewicki, Hill, and Bizot’s
+(1988) classic study, participants indicated as quickly as possible
+when a stimulus shape appeared in one of the four quadrants of a
+computer screen. Unknown to participants, the position of the
+stimulus in some trials could be predicted by the order of preceding stimuli. As participants gained experience with the task, the
+speed and accuracy of their performance on predictable trials
+improved relative to unpredictable trials. Thus, participants were
+detecting the sequential context established by the preceding stimuli and were using it to facilitate their responding.
+In implicit learning studies, participants hold global goals to
+complete the experimental task as well as specific goals to perform
+task procedures (e.g., press the buttons), but the facilitating effects
+of specific cues (i.e., preceding stimuli) on responses cannot be
+produced by an explicit goal given that participants typically
+cannot report on the helpful response sequence (although see
+Shanks & St. John, 1994; Wilkinson & Shanks, 2004). Further
+suggesting that participants are not acting on a goal to respond to
+the specific patterns of covariation, the effect appears robust to
+manipulations of goals: Participants cannot refrain from expressing this learning during performance even when instructed to do so
+(Destrebecqz & Cleeremans, 2001), and participants’ performance
+fails to improve, at least on moderately complex sequences, when
+they are instructed to discover the covariation pattern (Jime´nez,
+Me´ndez, & Cleeremans, 1996). Thus, evidence of implicit sequence learning indicates that people incidentally can acquire
+specific patterns of context–response associations in the course of
+broader goal pursuit. The learned associations then can guide habit
+responses.
+_Goals leading people into contexts that trigger habits._ Habits
+also function in the service of goals when, during goal pursuit,
+people encounter context cues that trigger a habit. Habit perfor
+
+-----
+
+### 852 WOOD AND NEAL
+
+
+mance thus depends on a goal having led to the perception of
+relevant context cues. For example, the first steps in getting ready
+to drive to work in the morning may be too complex and variable
+to be rendered completely habitual. A person may pursue goals to
+organize the drive into work until he or she encounters a sequence
+of stable context cues (e.g., get into the car). At that point, a
+habitual sequence can be activated by the physical setting and by
+preceding actions, thereby largely obviating the need for control by
+goal systems. The habit component of this scenario is displayed in
+the right panel of Figure 1. During goal pursuit that brings people
+into a relevant context, the perception of relevant cues activates
+habit performance that then proceeds in a goal-independent manner.
+When goal pursuit enables access to triggering habit cues, goals
+are working hand in glove with habits—the former segueing into
+the latter within an ongoing stream of action. The nature of this
+transition is especially evident when the pursuit of a particular goal
+leads people to encounter context cues that trigger a goalinconsistent habit. In the action slips literature, such events are
+termed capture errors (Norman, 1981) or strong habit intrusions
+(Reason, 1990). They are defined as highly automated action
+sequences that are inadvertently triggered when a person intended
+another (less habitual) response. In Reason’s (1992) diary studies
+of everyday behavior, this kind of error constituted up to 40% of
+all action slips. Such habit intrusions were especially common
+when the habit shared “similar location, movements, and objects
+with the intended actions” (Reason, 1992, p. 82). For example, a
+person might set a goal to drive to the grocery store and, in doing
+so, encounter context cues (e.g., the car, familiar streets) that have
+become linked to his or her habitual drive to work. The cues might
+trigger an inadvertent trip to that destination rather than to the
+store. Such errors show how a goal state can work at the front end
+of a sequence of actions that results in activation of a habit. That
+the cued habit can be either consistent or inconsistent with the
+initiating goal reflects the nature of habit cuing. Because the
+initiating goal does not mediate habit operation, the habitual response is activated whether it diverges from the person’s initial
+aim or not.
+In summary, habits and goals can promote each other in the
+ongoing stream of everyday behavior. This interface is illustrated
+by instances in which habits work in the service of goals. For
+example, habits form as people repeatedly respond in contiguity
+with context cues, either because they purposefully undertake to
+give a response in a particular context or because they purposefully
+respond in ways that happen to be contiguous with features of
+performance contexts. In another example of the interface, habit
+performance is indirectly guided by goals when goal pursuit leads
+people to encounter contexts that activate a habitual response. In
+these ways, habit performance can be considered a downstream
+consequence of goal pursuit.
+
+### Habits Inform Goals
+
+There is good reason to believe that the causal pathway between
+goals and habits also can be reversed, so that people use their
+habits to infer goals and other personal dispositions to value
+particular response outcomes (e.g., attitudes, self-concept beliefs).
+The process of using habits to infer subsequent goals and dispositions is depicted in the arrow at the bottom of Figure 1. As we
+
+
+explain below, inferences of goals from habits are important because they may contribute to the regulation of habits with respect
+to desired outcomes, although the habit itself is not mediated by a
+goal representation.
+_Post hoc inferences from habits._ The propensity to make inferences from past behavior reflects basic properties of human
+cognition. Specifically, people often have limited introspective
+access to the causes of their thoughts and behavior (Nisbett &
+Wilson, 1977). When internal causal states are weak, ambiguous,
+or uninterpretable, people may be forced to draw inferences about
+such states from their own behavior and other external cues (Bem,
+1972). Furthermore, such inferences appear to be pervasive. People even infer humanlike dispositions from observations of the
+behavior of animals and inanimate objects (Epley, Waytz, &
+Cacioppo, 2007). The overall pattern is one in which people may
+have fairly limited insight into the causes of particular overt
+behaviors but nonetheless readily infer supporting goals and dispositions.
+This inference process is represented in computational models
+of routine action that allow for non-goal-mediated routine responding can give rise to goal representations. For example, in Sun,
+Slusarz, and Terry’s (2005) CLARION model, habitual responses
+that are controlled through bottom-up procedural knowledge can,
+over time, come to be represented in top-down rules via a ruleextraction-refinement algorithm. Similarly, Carver and Scheier
+(2002) discussed the possibility that goals develop in a bottom-up
+manner as emergent, self-organizing properties of dynamic systems rather than being imposed top down. As they explained,
+“dynamic processes at a low level may automatically (without
+intent) produce emergent patterns . . . with enough practice, the
+patterned information can be used top-down” (p. 312).
+Although people make inferences from habitual responses about
+their goals and other dispositions, they are not completely insensitive to the cued origins of such responses. Wood et al.’s (2002)
+diary research compared the inferences participants made from
+their habits with inferences from nonhabitual, presumably more
+goal-dependent, forms of responding. In such comparisons, habits
+were judged less a product of internal dispositions and relatively
+uninformative to others about the self. The tendency to make less
+certain self-inferences from habits as opposed to other behaviors is
+consistent with evidence that procedurally based habit memory
+contributes little to the behavioral autobiography on which the self
+depends (for a review, see Klein, German, Cosmides, & Gabriel,
+2004). This autobiographical self is thought to draw predominantly
+from the episodic component of declarative memory, thereby
+excluding procedurally based habits. Thus, people may underutilize habits as a basis for self-inferences.
+An alternative prediction, of substantial input from habits to the
+self-concept, comes from Lieberman and Eisenberger’s (2004)
+proposal that habits inform a distinct intuitive self that is not reliant
+on the behavioral memories provided through episodic memory.
+Supporting this idea, Lieberman, Jarcho, and Satpute (2004) reported that people making self-judgments in domains in which
+they had considerable experience, such as athletes judging themselves on athletic traits, showed activation of habitual control
+systems (i.e., basal ganglia, ventromedial PFC, amygdala, and
+lateral temporal cortex), whereas people making self-judgments in
+domains in which they had little experience, such as actors judging
+themselves on athletic traits, showed activation of nonhabitual
+
+
+-----
+
+A NEW LOOK AT HABITS 853
+
+
+control systems (i.e., dorsolateral PFC and hippocampus). The
+researchers argued that habits may inform a kind of implicit
+self-knowledge that is not reliant on episodic memory. It remains
+to be seen whether post hoc inferences of goals can be made on the
+basis of this implicit self-knowledge.
+It is thus unclear at present whether, as Lieberman and Eisenberger (2004) argued, habits are uniquely informative about people’s intuitive self or whether, as Wood et al.’s (2002) diary
+research and Klein et al.’s (2004) studies of episodic memory
+suggest, habits are relatively uninformative about the self-concept
+compared with other behaviors.
+_Self-regulatory implications of habits giving rise to goals._ The
+post hoc inferences that people make from their habitual responses
+are important because they provide a potential mechanism through
+which habits can be regulated in accordance with desired outcomes, even though the habit itself is not goal mediated. Within
+standard test–operate–test–exit models of self-regulation, goals
+provide a desired comparison standard against which current circumstances are tested (Carver & Scheier, 1998; G. A. Miller,
+Gallanter, & Pribram, 1960). When these tests indicate that behavioral outcomes deviate from those specified by a relevant goal,
+people operate on the behavior, or exert self-control, to bring it in
+line with the standard. In the next section of the article, we discuss
+the means by which people exert self-control over habits.
+In the case of habits, how could such testing processes unfold
+given the lack of goal mediation? If people observe their habitual
+behavior and impute plausible goals to those actions, then this post
+hoc goal inference may provide a comparison standard by which
+the habit can be regulated. The inferred goal may or may not be the
+one that originally motivated response repetition and habit formation. For example, a student with a habit to do homework on the
+computer after dinner may infer that the behavior reflects his or her
+strong academic achievement goals. Once inferred, the goal can
+then be used as a comparison standard in testing for goalinconsistent outcomes, such as surfing the Web. In this way, habits
+may be regulated via standard test procedures involving comparison with goals, even though a habitual response is not itself goal
+mediated.
+
+### Habits Interact With Goals to Guide Responses
+
+A third dimension of the habit–goal interface arises when responses are habitual and yet also directly related to a currently held
+goal state. In such cases, the slowly acquired context–response
+associations do not merge with the goal but instead the two
+dispositions interact in guiding behavior.
+When habits and goals dictate the same response, our model
+suggests that goals in effect are rendered epiphenomena, as action
+control is outsourced to context cues that reliably covaried with
+past performance. Behavior prediction research bears out such a
+pattern in which goals typically correspond with, but do not appear
+to guide, habitual responses. As we noted already, the standard
+finding in behavior prediction research is that the strength of
+people’s goals and the strength of their habits are each significant
+predictors of future performance. However, when goals and habits
+are considered jointly as predictors of future performance, they
+typically interact in their effects. The interaction reflects that goals
+do not predict future behavior when habits are moderate or high in
+strength. Instead, performance is a product of the strength of those
+
+
+habits. This interaction has emerged in predicting frequency of
+driving a car, recycling waste, donating blood, watching TV,
+exercising, voting in national elections, and purchasing fast food
+(Aldrich, Montgomery, & Wood, 2007; Ferguson & Bibby, 2002;
+Ji & Wood, in press; Ouellette & Wood, 1998, Study 2; Verplanken et al., 1998; Wood et al., 2005). The interaction also has been
+reported in a meta-analytic synthesis of condom use (Albarracı´n,
+Kumkale, & Johnson, 2002) and a synthesis of studies assessing
+various everyday behaviors (Ouellette & Wood, 1998, Study 1).
+Also relevant, habit strength has been found to moderate the
+effects of personal moral norms (Klo¨ckner, Matthies, & Hunecke,
+2003) and self-concept as someone who performs the behavior
+(Ouellette & Wood, 1998, Study 2, with respect to watching TV).
+The findings conform to a pattern in which morals and selfconcepts cease to predict behavior at moderate and strong levels of
+habit strength. Thus, behavior prediction research demonstrates
+that people can hold goals that are consistent with, but do not
+appear to guide, habitual responses.[3]
+
+Longitudinal evidence of the reduced role of goals with increasing habit strength comes from Baldwin et al.’s (2006) investigation
+of the determinants of quitting smoking among people voluntarily
+participating in an 8-week smoking cessation program. At the
+initial stages of quitting and during the early stages of maintenance
+(i.e., quitting for 3 consecutive months), participants’ success was
+predicted by aspects of their decision making and goals, including
+perceived efficacy of quitting and satisfaction with the outcomes
+of quitting. However, among the 13% of participants (n � 74) who
+had quit for 9 months after the end of the program, only the
+number of continuous months that they had successfully quit
+predicted whether they continued not to smoke at 15 months. As
+Baldwin et al. (2006) explained, “once people have been quit for
+a relatively long period of time, their behavior (i.e., not smoking)
+becomes a function of itself (i.e., a habit) and, thus, is less sensitive
+to variability in their beliefs” (p. 632).[4] This longitudinal design
+corroborates cross-sectional behavior prediction work in demonstrating that, once habits form, behavior is guided by the strength
+of those habits, and goals become epiphenomena.
+Habits and goals also have the potential to interact when the two
+dispositions conflict in their implications for action. Because habits represent the gradual accrual of context–response associations
+that are represented in a non-goal-dependent form, habits remain
+relatively intact in the face of new experiences and conflicting
+
+3 Goals’ failure to predict future behavior when strong habits have
+formed does not appear to be due to some weakness or uncertainty in the
+goal judgments. Ji and Wood (in press) found that people with stronger
+habits reported holding their intentions with greater certainty, even though
+these intentions did not predict future behavior independently of habit
+strength.
+
+4 Readers may wonder whether nonresponses, such as quitting smoking,
+can be considered habits. Many nonresponses do not fit the definition of
+habits because they do not represent any particular learned association
+between context cues and responses. However, nonresponses might possibly be considered habits when they reflect the formation of automatic
+associations between cues and repeated acts of response inhibition or
+between cues and alternative responses (e.g., chewing gum in response to
+a cue linked to one’s smoking habit). Such cue–response associations can
+be likened to those in studies addressing the learned extinction of goaldirected behaviors (see Bouton, 2000).
+
+
+-----
+
+### 854 WOOD AND NEAL
+
+
+current goals. Evidence that habits persevere even when in conflict
+with goals comes from Webb and Sheeran’s (2006) synthesis of 47
+studies using persuasive appeals and other interventions to change
+people’s behavioral goals. The central question was whether the
+interventions, which were selected because they significantly
+changed behavioral goals, would also change behavior. The answer depended on the habit strength of the behavior. Interventions
+that addressed behaviors conducive to habit formation, in that they
+could be performed frequently in stable contexts (e.g., seat belt
+use), yielded only minimal behavior change (d � 0.22, k � 35).
+However, interventions that addressed behaviors that were not
+conducive to habit formation (e.g., course enrollment) yielded
+more substantial behavior change (d � 0.74, k � 12). Thus, when
+people could form habits, they continued to perform the habitual
+response despite having adopted new behavioral goals.
+Behavior prediction and intervention studies thus converge in
+demonstrating the moderating impact of habit strength on the
+predictive power of goals. Once habits are formed, goals are either
+epiphenomena (when in concert with habits) or exert little moderating impact on actual behavior (when in conflict with habits).
+Even though goals appear to have limited influence when in
+conflict with established habits, people obviously can exert selfcontrol over many of their goal-inconsistent habitual responses. It
+is simply that with the behaviors studied in behavior prediction and
+intervention research, people typically do not do so. Limited
+self-control over everyday habits also is plausibly evident in selfregulatory failures that involve the repetition of unhealthful or
+otherwise unwanted behaviors (e.g., alcoholism, overeating, drug
+addiction). In these failures, people often are aware to some extent
+that their behavior deviates from desired standards. Baumeister
+and Heatherton (1996) thus concluded that people are in some
+sense complicit in many regulatory failures. As we explain, in the
+case of habits, complicity involves failing to operate, or exert
+self-control, over the offending habit so that it is inhibited in line
+with a conflicting goal.
+_Self-control over habits as opposed to other cued responses._
+One challenge to regulating habits is that they do not merge readily
+with conflicting goals, and therefore habit dispositions are not
+changed simply by adopting new goals or engaging in short-term
+behavior change. Instead, the means of effective regulation come
+from control over habit cuing.
+Controlling stimuli and responses to them is central to regulation of other types of cued responses, including visceral reactions
+(e.g., Loewenstein, 1996) and impulsive hot responses (Metcalfe
+& Mischel, 1999). However, the specific forms of such control that
+gain traction over affective and visceral responses are not necessarily the same as those that gain traction over habits. People can
+control visceral or emotional responses triggered by a stimulus by
+cognitively minimizing the affective qualities of cues. For example, in Metcalfe and Mischel’s (1999) research on delay of gratification, children were better able to delay gratification when
+actively reinterpreting a tempting food treat in a manner designed
+to reduce its affective qualities, such as likening marshmallows to
+clouds, or when distracting themselves, perhaps by thinking about
+something else.
+The cognitive strategies useful in controlling affectively based
+responses generally will be less successful with the direct cuing of
+habits. Given that habitual responses are directly activated by
+perception of cues, control of habits is not likely facilitated by
+
+
+altering affective properties of those cues. In fact, being distracted
+or otherwise preoccupied appears to promote the performance of
+unwanted habits, as evidenced in Reason’s (1990, 1992; see also
+Botvinick & Bylsma, 2005) work on action slips in everyday life.
+Furthermore, as we explain below, instead of inattention to the cue,
+high levels of vigilance to it appear to be effective at self-control
+of unwanted habit responses.
+In contrast to the cognitive methods used to control affective
+cuing of impulsive responses, the directly cued nature of habit
+responding is sensitive to two particular forms of cue control.
+These are (a) inhibiting the performance of the habitually cued
+response once it has been activated and (b) altering actual exposure
+to the cue so as to avoid initial triggering of that response. This
+latter strategy is likely to be an all-purpose means of cue control
+that works with habits as well as other cued responses (see Metcalfe & Mischel, 1999).
+_Inhibiting the performance of cued habit responses._ One way
+for people to control habit cuing is through sheer dint of will. That
+is, people may implement effortful control to override the habit
+disposition and prevent it from manifesting in behavior.
+_1. Effortful self-control to inhibit habits._ The capacity to inhibit habits appears to depend critically on people’s dynamic levels
+of self-control. Self-control can be considered a finite, domaingeneral resource that is depleted when people attempt effortfully to
+inhibit or override thoughts, emotions, and behaviors (e.g., Muraven & Baumeister, 2000). From this perspective, inhibiting habits requires sufficient regulatory capacity.
+Demonstrating the relation between self-control capacity and
+habit inhibition, Vohs, Baumeister, and Ciarocco (2005) found that
+participants who first engaged in a resource-depleting task, such as
+a Stroop color-naming task, subsequently were less able to override characteristic (i.e., habitual) self-presentations in interactions
+with others. This research also demonstrated that overriding habitual self-presentations, such as presenting oneself as having
+gender-inconsistent attributes, reduced ability to self-regulate in
+subsequent tasks that require self-control, such as physical stamina
+in maintaining a hand grip (see also Tice, Butler, Muraven, &
+Stillwell, 1995). Thus, fluctuations in self-control resources appear
+to impair the inhibition of habits, and conversely, the inhibition of
+habits appears to deplete self-control.
+More directly relevant to real-world habits, Neal and Wood
+(2007) conducted a daily diary study to investigate whether the
+impact of self-control depletion on habitual and nonhabitual behavior can impair both elements of successful self-regulation.
+Students identified a set of behaviors that they currently were
+attempting to implement (e.g., getting to class on time) and a set of
+behaviors that they were attempting to inhibit (drinking alcohol on
+weeknights), and their performance of these was monitored over a
+4-day period. For 2 of the 4 study days, students’ self-control was
+reduced by requiring them to use their nondominant hand for a
+range of everyday activities, thereby imposing a sustained inhibitory drain. On the days when self-control was lowered in comparison to when it was not, participants were significantly more
+likely to fail at inhibiting habitual behaviors. In contrast, selfcontrol depletion had minimal impact on behaviors that participants wanted to implement as well as behaviors that they wanted
+to inhibit that were not habitual. Thus, comapred with the control
+of other behaviors, the inhibition of strong habits appears to
+depend upon the availability of sufficient self-control capacity.
+
+
+-----
+
+A NEW LOOK AT HABITS 855
+
+
+Thus, self-control depletion appears to impair two facets of selfcontrol, involving the inhibition of existing habits and the implementation of new responses in place of familiar habits. These
+findings highlight the various ways that self-control capacity is a
+limiting factor in regulatory efforts to change habits.
+The inhibition of unwanted habits may be aided by the use of
+particular approaches to self-control. An avoidance strategy is
+especially suited to inhibition given that it involves monitoring for
+exposure to triggering cues, vigilant control to ensure that the
+response is not elicited, and focus on the negative outcomes of
+performing a habitual response (see Fo¨rster, Higgins, & Bianco,
+2003; Freitas, Liberman, & Higgins, 2002).
+Demonstrating the utility of avoidance in the context of inhibiting unwanted behaviors, Quinn et al. (2007, Study 2) conducted
+an experience-sampling diary study of people’s everyday attempts
+to change their responding. Participants reported each time they
+wished to change a thought, feeling, or behavior as well as the
+strategies they used to do so. Several days later, they reviewed
+their reports and rated the ultimate success of each change attempt.
+When change involved inhibiting a response rather than initiating
+one, participants were especially likely to report using avoidancetype strategies. Even more important, participants reported being
+more successful at inhibiting unwanted responses when using
+avoidance strategies rather than approach strategies that involved
+focusing on the desired response.
+Quinn et al. (2007, Study 3) also conducted a follow-up experiment to clarify the causal relations suggested by the diary research. The experiment modeled the inhibition of habits using a
+laboratory word-association task (following Hay & Jacoby, 1996).
+In this task, participants’ habit-based memories can be manipulated to be either in concert or in conflict with their intention-based
+memories. Replicating the findings from the diary study, Quinn et
+al. found that participants were most successful at inhibiting conflicting habits when instructed to use an avoidance strategy of
+being vigilant for errors and trying not to make mistakes by
+responding habitually to the memory cue. That is, avoidance was
+more successful than the approach strategy of striving to perform
+well and than a control condition in which participants were given
+no instructions. Furthermore, calculations of the amount of control
+exerted over responding indicated that an avoidance strategy disrupted habit performance by increasing successful exertion of
+control over responding rather than by reducing the influence of
+habit (see Hay & Jacoby, 1996).
+It remains to be seen precisely how avoidance strategies enhanced habit inhibition in Quinn et al.’s (2007) diary and experimental data. One possibility is that avoidance increases the likelihood that people recruit the counterhabitual goal rather than
+recruiting only the habitual response. Another possibility is that
+avoidance somehow increases inhibitory capacity or sharpens the
+efficiency of inhibitory efforts so as to reduce their regulatory
+drain.
+In summary, self-regulation of habits to align with goals can
+proceed through effortful inhibition of the cued response. This
+pattern reflects that goals gain little traction by themselves on the
+slowly accrued context–response associations that make up habits.
+Additional evidence of the effortful inhibition required for goals to
+control habit cuing comes from research demonstrating that habits
+are not readily regulated via automated behavioral goals that
+counter the habitual response.
+
+
+_2. Inhibition via automatically activated goals?_ In several
+studies, participants have automated goals that conflict with habits
+by forming implementation intentions linking context cues and
+habit-inconsistent responses (e.g., Betsch, Haberstroh, Molter, &
+Glo¨ckner, 2004; Holland, Aarts, & Langendam, 2006; Verplanken
+& Faes, 1999). Although this enables the cue–goal association to
+be activated alongside the habit response, in our perspective, the
+automatic goal should have limited impact in breaking or changing
+the habit.
+In evidence that automatic goals cannot break habits in this way,
+Betsch et al. (2004) established habits in a transportation game in
+which participants took certain subway routes to a final destination
+(see similar findings by Verplanken & Faes, 1999). After initial
+practice trials, Betsch et al. switched the correct routine, and
+participants were told to take alternative routes. Even though
+participants formed implementation intentions, so that they automated their new intentions by linking new routes to cuing events
+(e.g., to go to A-town, take blue line), they erred on about 50% of
+their responses by giving the previously practiced routes. Furthermore, participants’ errors occurred despite the fact that the counterhabitual implementation intentions were reinforced by performance-contingent payment.
+The alternative conclusion, that automatic intentions can break
+habits, was drawn by Holland et al. (2006) in a study of habits to
+dispose of plastic cups and paper. Across all participants, forming
+implementation intentions to recycle decreased the amount of trash
+thrown in the regular waste bins, thus apparently breaking habits of
+trash disposal. However, the analyses did not report the efficacy of
+implementation intentions as a function of participants’ initial
+trash-disposal habits. Thus, it is unclear whether this intervention
+succeeded in changing behavior for those with strong habits to
+throw trash in the waste bins. We would anticipate that automatic
+goals had traction primarily over weak habits. Change of strong
+habits should require sufficient regulatory resources to inhibit the
+habitual response and implement the goal-consistent one.
+Our proposal that habits can be regulated by control of cuing
+highlights a second set of regulatory mechanisms to promote goal
+pursuit in the face of conflicting habits. That is, control can arise
+from altering exposure to context cues so as to avoid initial
+triggering of associated habitual responses. Such a strategy is
+reminiscent of Metcalfe and Mischel’s (1999) analysis of delay of
+gratification in which children inhibit impulsive responses by
+reducing the salience of hot stimulus cues (e.g., obscuring a
+tempting food treat out of sight).
+_Altering exposure to context cues._ People’s narrative accounts
+of their own change attempts suggest the usefulness of altering
+exposure to cues in the performance environment. In Heatherton
+and Nichols’s (1994) research on everyday behavior change, approximately 36% of participants’ reports of successful change
+attempts involved moving to a new location, whereas only 13% of
+reports of unsuccessful attempts involved moving. Also, 13% of
+successful change reports involved some alteration in the immediate performance environment, whereas none of the unsuccessful
+reports involved such shifts in cues.
+Of more direct relevance to habits, behavior modification approaches have long recognized the benefits of altering performance contexts in order to disrupt habit cuing. For example,
+stimulus control is a component of addiction treatments in which
+addicts are trained to avoid situational triggers such as the loca
+
+-----
+
+### 856 WOOD AND NEAL
+
+
+tions of past use and the presence of other users (e.g., Witkiewitz
+& Marlatt, 2004). Typically, therapeutic habit change interventions
+rely on people’s effortful attempts to limit their exposure by
+altering or avoiding habit cues in their environment. Such attempts
+to alter cue exposure can themselves require exerting some level of
+self-control. After all, placing groceries out of sight in the kitchen
+may successfully reduce consumption by altering food cues (Sobal
+& Wansink, 2007), but it might require some effort to remember to
+do so and to inhibit snacking while placing them there.
+An alternative to intentional control over exposure to habit cues
+arises with naturalistic changes in life circumstances that alter the
+contexts in which people perform everyday habits. To illustrate
+this possibility, Wood et al. (2005) studied college students transferring to a new university. One month before and 1 month after
+the transfer, students were contacted to report on several everyday
+behaviors (i.e., exercising, reading the paper, watching TV). Some
+of the students reported that the transfer brought about changes in
+the performance context for these activities—including changes in
+locations (e.g., exercising at the gym) and interaction partners
+(e.g., reading the newspaper with one’s roommate). Whether participants maintained habits for performing these behaviors at the
+new university depended on the consistency of the performance
+context. Participants with strong habits at the old university who
+reported that the performance context did not change across the
+transfer also maintained their habits. For example, a regular pattern
+of reading the paper at the old university carried over to the new
+university. Furthermore, the carryover occurred regardless of students’ behavioral goals for reading the paper at the new university.
+However, participants with strong habits at the old university who
+reported that features of the performance context changed with the
+transfer did not maintain their habits. With a change in context,
+students apparently were spurred to think about their behavior, and
+despite their old habits, their actions came in line with their goals
+at the new university. In contrast, context changes did not matter
+for students with weaker habits; they acted on their goals both
+before and after the transfer. Additional analyses revealed that for
+those with strong habits, changes in behavior with the transfer
+could not be explained through the new contexts producing
+changes in goals (see Wood et al., 2005).
+In the naturalistic changes in life circumstances evaluated by
+Wood et al. (2005), people’s exposure to habit cues was altered by
+external forces that did not require regulatory efforts either with
+respect to avoiding triggering cues or with respect to inhibiting
+responses once cued. The serendipitous change in context appeared to liberate responses so as to be sensitive to goals, as
+evidenced by the influence of goals in guiding performance.
+In summary, when the outcomes of habitual responding conflict
+with outcomes that people wish to obtain, the slowly acquired
+context–response learning underlying habit dispositions does not
+shift readily in accord with people’s current goals. Instead, habits
+and goals interact such that one or the other guides responding. We
+identified two mechanisms through which people regulate unwanted habits in ways that promote goal pursuit. First, habits can
+be controlled through effortful inhibition of performance once
+triggered. Habit change as an inhibitory process depends on the
+availability of sufficient self-control resources. Second, habits can
+be controlled through altering exposure to the cues themselves, and
+altering cues sometimes may require self-control resources.
+Through these two regulatory mechanisms, habit cuing is disrupted
+
+
+so as to bring behavior in line with goals. We discuss these points
+further in the next section of the article, with respect to habit
+change interventions.
+
+### Summary and New Directions From the Habit Model
+
+We presented our model in the form of three principles. Specifically, habits are a form of slowly accrued automaticity that
+involves the direct association between a context and a response
+(Principle 1), so that the context can activate the response without
+the mediating involvement of a goal (Principle 2). Furthermore,
+habit development and performance interface with the purposive
+dimension of mental life as represented in people’s goals (Principle 3).
+The advantage of conceptualizing habits in this way is evident in
+the range of empirical findings accounted for by our model. These
+can be summarized in a core pattern in which the slowly accrued
+context–response associations, once established, guide performance repetition without depending on people’s current goals.
+This pattern plays out in various ways in people’s overt responses.
+Specifically, explicitly held goals to respond appear relatively
+unsuccessful at predicting subsequent habit performance (e.g.,
+Ouellette & Wood, 1998). Established habits also maintain despite
+changes in people’s goals to respond that are held explicitly (Webb
+& Sheeran, 2006) or that are automated through planning (Betsch
+et al., 2004). The habit pattern also is evident in neuroimaging data
+showing reduced reliance on goal-related brain systems during
+habit performance (e.g., E. K. Miller & Cohen, 2001). It also
+emerges in animal learning paradigms in which habit performance
+persists despite changes in goal-relevant outcomes (i.e., reinforcer
+devaluation studies, Dickinson & Balleine, 2002) or changes in the
+specific responses required to achieve goal outcomes (i.e., place
+learning studies, Packard, 1999). In these ways, habit dispositions
+are relatively insulated from the effects of adopting and pursuing
+new goals.
+The utility of our conceptualization of habits also is evident with
+respect to Principle 3’s articulation of the multiple ways in which
+habits can interface with goals. This interface takes particular
+forms that are constrained by the slowly accruing nature of
+context–response associations. First, habits can work in the service
+of goals. Consistent with the idea that people can form habits when
+they repeatedly pursue a particular means to a goal in a given
+context, habits typically remain correlated with and thus continue
+to serve people’s goals (e.g., Ouellette & Wood, 1998). We also
+speculated that people can, through goal pursuit, place themselves
+in contexts that cue habits. Second, people can infer goals from
+their habitual behavior, and they plausibly use these post hoc
+inferences in self-regulatory processes to guide habit responding.
+Third, goals and habits interact when both are present to guide
+performance. Specifically, when in concert with habits, goals tend
+to be epiphenomena in guiding behavior (e.g., Ouellette & Wood,
+1998). When in conflict with habits, goals by themselves have
+limited capacity to break habits, except when alterations occur in
+the cues that trigger habits (Wood et al., 2005) and when people
+exert effortful self-control to inhibit habit performance and, when
+desired, to implement new, goal-consistent behaviors (e.g., Neal &
+Wood, 2007; Quinn et al., 2007; Vohs et al., 2005).
+
+
+-----
+
+A NEW LOOK AT HABITS 857
+
+
+### Forms of the Habit–Goal Interface
+
+Our model provides a framework to generate new research
+questions concerning the ways in which habits and goals can
+interface in guiding action. Illustrating these new areas of inquiry
+is the variety of ways in which habits can act in the service of
+goals. For example, habitual context–response associations, having become decoupled from the originating goal, may be open to
+be co-opted in pursuit of alternative goals. That is, habits can come
+under the top-down control of new goals unrelated to those that
+initiated habit formation. Such co-opting might occur because
+there is no scope for interference between a new goal and the
+non-goal-mediated habit disposition.
+Experimental findings suggestive of co-opting of habits by goals
+come from task-switching research using a simple key-pressing
+skill acquisition task (Mayr & Bryck, 2005). This paradigm is ideal
+to reveal co-opting of habits because each cued press response
+could potentially meet multiple goals. Specifically, to indicate
+what computer key to press on a given trial, participants were
+given a rule or goal indicating movement across the keypad in a
+particular direction (e.g., clockwise, vertical). When participants
+had only a little practice, switching a rule across trials inhibited
+speed of responding. That is, participants responded more slowly
+to the rule to move clockwise (e.g., from the top right of the
+keypad to the bottom right) if the previous trial had involved the
+same key-press movement (e.g., from the top right to the bottom
+right) to the rule to move vertically. Goals for action were thus
+sticky, and responding in a given manner for one goal interfered
+with subsequent responding in the same manner for a different
+goal.
+When respondents were given extensive practice at Mayr and
+Bryck’s (2005) key-pressing task, their responding became habitual, and the goals no longer stuck to the cue–response association.
+For example, when participants did (versus did not) extensively
+practice a response under the vertical rule, their performance was
+facilitated when switching to using the response under a clockwise
+rule. Having just made a response enabled participants to make it
+quickly again, despite that the two responses were in service of
+different rules (goals). Although it is admittedly speculative, the
+idea that new goals can co-opt habits that produce a goal-relevant
+outcome follows from the lack of goal-mediation of the habit
+disposition. Having become decoupled from goal systems, habits
+do not suffer interference due to the original goal that formed the
+habit association. It also may be that this phenomenon contributes
+to instances of skill transfer (Barnett & Ceci, 2002). We suggest
+that this is just one of many unexplored ways that habits interface
+with goals while retaining the basic structure of context-cued
+responding.
+
+### Regulation of Habits
+
+Scholars historically have questioned the logic of habit performance without input from goals, because it is not clear how people
+would regulate such responses. Humans do not persistently perform habits entirely without regard to response outcomes, and thus
+habits must be subject to some form of regulatory processing. As
+G. A. Miller et al. (1960) argued, traditional S-R models fail to
+accommodate regulation because they lack a feedback process for
+determining whether actions are moving toward or away from
+
+
+some goal or desired outcome. In our new model, habits are
+regulated in part through their interface with goals. As we explained in Principle 3, even though goals may not be required to
+mediate habit performance, people can infer in a post hoc manner
+what goals might be served by their habits. We suggest that this
+inferred goal can then serve as the comparison standard posited by
+traditional test–operate–test–exit models, enabling tests for discrepancies between the inferred goal and the actual habit outcomes. People then can operate on the habit to better align responding with the inferred goal.
+The process of matching behavioral outcomes to inferred goals
+may be sufficient to account for many instances of habit regulation
+of habits. Nonetheless, it is also possible that some basic forms of
+regulation also can proceed entirely in the absence of goals. A
+plausible regulatory mechanism for habits and other forms of
+response that do not depend on goals is emerging from work on the
+neural basis of conflict detection. Apparently, people can identify
+errors in diverse forms of responding without a representation of
+the correct response or any feedback regarding the outcome of the
+action or representation of the correct, desired response (Botvinick, Braaver, Barch, Carter, & Cohen, 2001; Yeung, Botvinick, &
+Cohen, 2004). This capacity is thought to be subserved by the
+anterior cingulate cortex (ACC), which is an executive PFC circuit
+located on the medial surface of the frontal lobes.
+Activity in the ACC consistently increases following errors in
+choice reaction time tasks (e.g., Gehring, Goss, Coles, Meyer, &
+Donchin, 1993). Initially, this activation was thought to show that
+the ACC is responsible for detection of errors or mismatches
+between actual responses and intended, correct responses. More
+recently, imaging data and connectionist simulations have suggested that ACC activation during performance of these tasks is
+not signaling the detection of errors per se but rather the presence
+of conflicts between multiple activated responses (see Botvinick et
+al., 2001; Yeung et al., 2004). One consequence of ACC activation
+is reengagement of the PFC and more purposive, conscious guidance of action to address the conflicting response tendencies.
+Specifically, when the ACC detects the presence of multiple competing responses or the absence of any clear response option, it can
+signal an imminent error without directly assessing response accuracy or registering feedback regarding actual outcomes. Conscious control via goal-mediated systems can then be engaged to
+guide behavior in line with current goals.
+With respect to habits, conflict detection mechanisms may prove
+relevant when multiple responses are cued by a given context, as
+when people’s automated goals activate one response and habit
+dispositions another. In such cases, conflict detection mechanisms
+may signal the need for controlled processing simply by detecting
+the presence of two incompatible responses. Although it remains to
+be seen whether response conflict constitutes a broadly applicable
+mechanism of habit regulation, it has the potential to liberate
+theorizing about regulatory control from assumptions about comparison standards in the form of goals.
+
+### Habits and Implicit Goal Pursuit
+
+An additional question raised by the present framework concerns the conditions under which response repetition leads to habit
+formation. To this point, we have been silent about the factors that
+determine whether repetition leads to habit formation versus other
+
+
+-----
+
+### 858 WOOD AND NEAL
+
+
+forms of automaticity, especially automatic goal pursuit. Although
+we can only speculate on these processes, it seems plausible that
+any factors that ensure continued activation of a goal during
+learning of context–response associations will promote goaldependent automaticity over habits. When goals remain active
+during the development of automaticity, the associative structures
+that form through repetition are plausibly more likely to continue
+to incorporate goals rather than direct context–response associations as reflected by habits.
+What factors might promote the continued activation of goals in
+automated responding and thus undermine the transition to habitual forms of automaticity? Response complexity is one possibility,
+given that complex responses are likely to require continued reference to the goal to ensure effective performance. Our reasoning
+here draws on animal learning research that has explored the
+moderating effect of response complexity on habit development. In
+this literature, complex tasks are operationalized as ones in which
+an animal may “execute either of two different actions to obtain
+two different rewards” (Daw et al., 2005, p. 1705). In support,
+behavioral data suggest that complex responses continue to be
+sensitive to goal value, even given extensive training and hence
+opportunity for habit formation (Colwill & Rescorla, 1988).
+Another possible factor that might preserve goal activation,
+thereby hindering habit development, is the extent to which context cues are associated with few, rather than many, responses.
+This prediction builds off of the idea of goal equifinality, which
+reflects the extent to which a given goal is linked to multiple
+possible behavioral means (captured in the expression, “All roads
+lead to Rome”). In goal systems theory, the link between a goal
+and any one behavioral means is diluted in proportion to the
+number of other means to which the goal is linked (Kruglanski et
+al., 2002). Similarly, we suspect that the greater the numbers of
+behaviors linked to a given context, the lesser the capacity for the
+context to cue any one behavior directly. For example, cues such
+as one’s mother are associated with a number of different responses, potentially yielding conflict in responding that could be
+resolved by consulting relevant goals. Thus, the effects of cues
+associated with multiple responses are not plausibly explained
+through direct cuing and more likely are due to priming broad
+goals (e.g., Shah & Kruglanski, 2002).
+We speculate that attention to action is another factor that
+promotes activation of goals despite continued repetition. Neuroimaging data suggest that automatic responses that receive attention during execution are likely to engage systems involved in goal
+pursuit (i.e., PFC), even though the same automatic responses
+executed without attention fail to engage such systems (Jueptner et
+al., 1997; Rowe, Friston, Frackowiak, & Passingham, 2002).
+Therefore, responses that attract continued attention may, with
+repeated performance, be automated in ways that reflect this continued engagement of goals. Such conditions are likely to promote
+the formation of automatic goal pursuit as opposed to habits. The
+neuroimaging research on attention to automated action also has
+implications for broader understanding of automaticity (Neal &
+Wood, in press). Research paradigms that require participants to
+attend to what would otherwise be unattended responses could
+inflate the apparent goal dependence of the automated response
+and, in turn, underestimate the incidence of habits and other
+non-goal-dependent forms of automaticity.
+
+
+Only indirect evidence supports our speculations regarding the
+factors that promote automated goal pursuit as opposed to habits.
+Especially given that our reasoning has drawn predominantly from
+animal learning research and fairly low-level behavioral tasks,
+systematic investigation is needed to test our suggestion that
+continued activation of goals during repetition hinders habit learning and to determine whether the specific factors of response
+complexity, equifinality, and attention to action promote this continued activation.
+
+### Interventions for Habit Change
+
+Although our model broadly addresses the psychological mechanisms underlying habit formation and performance, we suspect
+that its principles will be tested most extensively within the specific context of changing unwanted habits. Understanding how to
+design successful interventions to bring about changes in habits is
+of sharp interest, especially to clinical, health, and consumer
+psychologists.
+Our model offers a fresh approach to behavior change interventions by highlighting the mechanisms through which effective
+habit change is likely to be accomplished, in particular, by the
+control of habit cuing. Although systematic behavior change interventions undoubtedly involve a host of considerations in addition to cue control, we propose that this is a necessary component
+of the habit element of behavior change. In this spirit, we identify
+promising directions in control of habit cuing that could be elaborated into formal interventions to change habits.
+Our approach to habit change contributes to the emerging
+social–cognitive–behaviorist synthesis within psychology (see
+Metcalfe & Mischel, 1999). In classic behavior modification approaches, behavior change is instigated largely through manipulations of environmental contingencies (see Follette & Hayes, 2001).
+For example, treatment of addiction might include stimulus control
+through removing or avoiding people, places, and other stimuli
+that in the past have been associated with the reinforcing value of
+the addictive substance. With the cognitive revolution and shift to
+an internal causal locus for behavior, the focus of change interventions shifted accordingly. Following this tradition, many current models focus on changing people’s decision making about
+their actions (e.g., Simonson, 2005) or their beliefs about action
+outcomes and performance efficacy (e.g., expectancy–value models, Albarracı´n et al., 2003; health belief model, Glanz, Rimer, &
+Lewis, 2002; protection motivation theory, Floyd, Prentice-Dunn,
+& Rogers, 2000). Furthermore, the most popular model of habit
+change in clinical and health settings, the transtheoretical model
+(Prochaska, DiClemente, & Norcross, 1992), focuses broadly on a
+range of experiential and behavioral processes through which
+people can accomplish change in unwanted behaviors (e.g., selfreinforcement, social support), without giving any special priority
+to controlling cues in the performance context. According to our
+synthetic model, people can break habits by exerting control downstream of a habit cue, after exposure to the cue has activated the
+response in memory. Such control is exemplified by effortful
+inhibition or suppression of the habitual response. Control also can
+occur upstream of the cue, before the response has been activated.
+Such control arises from decisions to avoid or alter the cue itself
+(e.g., reducing the habitual reading of new e-mail by disabling the
+
+
+-----
+
+A NEW LOOK AT HABITS 859
+
+
+autonotify option) or from exploiting naturally occurring changes
+in cues (e.g., as when changing jobs or moving houses).
+Control of habit cuing that is initiated downstream involves
+actively inhibiting the cued response. Such inhibition appears to be
+effortful and to draw on a limited regulatory resource (Neal &
+Wood, 2007; Vohs et al., 2005). In our research, inhibition was
+successful at overriding habit cuing especially when it took the
+form of avoidance involving vigilant monitoring for the unwanted
+automated response (Quinn et al., 2007). Avoidance focus appears
+to enhance controlled processes and thereby the effectiveness of
+inhibitory control.
+Avoidance is likely just one of a number of strategies that are
+effective at controlling habitual responses triggered by context
+cues. Other possibilities are suggested by behavior modification
+approaches, including counterconditioning or training to associate
+the triggering cue with a response that is incompatible and thereby
+conflicts with the unwanted habit. Although in naturalistic studies,
+performing an incompatible behavior did not appear to be an
+especially successful strategy for inhibiting unwanted responses
+(Quinn et al., 2007), it has proved useful in more structured change
+interventions (see Follette & Hayes, 2001).
+Effortful inhibition of responding is known to have a number of
+undesirable effects, and intervention strategies built simply on
+such inhibition are unlikely to be sufficient to bring about longterm change in habits. Although inhibition in our diary research
+was successful at changing everyday responses in the short run
+(e.g., Quinn et al., 2007), long-term inhibition has been found to
+increase negative affect, generate preoccupied thinking about the
+inhibited response (Polivy, 1998), and produce ironic effects involving increases in the unwanted responding (Wenzlaff & Wegner, 2000). In addition, it is unclear whether people can sustain
+effortful inhibitory efforts in daily life. People’s capacity to inhibit
+is reduced with everyday fluctuations in their self-control resources (Neal & Wood, 2007), and people have difficulty sustaining attempts to inhibit tempting behaviors that provide immediate
+pleasure despite being inconsistent with longer term goals (see
+Baumeister & Heatherton, 1996, on self-regulatory failures of
+overeating, alcoholism, etc.). Although discussion of the mechanisms by which people bolster their change efforts is beyond the
+scope of the present article, people potentially can use a variety of
+counteractive control strategies to foster adherence to long-term
+goals in favor of immediate temptations (e.g., self-imposed penalties, see Fishbach & Trope, 2005).
+We speculate that effortful inhibition contributes most productively to behavior change interventions when the suppression of
+habit performance is paired with learning and performing a new,
+desired response. That is, inhibition might be effective as a shortterm strategy to suppress a habitual response so as to enable a new,
+goal-consistent pattern of responding to be established. When the
+new response is repeated in contiguity with context cues, new
+habits might be formed. For example, a dieter’s effortful inhibition
+of his or her unhealthy eating habits may promote long-term
+behavior change only insofar as it creates a temporary window of
+opportunity in which to establish new, healthful eating patterns. In this
+view, the inhibition of habit cuing is a short-term means of control
+that, although perhaps unsustainable, enables the development of new,
+more desired patterns of response. However, we note that when newly
+learned associations override older ones (e.g., extinction), the new
+learning is inherently unstable such that the original learning may
+
+
+readily recur under a variety of circumstances (Bouton, 2000; Schmajuk, Larrauri, & LaBar, 2007).
+Control of habit cuing occurs upstream when people’s exposure
+to relevant context cues is altered or disrupted in some way. This
+control of cue exposure can result from deliberate decision making
+or from serendipitous changes in the habit performance context.
+With respect to deliberate decision making, interventions that
+promote avoiding contact with habit cues are widely used in the
+treatment of addictions (e.g., Witkiewitz & Marlatt, 2004). Also
+relevant to individual decision making, interventions that alter
+simple cues in eating contexts have been found successful in
+control of habits to overeat (Sobal & Wansink, 2007). For example, the amounts of food and drink that people serve and consume
+decrease with smaller sizes of plates, spoons, and glasses. Thus, by
+using small plates and utensils, people could take advantage of the
+fact that their habits for serving size are cued in proportion to
+container size, with only limited adjustment for the absolute sizes
+of the containers.
+Individual efforts to control habit cuing upstream of a behavior
+potentially suffer the drawbacks of lack of sustainability, preoccupied thinking, and ironic effects found with active inhibition.
+That is, attempts to alter or avoid exposure to habit cues may not
+reduce the need for people’s effortful control but simply relocate it
+to be needed earlier in the behavior stream. Altering or avoiding
+cuing in some cases involves sustained effortful self-control to
+identify the cues correctly and to avoid exposure to them. Like
+effortful inhibitory strategies, this effortful control of cue exposure
+is likely vulnerable to fluctuations in self-control resources and to
+ironic and other counterproductive effects that derail change efforts. Such efforts to control cue exposure, even though not sustainable themselves, could be effective to the extent that they
+provide people with opportunities to learn new responses.
+An alternative to effortful, deliberate control of cue exposure is
+provided by serendipitous changes in performance contexts that
+occur naturally as a function of life events. As illustrated in Wood
+et al.’s (2005) study of students transferring to a new university,
+when the transfer involved change in the cues that triggered habits,
+habit performance was disrupted, and students’ responses came
+under the control of their behavioral goals instead of their habits.
+By removing habit cues, the changes in performance circumstances promoted performance in line with people’s goals. Building on these findings, Verplanken and Wood (2006) proposed that
+naturally occurring changes in performance contexts such as moving houses or changing jobs can be treated as opportunities for
+habit change interventions. If people are best able to act on their
+goals when related habits are disrupted, then it is during these
+times that people’s overt responses are most likely to be vulnerable
+to change through persuasive messages and other informational
+interventions. The logic is to apply behavior change interventions
+when people are best able to respond. Illustrating how this might
+work, local governments seeking to increase use of public transport would target new residents who have yet to establish car use
+habits in their new locale and who are likely to be most susceptible
+to the information provided.
+In summary, interventions to break habits are best tailored to
+address the processes of habitual responding to cues. In this view,
+the often-seeming intractability of habitual behavior is partly a
+product of interventions that fail to accommodate the close dependence of habits on the contexts in which they are performed.
+
+
+-----
+
+### 860 WOOD AND NEAL
+
+
+Habits are not easily changed through persuasive appeals that
+target people’s goals. Instead, interventions to maximize habit
+change provide people with concrete tools for controlling habit
+cuing. One possibility is to exert short-term, effortful inhibition
+that plausibly creates a window of opportunity for establishing
+new, goal-consistent patterns of response. Another possibility is to
+alter or avoid exposure to cues, a strategy that can involve deliberate decision making or exploiting serendipitous changes in performance contexts. We see rich opportunities for development of
+these approaches to the control of habit cuing in behavior change
+interventions.
+In concluding this article, we note that despite promising initial
+returns, our new habit model is still in its early days. In this final
+section, we highlighted some new questions that flow from our
+approach. These include the variety of ways that goals interface
+with habit responding, in particular the possibility that goals might
+co-opt habits that serve similar ends to the goals. We speculated
+that this interface is made possible by the lack of a competing goal
+representation in context–response associations that comprise habits, which renders habits potentially compatible with multiple
+goals. We also raised the possibility that people can regulate habit
+performance through conflict-detection mechanisms involving the
+ACC that do not require the activation of goals and the matching
+of response outcomes to those goals. Although conflict signaled
+through competing response tendencies provides a promising
+mechanism for habit regulation, the specific application to habits
+has yet to be developed. We also raised questions about the
+conditions under which response repetition yields automatic goal
+pursuit as opposed to habits. We speculated that a variety of factors
+preserve the active role of goals in guiding performance during
+repeated responding, including response complexity, equifinality,
+and attention to action. Finally, we considered the implications of
+our model for interventions to change habits. We proposed that
+these are most effective when they address the cuing of habit
+performance, either through inhibiting habit responses once activated or avoiding or altering exposure to the cues. The current
+model provides a starting point for launching investigations into
+these questions.
+More generally, we have articulated a view of habits that moves
+beyond the behaviorists’ conception of simple S-R associations
+and places the habit construct within the broader structure of goal
+pursuit. In this approach, the habit construct retains its rigid,
+context-cued nature yet also interfaces with goals in ways that
+allow for mutual influence and for habits to be regulated in line
+with goals. In delineating the habit disposition in this way, our
+model provides a framework for understanding, predicting, and
+changing that unique component of everyday life in which behavioral control has been outsourced directly onto the context cues
+contiguous with past performance.
+
+### References
+
+Aarts, H., & Dijksterhuis, A. (2000). Habits as knowledge structures:
+Automaticity in goal-directed behavior. Journal of Personality and
+_Social Psychology, 78, 53–63._
+Aarts, H., & Dijksterhuis, A. (2003). The silence of the library: Environment, situational norm and social behavior. Journal of Personality and
+_Social Psychology, 84, 18–28._
+Adams, C. D. (1982). Variations in the sensitivity of instrumental respond
+
+ing to reinforcer devaluation. Quarterly Journal of Experimental Psy_chology B, 34, 77–98._
+Albarracı´n, D., Kumkale, G. T., & Johnson, B. T. (2002). Influences of
+_population and methodological factors on reasoning in condom use: A_
+_meta-analysis. Unpublished manuscript, University of Florida._
+Albarracı´n, D., McNatt, P. S., Klein, C. T. F., Ho, R. M., Mitchell, A. L.,
+& Kumkale, G. T. (2003). Persuasive communications to change actions: An analysis of behavioral and cognitive impact in HIV prevention.
+_Health Psychology, 22, 166–177._
+Aldrich, J. A., Montgomery, J., & Wood, W. (2007, April). Repeated
+_turnout as a habit. Paper presented at the Midwestern Political Science_
+Society Meeting, Chicago.
+Anderson, J. R. (1982). Acquisition of cognitive skill. Psychological Re_view, 89, 369–406._
+Baldwin, A. S., Rothman, A. J., Hertel, A. W., Linde, J. A., Jeffery, R. W.,
+Finch, E. A., & Lando, H. A. (2006). Specifying the determinants of the
+initiation and maintenance of behavior change: An examination of
+self-efficacy, satisfaction, and smoking cessation. Health Psychology,
+_25, 626–634._
+Banfield, J. F., Wyland, C. L., Macrae, C. N., Munte, T. F., & Heatherton,
+T. F. (2004). The cognitive neuroscience of self-regulation. In R. F.
+Baumeister & K. D. Vohs (Eds.), Handbook of self-regulation: Re_search, theory, and applications (pp. 62–83). New York: Guilford Press._
+Bargh, J. A. (1994). The Four Horsemen of automaticity: Awareness,
+efficiency, intention, and control in social cognition. In R. S. Wyer Jr. &
+T. K. Srull (Eds.), Handbook of social cognition (2nd ed., pp. 1–40).
+Hillsdale, NJ: Erlbaum.
+Bargh, J. A., & Barndollar, K. (1996). Automaticity in action: The unconscious as repository of chronic goals and motives. In P. M. Gollwitzer &
+J. A. Bargh (Eds.), The psychology of action: Linking cognition and
+_motivation to behavior (pp. 457–481). New York: Guilford Press._
+Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social
+behavior: Direct effects of trait construct and stereotype activation on
+action. Journal of Personality and Social Psychology, 71, 230–244.
+Bargh, J. A., & Ferguson, M. L. (2000). Beyond behaviorism: On the
+automaticity of higher mental processes. Psychological Bulletin, 126,
+925–945.
+Bargh, J. A., Gollwitzer, P. G., Lee-Chai, A., Barndollar, K., & Tro¨tschel,
+R. (2001). The automated will: Nonconscious activation and pursuit of
+behavioral goals. Journal of Personality and Social Psychology, 81,
+1014–1027.
+Barker, R. G. (1968). Ecological psychology: Concepts and methods for
+_studying the environment of human behavior. Stanford, CA: Stanford_
+University Press.
+Barker, R. G., & Schoggen, P. (1978). Measures of habitat and behavior
+output. In R. G. Barker & Associates (Eds.), Habitats, environments, and
+_human behavior: Studies in ecological psychology and eco-behavioral_
+_science from the Midwest Psychological Field Station, 1947–1972 (pp._
+229–244). San Francisco: Jossey-Bass.
+Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we
+learn? A taxonomy for far transfer. Psychological Bulletin, 128, 612–
+637.
+Baumeister, R. F. (1984). Choking under pressure: Self-consciousness and
+paradoxical effects of incentives on skillful performance. Journal of
+_Personality and Social Psychology, 46, 610–620._
+Baumeister, R. F., & Heatherton, T. D. (1996). Self-regulation failure: An
+overview. Psychological Inquiry, 7, 1–15.
+Bem, D. J. (1972). Self-perception theory. In L. Berkowitz (Ed.), Advances
+_in experimental social psychology (Vol. 6, pp. 1–62). New York: Aca-_
+demic Press.
+Betsch, T., Haberstroh, S., Molter, B., & Glo¨ckner, A. (2004). Oops, I did
+it again—Relapse errors in routine decision making. Organizational
+_Behavior and Human Decision Processes, 93, 62–74._
+Botvinick, M. M., Braaver, T. S., Barch, D. M., Carter, C. S., & Cohen,
+
+
+-----
+
+A NEW LOOK AT HABITS 861
+
+
+J. D. (2001). Conflict monitoring and cognitive control. Psychological
+_Review, 108, 624–652._
+Botvinick, M. M., & Bylsma, L. M. (2005). Distraction and action slips in
+an everyday task: Evidence for a dynamic representation of task context.
+_Psychonomic Bulletin and Review, 12, 1011–1017._
+Botvinick, M. M., & Plaut, D. C. (2004). Doing without schema hierarchies: A recurrent connectionist approach to normal and impaired routine sequential action. Psychological Review, 111, 395–429.
+Botvinick, M. M., & Plaut, D. C. (2006). Such stuff as habits are made on:
+A reply to Cooper and Shallice (2006). Psychological Review, 113,
+917–927.
+Bouton, M. E. (2000). A learning theory perspective on lapse, relapse, and
+the maintenance of behavior change. Health Psychology, 19(Suppl.),
+57–63.
+Bower, G. H. (2000). A brief history of memory research. In E. Tulving &
+F. I. M. Craik (Eds.), The Oxford handbook of memory (pp. 3–32). New
+York: Oxford University Press.
+Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior.
+New York: Cambridge University Press.
+Carver, C. S., & Scheier, M. F. (2002). Control processes and selforganization as complementary principles underlying behavior. Person_ality and Social Psychology Review, 6, 304–315._
+Chaiken, S., & Trope. Y. (Eds.). (1999). Dual-process theories in social
+_psychology. New York: Guilford._
+Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The
+perception-behavior link and social interaction. Journal of Personality
+_and Social Psychology, 76, 893–910._
+Chomsky, N. (1959). A review of B. F. Skinner’s “Verbal Behavior.”
+_Language, 35, 26–58._
+Cleeremans, A., Destrebecqz, A., & Boyer, M. (1998). Implicit learning:
+News from the front. Trends in Cognitive Sciences, 2, 406–416.
+Colwill, R. M., & Rescorla, R. A. (1988). The role of response-reinforcer
+associations increases throughout extended instrumental training. Ani_mal Learning & Behavior, 16, 105–111._
+Cooper, R. P., & Shallice, T. (2006). Hierarchical schemas and goals in the
+control of sequential behavior. Psychological Review, 113, 887–916.
+Coutureau, E., & Killcross, S. (2003). Inactivation of the infralimbic
+prefrontal cortex reinstates goal-directed responding in overtrained rats.
+_Behavioral Brain Research, 146, 167–174._
+Custers, R., & Aarts, H. (2005). Positive affect as implicit motivator: On
+the nonconscious operation of behavioral goals. Journal of Personality
+_and Social Psychology, 89, 129–142._
+Custers, R., & Aarts, H. (2007). In search of the nonconscious sources of
+goal pursuit: Accessibility and positive affective valence of the goal
+state. Journal of Experimental Social Psychology, 43, 312–318.
+Daw, N. D., Niv, Y., & Dayan, P. (2005). Uncertainty based competition
+between prefrontal and dorsolateral striatal systems for behavioral control. Nature Neuroscience, 8, 1704–1711.
+Dayan, P., & Balleine, B. W. (2002). Reward, motivation, and reinforcement learning. Neuron, 36, 285–298.
+Destrebecqz, A., & Cleeremans, A. (2001). Can sequence learning be
+implicit? New evidence with the process dissociation procedure. Psy_chonomic Bulletin and Review, 8, 343–350._
+Dickinson, A., & Balleine, B. (2002). The role of learning in the operation
+of motivational systems. In H. Pashler & R. Gallistel (Eds.), Stevens’
+_handbook of experimental psychology: Learning, motivation, and emo-_
+_tion (3rd ed., Vol. 3, pp. 497–533). New York: Wiley._
+Dickinson, A., Balleine, B., Watt, A., Gonzalez, F., & Boakes, R. A.
+(1995). Motivational control after extended instrumental training. Ani_mal Learning & Behavior, 23, 197–206._
+Dijksterhuis, A., Bargh, J. A., & Miedema, J. (2000). Of men and mackerels: Attention and automatic behavior. In H. Bless & J. P. Forgas
+(Eds.), Subjective experience in social cognition and behavior (pp.
+36–51). New York: Psychology Press.
+
+
+Dijksterhuis, A., Spears, R., & Lepinasse, V. (2001). Reflecting and
+deflecting stereotypes: Assimilation and contrast in impression formation and automatic behavior. Journal of Experimental Social Psychol_ogy, 37, 286–299._
+Epley, N., Waytz, A., & Cacioppo, J. T. (2007). On seeing human: A
+three-factor theory of anthropomorphism. Psychological Review, 114,
+864–886.
+Ferguson, E., & Bibby, P. A. (2002). Predicting future blood donor returns:
+Past behavior, intentions, and observer effects. Health Psychology, 21,
+513–518.
+Fishbach, A., & Trope, Y. (2005). The substitutability of external control
+and self-control. Journal of Experimental Social Psychology, 41, 256–
+270.
+Floyd, D. L., Prentice-Dunn, S., & Rogers, R. W. (2000). A meta-analysis
+of research on protection motivation theory. Journal of Applied Social
+_Psychology, 30, 407–429._
+Follette, W. C., & Hayes, S. C. (2001). Contemporary behavior therapy. In
+C. R. Snyder & R. Ingram (Eds.), Handbook of psychological change:
+_Psychotherapy process and practices for the 21st century (pp. 381–408)._
+New York: Wiley.
+Fo¨rster, J., Higgins, E. T., & Bianco, A. T. (2003). Speed/accuracy decisions in task performance: Built-in trade-off or separate strategic concerns? Organizational Behavior & Human Decision Processes, 90,
+148–164.
+Freitas, A. L., Liberman, N., & Higgins, E. T. (2002). Regulatory fit and
+resisting temptation during goal pursuit. Journal of Experimental Social
+_Psychology, 38, 291–298._
+Frensch, P. A., & Ru¨nger, D. (2003). Implicit learning. Current Directions
+_in Psychological Science, 12, 13–18._
+Gehring, W. J., Goss, B., Coles, M. G. H., Meyer, D. E., & Donchin, E.
+(1993). A neural network system for error detection and compensation.
+_Psychological Science, 4, 385–390._
+Glanz, K., Rimer, B. K., & Lewis, F. M. (2002). Health behavior and
+_health education: Theory, research and practice. San Francisco: Jossey-_
+Bass.
+Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of
+simple plans. American Psychologist, 54, 493–503.
+Graybiel, A. (1998). The basal ganglia and chunking of action repertoires.
+_Neurobiology of Learning and Memory, 70, 119–136._
+Gupta, P., & Cohen, N. J. (2002). Theoretical and computational analysis
+of skill learning, repetition priming, and procedural memory. Psycho_logical Review, 109, 401–448._
+Hay, J. F., & Jacoby, L. L. (1996). Separating habit and recollection:
+Memory slips, process dissociations, and probability matching. Journal
+_of Experimental Psychology: Learning, Memory, and Cognition, 22,_
+1323–1335.
+Heatherton, T., & Nichols, P. (1994). Personal accounts of successful
+versus failed attempts at life change. Personality and Social Psychology
+_Bulletin, 20, 664–675._
+Hebb, D. O. (1949). The organization of behavior: A neuropsychological
+_theory. Oxford, England: Wiley._
+Higgins, E. T. (1997). Beyond pleasure and pain. American Psychologist,
+_52, 1280–1300._
+Holland, R. W., Aarts, H., & Langendam, D. (2006). Breaking and creating
+habits on the working floor: A field-experiment on the power of implementation intentions. Journal of Experimental Social Psychology, 42,
+776–783.
+James, W. J. (1890). The principles of psychology. New York: Dover.
+Ji, M., & Wood, W. (in press). Habitual purchase and consumption: Habits
+and intentions guide behavior. Journal of Consumer Psychology.
+Jime´nez, L., Me´ndez, C., & Cleeremans, A. (1996). Comparing direct and
+indirect measures of sequence learning. Journal of Experimental Psy_chology: Learning, Memory and Cognition, 22, 948–969._
+
+
+-----
+
+### 862 WOOD AND NEAL
+
+
+Jonides, J. (2004). How does practice makes perfect? Nature Neuroscience,
+_7, 75–79._
+Jueptner, M., Stephan, K. M., Frith, C. D., Brooks, D. J., Frackowiak,
+R. S. J., & Passingham, R. E. (1997). Anatomy of motor learning. I.
+Frontal cortex and attention to action. Journal of Neurophysiology, 77,
+1313–1324.
+Kalivas, P. W., & McFarland, K. (2003). Brain circuitry and the reinstatement of cocaine-seeking behavior. Psychopharmacology, 168, 44–56.
+Kelly, A. M. C., & Garavan, H. (2005). Human functional neuroimaging of
+brain changes associated with practice. Cerebral Cortex, 15, 1089–
+1102.
+Klein, S. B., German, T. P., Cosmides, L., & Gabriel, R. (2004). A theory
+of autobiographical memory: Necessary components and disorders resulting from their loss. Social Cognition, 22, 460–490.
+Klo¨ckner, C. A., Matthies, E., & Hunecke, M. (2003). Problems in operationalizing habits and integrating habits in normative decision-making
+models. Journal of Applied Social Psychology, 33, 396–417.
+Knowlton, B. J., Mangels, J. A., & Squire, L. R. (1996, September). A
+neostriatal habit learning system in humans. Nature, 273, 1399–1402.
+Knutson, B., & Cooper, J. C. (2005). Functional magnetic resonance
+imaging of reward prediction. Current Opinion in Neurology, 18, 411–
+417.
+Kruglanski, A. W., Shah, J. Y., Fishbach, A., Friedman, R., Chun, W., &
+Sleeth-Keppler, D. (2002). A theory of goal systems. In M. P. Zanna
+(Ed.), Advances in experimental social psychology (Vol. 34, pp. 331–
+378). New York: Academic Press.
+LaBar, K. S., & Phelps, E. A. (2005). Reinstatement of conditioned fear in
+humans is context-dependent and impaired in amnesia. Behavioral Neu_roscience, 119, 677–686._
+Lewicki, P., Hill, T., & Bizot, E. (1988). Acquisition of procedural knowledge about a pattern of stimuli that cannot be articulated. Cognitive
+_Psychology, 20, 24–37._
+Lieberman, M. D., & Eisenberger, N. I. (2004). Conflict and habit: A social
+cognitive neuroscience approach to the self. In A. Tesser, J. V. Wood, &
+D. A. Stapel (Eds.), On building, defending and regulating the self: A
+_psychological perspective (pp. 77–102). New York: Psychology Press._
+Lieberman, M. D., Jarcho, J. M., & Satpute, A. B. (2004). Evidence-based
+and intuition-based self-knowledge: An fMRI study. Journal of Person_ality and Social Psychology, 87, 421–435._
+Loewenstein, G. (1996). Out of control: Visceral influences on behavior.
+_Organizational Behavior and Human Decision Processes, 65, 272–292._
+Macrae, C. N., & Johnston, L. (1998). Help, I need somebody: Automatic
+action and inaction. Social Cognition, 16, 400–417.
+Mandler, G. (2002). Organisation: What levels of processing are levels of.
+_Memory, 10, 333–338._
+Mayr, U., & Bryck, R. L. (2005). Sticky rules: Integration between abstract
+rules and specific actions. Journal of Experimental Psychology: Learn_ing, Memory, and Cognition, 31, 337–350._
+McClelland, J. L., McNaughton, B. L., & O’Reilly, R. C. (1995). Why
+there are complementary learning systems in the hippocampus and
+neocortex: Insights from the successes and failures of connectionist
+models of learning and memory. Psychological Review, 102, 419–457.
+Metcalfe, J., & Mischel, W. (1999). A hot/cool-system analysis of delay of
+gratification: Dynamics of willpower. Psychological Review, 106, 3–19.
+Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal
+cortex function. Annual Review of Neuroscience, 24, 167–202.
+Miller, G. A., Galanter, E., & Pribram, K. H. (1960). Plans and the
+_structure of behavior. New York: Henry Holt._
+Mirenowicz, J., & Schultz, W. (1996, February 1). Preferential activation
+of midbrain dopamine neurons by appetitive rather than aversive stimuli.
+_Nature, 379, 449–451._
+Montague, P. R., Hyman, S. E., & Cohen, J. D. (2004, October 14).
+Computational roles for dopamine in behavioural control. Nature, 431,
+760–767.
+
+
+Moors, A., & De Houwer, J. (2006). Automaticity: A theoretical and
+conceptual analysis. Psychological Bulletin, 132, 297–326.
+Mowrer, O. H. (1960). Learning theory and the symbolic processes. New
+York: Wiley.
+Muraven, M., & Baumeister, R. F. (2000). Self-regulation and depletion of
+limited resources: Does self-control resemble a muscle? Psychological
+_Bulletin, 126, 247–259._
+Neal, D. T., Pascoe, A., & Wood, W. (2007). Effortless perfection: Par_adoxical effects of explicit and implicit goals on habitual responding._
+Unpublished manuscript, Duke University, Durham, NC.
+Neal, D. T., & Wood, W. (2007). Automaticity in situ: Direct context cuing
+of habits in daily life. In J. A. Bargh, P. Gollwitzer, & E. Morsella (Eds.),
+_Psychology of action (Vol. 2): Mechanisms of human action. London:_
+Oxford University Press.
+Neal, D. T., Wood, W., & Quinn, J. M. (2006). Habits: A repeat performance. Current Directions in Psychological Science, 15, 198–202.
+Neisser, U. (1967). Cognitive psychology. New York: Appleton CenturyCrofts.
+Nisbett, R., & Wilson, T. D. (1977). Telling more than we can know:
+Verbal reports on mental processes. Psychological Review, 84, 231–259.
+Norman, D. A. (1981). Categorization of action slips. Psychological Re_view, 88, 1–15._
+Norman, D. A., & Shallice, T. (1986). Attention to action: Willed and
+automatic control of behavior. In R. J. Davidson, G. E. Schwartz, & D.
+Shapiro (Eds.), Consciousness and self-regulation (Vol. 4, pp. 1–18).
+New York: Plenum.
+O’Doherty, J. P. (2004). Reward representations and reward-related learning in the human brain: Insights from neuroimaging. Current Opinion in
+_Neurobiology, 14, 769–776._
+Ouellette, J. A., & Wood, W. (1998). Habit and intention in everyday life:
+The multiple processes by which past behavior predicts future behavior.
+_Psychological Bulletin, 124, 54–74._
+Packard, M. G. (1999). Glutamate infused post-training into the hippocampus or caudate-putamen differentially strengthens place and response
+learning. Proceedings of the National Academy of Sciences, 96, 12881–
+12886.
+Packard, M. G., & Knowlton, B. J. (2002). Learning and memory functions
+of the basal ganglia. Annual Review of Neuroscience, 25, 563–593.
+Packard, M. G., & McGaugh, J. L. (1996). Inactivation of hippocampus or
+caudate nucleus with lidocaine differentially affects expression of place
+and response learning. Neurobiology of Learning and Memory, 65,
+65–72.
+Pasupathy, A., & Miller, E. K. (2005). Different time courses for learningrelated activity in the prefrontal cortex and striatum. Nature, 433, 873–
+876.
+Pessiglione, M., Schmidt, L., Draganski, B., Kalisch, R., Lau, H., Dolan,
+R. J., & Frith, C. D. (2007, May 11). How the brain translates money
+into force: A neuroimaging study of subliminal motivation. Science, 316,
+904–906.
+Poldrack, R. A., Clark, J., Pa´re-Blagoev, J., Shohamy, D., Creso Moyano,
+J., Myers, C., & Gluck, M. A. (2001, November). Interactive memory
+systems in the human brain. Nature, 414, 546–550.
+Polivy, J. (1998). The effects of behavioral inhibition: Integrating internal
+cues, cognition, behavior, and affect. Psychological Inquiry, 9, 181–204.
+Prinz, W. (1990). A common coding approach to perception and action. In
+O. Neumann & W. Prinz (Eds.), Relationships between perception and
+_action: Current approaches (pp. 167–201). Berlin: Springer-Verlag._
+Prochaska, J. O., DiClemente, C. C., & Norcross, J. C. (1992). In search of
+how people change: Applications to addictive behaviors. American
+_Psychologist, 47, 1102–1114._
+Quinn, J. M., Pascoe, A., & Wood, W. (2007). Self-control of habits and
+_temptations: Data from the front lines of behavior change. Manuscript_
+under review.
+
+
+-----
+
+A NEW LOOK AT HABITS 863
+
+
+Quinn, J. M., & Wood, W. (2005). Habits across the lifespan. Unpublished
+manuscript, Duke University, Durham, NC.
+Reason, J. T. (1990). Human error. Cambridge, England: Cambridge
+University Press.
+Reason, J. T. (1992). Cognitive underspecification: Its varieties and consequences. In B. J. Baars (Ed.), Experimental slips and human error:
+_Exploring the architecture of volition (pp. 71–91). New York: Plenum_
+Press.
+Rizzolatti, G., Fadiga, L., Gallese, V., & Fogassi, L. (1996). Premotor
+cortex and the recognition of motor actions. Cognitive Brain Research,
+_3, 131–141._
+Rowe, J., Friston, K., Frackowiak, R., & Passingham, R. (2002). Attention
+to action: Specific modulation of corticocortical interactions in humans.
+_Neuroimage, 17, 988–998._
+Schmajuk, N. A., Larrauri, J. A., & LaBar, K. S. (2007). Reinstatement of
+conditioned fear and the hippocampus: An attentional-associative
+model. Behavioral and Brain Research, 177, 242–253.
+Schultz, W. (2006). Behavioral theories and the neurophysiology of reward. Annual Review of Psychology, 57, 87–115.
+Shah, J. Y., & Kruglanski, A. W. (2002). Priming against your will: How
+accessible alternatives affect goal pursuit. Journal of Experimental So_cial Psychology, 38, 368–383._
+Shanks, D. R., & St. John, M. F. (1994). Characteristics of dissociable
+human learning systems. Behavioral and Brain Sciences, 17, 367–447.
+Sheeran, P., Aarts, H., Custers, R., Rivis, A., Webb, T. L., & Cooke, R.
+(2005). The goal-dependent automaticity of drinking habits. British
+_Journal of Social Psychology, 44, 47–63._
+Sheeran, P., Webb, T. L., & Gollwitzer, P. (2005). The interplay between
+goal intentions and implementation intentions. Personality and Social
+_Psychology Bulletin, 31, 87–98._
+Simonson, I. (2005). In defense of consciousness: The role of conscious
+and unconscious inputs in consumer choice. Journal of Consumer Psy_chology, 15, 211–217._
+Skinner, B. F. (1938). The behavior of organisms: An experimental anal_ysis. New York: Appleton-Century._
+Smith, E. R., & DeCoster, J. (2000). Dual-process models in social and
+cognitive psychology: Conceptual integration and links to underlying
+memory systems. Personality and Social Psychology Review, 4, 108–
+131.
+Sobal, J., & Wansink, B. (2007). Kitchenscapes, tablescapes, platescapes,
+and foodscapes: Influence of microscale built environments on food
+intake. Environment and Behavior, 39, 124–142.
+Sun, R., Slusarz, P., & Terry, C. (2005). The interaction of the explicit and
+the implicit in skill learning: A dual-process approach. Psychological
+_Review, 112, 159–192._
+Thorndike, E. L. (1898). Animal intelligence: An experimental study of the
+associative processes in animals. Psychological Review Monograph
+_Supplement, 2, 1–109._
+Tice, D. M., Butler, J. L., Muraven, M. B., & Stillwell, A. M. (1995). When
+modesty prevails: Differential favorability of self-presentation to friends
+and strangers. Journal of Personality and Social Psychology, 69, 1120–
+1138.
+Townsend, D. J., & Bever, T. G. (2001). Sentence comprehension: The
+_integration of habits and rules. Cambridge, MA: MIT Press._
+
+
+Tucker, M., & Ellis, R. (2004). Action priming by briefly presented
+objects. Acta Psychologica, 116, 185–203.
+Verplanken, B., & Aarts, H. (1999). Habit, attitude, and planned behaviour:
+Is habit an empty construct or an interesting case of goal-directed
+automaticity? European Review of Social Psychology, 10, 101–134.
+Verplanken, B., Aarts, H., van Knippenberg, A., & Moonen, A. (1998).
+Habit versus planned behaviour: A field experiment. British Journal of
+_Social Psychology, 37, 111–128._
+Verplanken, B., & Faes, S. (1999). Good intentions, bad habits, and effects
+of forming implementation intentions on healthy eating. European Jour_nal of Social Psychology, 29, 591–604._
+Verplanken, B., & Orbell, S. (2003). Reflections on past behavior: A
+self-report index of habit strength. Journal of Applied Social Psychol_ogy, 33, 1313–1330._
+Verplanken, B., & Wood, W. (2006). Interventions to break and create
+consumer habits. Journal of Public Policy & Marketing, 25, 90–103.
+Vohs, K., Baumeister, R., & Ciarocco, N. (2005). Self-regulation and
+self-presentation: Regulatory resource depletion impairs impression
+management and effortful self-presentation depletes regulatory resources. Journal of Personality and Social Psychology, 88, 632–657.
+Watson, J. B. (1913). Psychology as the behaviorist views it. Psychological
+_Review, 20, 158–177._
+Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions
+engender behavior change? A meta-analysis of the experimental evidence. Psychological Bulletin, 132, 249–268.
+Wenzlaff, R. M., & Wegner, D. M. (2000). Thought suppression. Annual
+_Review of Psychology, 51, 59–91._
+Wilkinson, L., & Shanks, D. R. (2004). Intentional control and implicit
+sequence learning. Journal of Experimental Psychology: Learning,
+_Memory, and Cognition, 30, 354–369._
+Wise, R. A. (2004). Dopamine, learning, and motivation. Nature Reviews
+_Neuroscience, 5, 483–494._
+Witkiewitz, K., & Marlatt, G. A. (2004). Relapse prevention for alcohol
+and drug problems: That was Zen, this is Tao. American Psychologist,
+_59, 224–235._
+Wood, W., Quinn, J. M., & Kashy, D. (2002). Habits in everyday life:
+Thought, emotion, and action. Journal of Personality and Social Psy_chology, 83, 1281–1297._
+Wood, W., Tam, L., & Guerrero Witt, M. (2005). Changing circumstances,
+disrupting habits. Journal of Personality and Social Psychology, 88,
+918–933.
+Yeung, N., Botvinick, M. M., & Cohen, J. D. (2004). The neural basis of
+error detection: Conflict monitoring and the error-related negativity.
+_Psychological Review, 111, 931–959._
+Yin, H. H., Knowlton, B. J., & Balleine, B.W. (2004). Lesions of dorsolateral striatum preserve outcome expectancy but disrupt habit formation
+in instrumental learning. European Journal of Neuroscience, 19, 181–
+189.
+
+Received July 21, 2004
+Revision received June 14, 2007
+Accepted June 17, 2007 �
+
+
+-----
+
