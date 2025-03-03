@@ -1,0 +1,39 @@
+root:
+  title: Hexagonal Architecture
+  note: A Pattern for Sustainable Software Development
+  children:
+    definition:
+      title: Definition
+      note: Hexagonal Architecture, also known as Ports and Adapters, is an architectural pattern that allows an application to be equally driven by users, programs, automated tests, or batch scripts, and to be developed and tested in isolation from its eventual run-time devices and databases.
+    core_concepts:
+      title: Core Concepts
+      note: The pattern relies on a few key concepts
+      children:
+        ports:
+          title: Ports
+          note: Ports define the boundaries between the application and the outside world. They are the interfaces through which the application communicates with external systems or actors. There are two types of ports - Primary (driving) ports used by actors to drive the application, and Secondary (driven) ports used by the application to communicate with external systems.
+        adapters:
+          title: Adapters
+          note: Adapters implement the interfaces defined by the ports. They translate between the application and the external world. There are two types of adapters - Primary (driving) adapters that translate from external inputs to application inputs, and Secondary (driven) adapters that translate from application outputs to external outputs.
+        domain:
+          title: Domain
+          note: The domain represents the core business logic of the application. It is completely isolated from external concerns.
+    benefits:
+      title: Benefits
+      note: Hexagonal Architecture offers several benefits
+      children:
+        testability:
+          title: Testability
+          note: The domain can be tested in isolation without external dependencies.
+        flexibility:
+          title: Flexibility
+          note: Adapters can be swapped without changing the core logic.
+        maintainability:
+          title: Maintainability
+          note: Clear separation of concerns makes the code easier to maintain.
+        tech_independence:
+          title: Technology Independence
+          note: The domain is not tied to specific technologies.
+    implementation:
+      title: Implementation
+      note: To implement this pattern effectively - (1) Define your domain model first, (2) Create ports (interfaces) for interactions with external systems, (3) Implement adapters that fulfill these interfaces, (4) Use dependency injection to connect adapters with the application. This approach ensures that your business logic remains pure and focused on solving domain problems rather than technical concerns.
