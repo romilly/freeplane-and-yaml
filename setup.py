@@ -24,7 +24,7 @@ setup(
     python_requires=">=3.9", # Specify minimum Python version
 entry_points={
         "console_scripts": [
-            "convert=freeplane_and_yaml.cli:main",
+            "convert-freeplane_and_yaml.cli:main",
         ],
     },
 

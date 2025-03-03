@@ -1,21 +1,16 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Theory of Cerebellar Cortex" FOLDED="false" ID="ID_44660f95_c9ae_441a_a962_8899fdfcb5fd" CREATED="1739361894777" MODIFIED="1739449098004"><richcontent TYPE="NOTE">
+<node TEXT="A Theory of Cerebellar Cortex (Marr, 1969)" FOLDED="false" ID="ID_b7eca634_5456_42c7_83a6_a890e3887feb" CREATED="1740654243889" MODIFIED="1740654243889"><richcontent TYPE="NOTE">
 
 <html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font size="5">A detailed theory explaining how the cerebellum learns to perform motor skills through specific cellular architecture and synaptic modifications</font>
-    </p>
-  </body>
-</html>
-
+                <head/>
+                <body>
+                    <p>A computational theory explaining how the cerebellum learns to perform motor skills through synaptic modification.</p>
+                </body>
+            </html>
 </richcontent>
-<hook NAME="MapStyle" zoom="1.7">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false"/>
+<hook NAME="MapStyle" zoom="1.4">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -75,161 +70,185 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="Basic Cerebellar Structure" POSITION="right" ID="ID_d2df8466_4939_42d1_bff0_73dbe785f309" CREATED="1739361894778" MODIFIED="1739361894778"><richcontent TYPE="NOTE">
-
-<html>
-                    <head/>
-                    <body>
-                        <p>The cerebellum has two main types of input fibers and one output type, organized in a highly regular structure</p>
-                    </body>
-                </html>
-</richcontent>
-<node TEXT="Input Types" ID="ID_aae6ce1f_05ec_45c7_ac70_a7bf448a6409" CREATED="1739361894778" MODIFIED="1739361894778">
-<node TEXT="Climbing Fibers" ID="ID_cae736f0_5048_420d_8cc3_29f69174df53" CREATED="1739361894778" MODIFIED="1739361894778"><richcontent TYPE="NOTE">
-
-<html>
-                            <head/>
-                            <body>
-                                <p>From inferior olive, each connects to exactly one Purkinje cell. Provides teaching signal for learning.</p>
-                            </body>
-                        </html>
-</richcontent>
-</node>
-<node TEXT="Mossy Fibers" ID="ID_e8aa3dfe_56ce_44e2_8ef3_9403558a3abf" CREATED="1739361894778" MODIFIED="1739361894778"><richcontent TYPE="NOTE">
-
-<html>
-                            <head/>
-                            <body>
-                                <p>Connect to granule cells through glomeruli. Provide context information for learning.</p>
-                            </body>
-                        </html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Purkinje Cells" ID="ID_3aa67b7f_51f3_40af_b002_fc91fb30d3c1" CREATED="1739361894778" MODIFIED="1739361894778"><richcontent TYPE="NOTE">
+<node TEXT="Fundamental Concepts" POSITION="right" ID="ID_abe29bf7_3a28_4d5f_b9d0_9c2c456276c7" CREATED="1740654243890" MODIFIED="1740654243890">
+<node TEXT="Purpose of Cerebellum" ID="ID_0a86ddf3_3268_46e0_b08b_686b5b7bb69c" CREATED="1740654243890" MODIFIED="1740654243890"><richcontent TYPE="NOTE">
 
 <html>
                         <head/>
                         <body>
-                            <p>Form the only output from cerebellar cortex. Each receives one climbing fiber and many parallel fiber inputs.</p>
+                            <p>Learning motor skills so that incomplete cerebral commands can trigger complete execution.</p>
                         </body>
                     </html>
 </richcontent>
 </node>
-<node TEXT="Interneurons" ID="ID_6bc49396_622c_416e_a212_21f2f864980c" CREATED="1739361894778" MODIFIED="1739361894778">
-<node TEXT="Granule Cells" ID="ID_f2304ea9_6f0f_41c6_9318_8b125438b62f" CREATED="1739361894778" MODIFIED="1739361894778"><richcontent TYPE="NOTE">
+<node TEXT="Inferior Olive - Purkinje Cell Connection" ID="ID_c06e058b_7e61_4b3f_87ef_263e5a008d7f" CREATED="1740654243891" MODIFIED="1740654243891"><richcontent TYPE="NOTE">
+
+<html>
+                        <head/>
+                        <body>
+                            <p>One-to-one relationship between inferior olive cells and Purkinje cells via climbing fibers.</p>
+                        </body>
+                    </html>
+</richcontent>
+</node>
+<node TEXT="Learning Mechanism" ID="ID_8fb6588c_d9a5_4a97_ad79_7012f7323f97" CREATED="1740654243891" MODIFIED="1740654243891"><richcontent TYPE="NOTE">
+
+<html>
+                        <head/>
+                        <body>
+                            <p>Synapses from parallel fibers to Purkinje cells are facilitated by conjunction of presynaptic and climbing fiber activity.</p>
+                        </body>
+                    </html>
+</richcontent>
+</node>
+<node TEXT="Olivary Dictionary" ID="ID_84a0c677_f2ca_430d_9485_9bb4c13852dd" CREATED="1740654243892" MODIFIED="1740654243892"><richcontent TYPE="NOTE">
+
+<html>
+                        <head/>
+                        <body>
+                            <p>Each olivary cell corresponds to an 'elemental movement'; actions represented as sequences of firing patterns.</p>
+                        </body>
+                    </html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Cerebellar Architecture" POSITION="left" ID="ID_f29c3dcb_f7d9_4821_8bae_7a14318f0757" CREATED="1740654243892" MODIFIED="1740654243892">
+<node TEXT="Input Pathways" ID="ID_d94720e2_4ed4_44bb_90e4_059c3f4c62a0" CREATED="1740654243892" MODIFIED="1740654243892">
+<node TEXT="Mossy Fibers" ID="ID_16a354de_fc35_4699_a5cf_b316566292f3" CREATED="1740654243892" MODIFIED="1740654243892"><richcontent TYPE="NOTE">
 
 <html>
                             <head/>
                             <body>
-                                <p>Receive mossy fiber input and form parallel fibers. Transform input into codon representation.</p>
+                                <p>Provide context information via granule cells and parallel fibers.</p>
                             </body>
                         </html>
 </richcontent>
 </node>
-<node TEXT="Golgi Cells" ID="ID_0aed32da_4866_462c_8fdb_0fd64e27f209" CREATED="1739361894779" MODIFIED="1739361894779"><richcontent TYPE="NOTE">
+<node TEXT="Climbing Fibers" ID="ID_878aa126_633a_4e44_b94a_df92cc3bbaa7" CREATED="1740654243893" MODIFIED="1740654243893"><richcontent TYPE="NOTE">
 
 <html>
                             <head/>
                             <body>
-                                <p>Control granule cell threshold to regulate pattern separation.</p>
-                            </body>
-                        </html>
-</richcontent>
-</node>
-<node TEXT="Stellate Cells" ID="ID_d4f096ae_d34d_4629_b2cc_2991cf07f70b" CREATED="1739361894779" MODIFIED="1739361894779"><richcontent TYPE="NOTE">
-
-<html>
-                            <head/>
-                            <body>
-                                <p>Include basket cells. Provide threshold control for Purkinje cells.</p>
+                                <p>One-to-one connection with Purkinje cells; signal when elemental movement is required.</p>
                             </body>
                         </html>
 </richcontent>
 </node>
 </node>
+<node TEXT="Cell Types" ID="ID_704700c9_8e66_4160_a8e0_18d1de5576a1" CREATED="1740654243893" MODIFIED="1740654243893">
+<node TEXT="Purkinje Cells" ID="ID_2f6a0466_fd60_441b_8c2f_7f7f0c70d382" CREATED="1740654243893" MODIFIED="1740654243893"><richcontent TYPE="NOTE">
+
+<html>
+                            <head/>
+                            <body>
+                                <p>Learn contexts; form only output from cortex; inhibitory action.</p>
+                            </body>
+                        </html>
+</richcontent>
 </node>
-<node TEXT="Learning Mechanism" POSITION="left" ID="ID_a3d9e31c_3fab_4a84_ad98_05c8b08ce4b7" CREATED="1739361894779" MODIFIED="1739361894779">
-<node TEXT="Synaptic Modification" ID="ID_58196a00_76c9_4f7a_a6e8_1c5ad33299fc" CREATED="1739361894779" MODIFIED="1739361894779"><richcontent TYPE="NOTE">
+<node TEXT="Granule Cells" ID="ID_b2d46e13_9bf5_4be5_9e1b_fe8befc5aaac" CREATED="1740654243894" MODIFIED="1740654243894"><richcontent TYPE="NOTE">
+
+<html>
+                            <head/>
+                            <body>
+                                <p>Transform mossy fiber input into 'codon representation' via parallel fibers.</p>
+                            </body>
+                        </html>
+</richcontent>
+</node>
+<node TEXT="Golgi Cells" ID="ID_c80472e0_5d20_4993_b521_dce56ad13b9a" CREATED="1740654243894" MODIFIED="1740654243894"><richcontent TYPE="NOTE">
+
+<html>
+                            <head/>
+                            <body>
+                                <p>Regulate granule cell thresholds to control codon size based on input complexity.</p>
+                            </body>
+                        </html>
+</richcontent>
+</node>
+<node TEXT="Stellate Cells" ID="ID_b3b753ef_4449_45e3_9b69_471d875c7981" CREATED="1740654243895" MODIFIED="1740654243895"><richcontent TYPE="NOTE">
+
+<html>
+                            <head/>
+                            <body>
+                                <p>Include basket cells; set Purkinje cell thresholds based on parallel fiber activity.</p>
+                            </body>
+                        </html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="Operational Principles" POSITION="right" ID="ID_22ab8e4d_92bc_4817_9d63_8c4b984efb3f" CREATED="1740654243895" MODIFIED="1740654243895">
+<node TEXT="Codon Representation" ID="ID_1dee4f64_a09b_4fb7_a9bd_973373b065aa" CREATED="1740654243895" MODIFIED="1740654243895"><richcontent TYPE="NOTE">
 
 <html>
                         <head/>
                         <body>
-                            <p>Parallel fiber to Purkinje cell synapses are strengthened when active during climbing fiber input</p>
+                            <p>Transformation of mossy fiber input into small subset patterns for efficient storage and pattern separation.</p>
                         </body>
                     </html>
 </richcontent>
 </node>
-<node TEXT="Pattern Separation" ID="ID_d90cdc18_8e34_4ba0_95ca_b6c17a86599a" CREATED="1739361894779" MODIFIED="1739361894779"><richcontent TYPE="NOTE">
+<node TEXT="Types of Learning" ID="ID_fb4a8210_6de1_4f74_b5bd_4636650e5019" CREATED="1740654243896" MODIFIED="1740654243896">
+<node TEXT="Learned Movements" ID="ID_e57fb3fb_5ce2_454a_a498_238a4f79b1fa" CREATED="1740654243896" MODIFIED="1740654243896"><richcontent TYPE="NOTE">
 
 <html>
-                        <head/>
-                        <body>
-                            <p>Mossy fiber inputs are transformed into sparse codon representation by granule cells</p>
-                        </body>
-                    </html>
+                            <head/>
+                            <body>
+                                <p>Cerebrum initially organizes movements, cerebellum learns contexts for each elemental movement.</p>
+                            </body>
+                        </html>
 </richcontent>
 </node>
-<node TEXT="Codon Representation" ID="ID_f6210ac4_7c8d_41a4_846a_846a3e565da4" CREATED="1739361894779" MODIFIED="1739361894779"><richcontent TYPE="NOTE">
+<node TEXT="Learned Conditional Reflexes" ID="ID_ec05d2d7_c938_44f2_9f3b_a2de1b9ab49e" CREATED="1740654243897" MODIFIED="1740654243897"><richcontent TYPE="NOTE">
 
 <html>
-                        <head/>
-                        <body>
-                            <p>Input patterns are represented by small subsets of active granule cells</p>
-                        </body>
-                    </html>
+                            <head/>
+                            <body>
+                                <p>For posture and balance; activated by context, driven by receptors that form negative feedback loops.</p>
+                            </body>
+                        </html>
 </richcontent>
 </node>
 </node>
-<node TEXT="Types of Learning" POSITION="right" ID="ID_ec6aad62_9491_4d9f_8350_bf2d25ae7c49" CREATED="1739361894780" MODIFIED="1739361894780">
-<node TEXT="Learned Movements" ID="ID_7734f591_a7cb_43c8_aa30_6e45971a9e80" CREATED="1739361894780" MODIFIED="1739361894780"><richcontent TYPE="NOTE">
+<node TEXT="Storage Capacity" ID="ID_51c6540b_8db1_40fb_bd57_bc45413bd7cf" CREATED="1740654243897" MODIFIED="1740654243897"><richcontent TYPE="NOTE">
 
 <html>
                         <head/>
                         <body>
-                            <p>Cerebellum learns to execute movement sequences based on mossy fiber context</p>
-                        </body>
-                    </html>
-</richcontent>
-</node>
-<node TEXT="Learned Conditional Reflexes" ID="ID_1e5e341a_18f3_4096_b627_72d01f52534b" CREATED="1739361894780" MODIFIED="1739361894780"><richcontent TYPE="NOTE">
-
-<html>
-                        <head/>
-                        <body>
-                            <p>Maintains posture and balance through context-dependent reflexes</p>
+                            <p>Each Purkinje cell can learn ~200 different patterns with 500+ active parallel fibers per pattern.</p>
                         </body>
                     </html>
 </richcontent>
 </node>
 </node>
-<node TEXT="Key Predictions" POSITION="left" ID="ID_7021ce3f_951f_4fef_8b4f_a5c1478f0319" CREATED="1739361894780" MODIFIED="1739361894780">
-<node TEXT="Synaptic Plasticity" ID="ID_f953db25_51f4_4ad8_95b8_5c9b9e46c4b6" CREATED="1739361894780" MODIFIED="1739361894780"><richcontent TYPE="NOTE">
+<node TEXT="Predictions" POSITION="left" ID="ID_af7838db_6533_4d81_b033_8cb60b41bc87" CREATED="1740654243898" MODIFIED="1740654243898">
+<node TEXT="Synaptic Modification" ID="ID_321048f6_3a74_426b_a9c6_0e5c81cbda85" CREATED="1740654243898" MODIFIED="1740654243898"><richcontent TYPE="NOTE">
 
 <html>
                         <head/>
                         <body>
-                            <p>Only parallel fiber to Purkinje cell synapses are modifiable</p>
+                            <p>Only parallel fiber to Purkinje cell synapses are modifiable by climbing fiber activity.</p>
                         </body>
                     </html>
 </richcontent>
 </node>
-<node TEXT="Golgi Cell Function" ID="ID_9b9c820d_da40_48b7_ade5_8ee174f164d7" CREATED="1739361894780" MODIFIED="1739361894780"><richcontent TYPE="NOTE">
+<node TEXT="Golgi Cell Function" ID="ID_912e5223_d383_43eb_9d1f_d3d963ff0e85" CREATED="1740654243898" MODIFIED="1740654243898"><richcontent TYPE="NOTE">
 
 <html>
                         <head/>
                         <body>
-                            <p>Driven by greater of upper/lower dendritic inputs</p>
+                            <p>Driven by the greater of inputs from upper and lower dendritic fields.</p>
                         </body>
                     </html>
 </richcontent>
 </node>
-<node TEXT="Cell Activity" ID="ID_0b2782bf_50a7_4d84_afb3_fa375a7273fe" CREATED="1739361894780" MODIFIED="1739361894780"><richcontent TYPE="NOTE">
+<node TEXT="Active Granule Cell Density" ID="ID_d015ef59_d63e_45d0_bde1_87517bca385d" CREATED="1740654243899" MODIFIED="1740654243899"><richcontent TYPE="NOTE">
 
 <html>
                         <head/>
                         <body>
-                            <p>Small fraction of granule cells active at any time</p>
+                            <p>Small fraction (&lt;5%) of granule cells active at any one time.</p>
                         </body>
                     </html>
 </richcontent>

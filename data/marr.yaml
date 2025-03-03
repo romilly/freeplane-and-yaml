@@ -1,68 +1,76 @@
 root:
-  title: "Theory of Cerebellar Cortex"
-  note: "A detailed theory explaining how the cerebellum learns to perform motor skills through specific cellular architecture and synaptic modifications"
+  title: "A Theory of Cerebellar Cortex (Marr, 1969)"
+  note: "A computational theory explaining how the cerebellum learns to perform motor skills through synaptic modification."
   children:
-    basic_structure:
-      title: "Basic Cerebellar Structure"
-      note: "The cerebellum has two main types of input fibers and one output type, organized in a highly regular structure"
+    fundamentals:
+      title: "Fundamental Concepts"
+      children:
+        purpose:
+          title: "Purpose of Cerebellum"
+          note: "Learning motor skills so that incomplete cerebral commands can trigger complete execution."
+        connection:
+          title: "Inferior Olive - Purkinje Cell Connection"
+          note: "One-to-one relationship between inferior olive cells and Purkinje cells via climbing fibers."
+        learning:
+          title: "Learning Mechanism"
+          note: "Synapses from parallel fibers to Purkinje cells are facilitated by conjunction of presynaptic and climbing fiber activity."
+        dictionary:
+          title: "Olivary Dictionary"
+          note: "Each olivary cell corresponds to an 'elemental movement'; actions represented as sequences of firing patterns."
+    architecture:
+      title: "Cerebellar Architecture"
       children:
         inputs:
-          title: "Input Types"
+          title: "Input Pathways"
           children:
-            climbing:
-              title: "Climbing Fibers"
-              note: "From inferior olive, each connects to exactly one Purkinje cell. Provides teaching signal for learning."
             mossy:
               title: "Mossy Fibers"
-              note: "Connect to granule cells through glomeruli. Provide context information for learning."
-        outputs:
-          title: "Purkinje Cells"
-          note: "Form the only output from cerebellar cortex. Each receives one climbing fiber and many parallel fiber inputs."
-        interneurons:
-          title: "Interneurons"
+              note: "Provide context information via granule cells and parallel fibers."
+            climbing:
+              title: "Climbing Fibers"
+              note: "One-to-one connection with Purkinje cells; signal when elemental movement is required."
+        cells:
+          title: "Cell Types"
           children:
+            purkinje:
+              title: "Purkinje Cells"
+              note: "Learn contexts; form only output from cortex; inhibitory action."
             granule:
               title: "Granule Cells"
-              note: "Receive mossy fiber input and form parallel fibers. Transform input into codon representation."
+              note: "Transform mossy fiber input into 'codon representation' via parallel fibers."
             golgi:
               title: "Golgi Cells"
-              note: "Control granule cell threshold to regulate pattern separation."
+              note: "Regulate granule cell thresholds to control codon size based on input complexity."
             stellate:
               title: "Stellate Cells"
-              note: "Include basket cells. Provide threshold control for Purkinje cells."
-
-    learning_mechanism:
-      title: "Learning Mechanism"
+              note: "Include basket cells; set Purkinje cell thresholds based on parallel fiber activity."
+    functioning:
+      title: "Operational Principles"
       children:
-        synaptic_modification:
-          title: "Synaptic Modification"
-          note: "Parallel fiber to Purkinje cell synapses are strengthened when active during climbing fiber input"
-        pattern_separation:
-          title: "Pattern Separation"
-          note: "Mossy fiber inputs are transformed into sparse codon representation by granule cells"
-        codon_representation:
+        codon:
           title: "Codon Representation"
-          note: "Input patterns are represented by small subsets of active granule cells"
-
-    functional_types:
-      title: "Types of Learning"
-      children:
-        movements:
-          title: "Learned Movements"
-          note: "Cerebellum learns to execute movement sequences based on mossy fiber context"
-        reflexes:
-          title: "Learned Conditional Reflexes"
-          note: "Maintains posture and balance through context-dependent reflexes"
-
+          note: "Transformation of mossy fiber input into small subset patterns for efficient storage and pattern separation."
+        learning_types:
+          title: "Types of Learning"
+          children:
+            movements:
+              title: "Learned Movements"
+              note: "Cerebrum initially organizes movements, cerebellum learns contexts for each elemental movement."
+            reflexes:
+              title: "Learned Conditional Reflexes"
+              note: "For posture and balance; activated by context, driven by receptors that form negative feedback loops."
+        capacity:
+          title: "Storage Capacity"
+          note: "Each Purkinje cell can learn ~200 different patterns with 500+ active parallel fibers per pattern."
     predictions:
-      title: "Key Predictions"
+      title: "Predictions"
       children:
         synapses:
-          title: "Synaptic Plasticity"
-          note: "Only parallel fiber to Purkinje cell synapses are modifiable"
-        golgi_function:
+          title: "Synaptic Modification"
+          note: "Only parallel fiber to Purkinje cell synapses are modifiable by climbing fiber activity."
+        golgi_rule:
           title: "Golgi Cell Function"
-          note: "Driven by greater of upper/lower dendritic inputs"
-        cell_activity:
-          title: "Cell Activity"
-          note: "Small fraction of granule cells active at any time"
+          note: "Driven by the greater of inputs from upper and lower dendritic fields."
+        density:
+          title: "Active Granule Cell Density"
+          note: "Small fraction (<5%) of granule cells active at any one time."

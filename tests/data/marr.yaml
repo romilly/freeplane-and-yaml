@@ -1,0 +1,68 @@
+root:
+  title: "Theory of Cerebellar Cortex"
+  note: "A detailed theory explaining how the cerebellum learns to perform motor skills through specific cellular architecture and synaptic modifications"
+  children:
+    basic_structure:
+      title: "Basic Cerebellar Structure"
+      note: "The cerebellum has two main types of input fibers and one output type, organized in a highly regular structure"
+      children:
+        inputs:
+          title: "Input Types"
+          children:
+            climbing:
+              title: "Climbing Fibers"
+              note: "From inferior olive, each connects to exactly one Purkinje cell. Provides teaching signal for learning."
+            mossy:
+              title: "Mossy Fibers"
+              note: "Connect to granule cells through glomeruli. Provide context information for learning."
+        outputs:
+          title: "Purkinje Cells"
+          note: "Form the only output from cerebellar cortex. Each receives one climbing fiber and many parallel fiber inputs."
+        interneurons:
+          title: "Interneurons"
+          children:
+            granule:
+              title: "Granule Cells"
+              note: "Receive mossy fiber input and form parallel fibers. Transform input into codon representation."
+            golgi:
+              title: "Golgi Cells"
+              note: "Control granule cell threshold to regulate pattern separation."
+            stellate:
+              title: "Stellate Cells"
+              note: "Include basket cells. Provide threshold control for Purkinje cells."
+
+    learning_mechanism:
+      title: "Learning Mechanism"
+      children:
+        synaptic_modification:
+          title: "Synaptic Modification"
+          note: "Parallel fiber to Purkinje cell synapses are strengthened when active during climbing fiber input"
+        pattern_separation:
+          title: "Pattern Separation"
+          note: "Mossy fiber inputs are transformed into sparse codon representation by granule cells"
+        codon_representation:
+          title: "Codon Representation"
+          note: "Input patterns are represented by small subsets of active granule cells"
+
+    functional_types:
+      title: "Types of Learning"
+      children:
+        movements:
+          title: "Learned Movements"
+          note: "Cerebellum learns to execute movement sequences based on mossy fiber context"
+        reflexes:
+          title: "Learned Conditional Reflexes"
+          note: "Maintains posture and balance through context-dependent reflexes"
+
+    predictions:
+      title: "Key Predictions"
+      children:
+        synapses:
+          title: "Synaptic Plasticity"
+          note: "Only parallel fiber to Purkinje cell synapses are modifiable"
+        golgi_function:
+          title: "Golgi Cell Function"
+          note: "Driven by greater of upper/lower dendritic inputs"
+        cell_activity:
+          title: "Cell Activity"
+          note: "Small fraction of granule cells active at any time"
