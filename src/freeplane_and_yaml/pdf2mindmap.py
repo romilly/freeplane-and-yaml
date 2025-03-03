@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 """
-Convert PDF files to mind maps using PyMuPDF4LLM and Claude AI.
+Convert PDF files to mind maps using PyMuPDF4LLM and AI.
 """
 
 import os
 import sys
 import argparse
 import tempfile
+import pymupdf4llm
 from dotenv import load_dotenv
 from .text_to_mindmap import TextToMindMap
-from .claude_adapter import ClaudeAdapter
-from .mock_adapter import MockLLMAdapter
-from .pdf_extractor import PDFExtractor
+from .openai_adapter import OpenAIAdapter
 
 # Load environment variables
 load_dotenv()
@@ -20,7 +19,7 @@ load_dotenv()
 def main():
     """Main entry point for the pdf2mindmap command-line tool."""
     parser = argparse.ArgumentParser(
-        description="Convert a PDF file to a mind map using PyMuPDF4LLM and Claude AI"
+        description="Convert a PDF file to a mind map using PyMuPDF4LLM and OpenAI"
     )
     parser.add_argument(
         "input_file", 
@@ -30,23 +29,11 @@ def main():
         "output_dir", 
         help="Directory to save the output files"
     )
-    parser.add_argument(
-        "--strategy",
-        default="markdown",
-        help="Text extraction strategy (only markdown is currently supported)"
-    )
-    parser.add_argument(
-        "--mock", 
-        action="store_true", 
-        help="Use mock adapter instead of Claude API (for testing)"
-    )
+# Removed the strategy parameter as we're always using to_markdown
+# Removed the mock option
     parser.add_argument(
         "--model", 
-        help="Claude model to use (defaults to claude-3-sonnet-20240229)"
-    )
-    parser.add_argument(
-        "--api-key", 
-        help="Anthropic API key (defaults to ANTHROPIC_API_KEY environment variable)"
+        help="OpenAI model to use (defaults to gpt-4o-mini)"
     )
     parser.add_argument(
         "--save-text",
@@ -83,9 +70,14 @@ def main():
     
     try:
         # Step 1: Extract text from the PDF
-        print(f"Extracting text from {args.input_file} using strategy: {args.strategy}...")
-        pdf_extractor = PDFExtractor(strategy=args.strategy)
-        extracted_text = pdf_extractor.extract_text(args.input_file)
+        print(f"Extracting text from {args.input_file}...")
+        
+        # Ensure the file exists
+        if not os.path.isfile(args.input_file):
+            raise FileNotFoundError(f"PDF file not found: {args.input_file}")
+        
+        # Extract text using PyMuPDF4LLM directly
+        extracted_text = pymupdf4llm.to_markdown(args.input_file)
         
         # Save the extracted text if requested
         if text_output:
@@ -98,19 +90,9 @@ def main():
             print("Error: No text could be extracted from the PDF", file=sys.stderr)
             sys.exit(1)
         
-        # Step 2: Create the appropriate adapter
-        if args.mock:
-            print("Using mock adapter (no real API calls will be made)")
-            adapter = MockLLMAdapter()
-        else:
-            # Check if API key is available
-            api_key = args.api_key or os.environ.get("ANTHROPIC_API_KEY")
-            if not api_key or api_key == "your_api_key_here":
-                print("Error: No Anthropic API key provided. Please set ANTHROPIC_API_KEY in .env file or use --api-key", file=sys.stderr)
-                sys.exit(1)
-                
-            # Create the adapter
-            adapter = ClaudeAdapter(api_key=api_key, model=args.model)
+        # Step 2: Create the OpenAI adapter
+        # Create the adapter with specified model or default
+        adapter = OpenAIAdapter(model=args.model)
         
         # Step 3: Create a temporary text file for the extracted content
         with tempfile.NamedTemporaryFile(mode='w', suffix='.txt', delete=False) as temp_file:

@@ -1,56 +1,50 @@
 import os
+import warnings
 import pytest
-import tempfile
-from freeplane_and_yaml.pdf_extractor import PDFExtractor
+import pymupdf4llm
 
-@pytest.fixture
-def sample_pdf_path():
-    """Get the path to a sample PDF file if one exists in private directory."""
-    # Check if there's a sample PDF in the private directory
-    private_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'private')
+# Suppress SWIG-related deprecation warnings
+warnings.filterwarnings("ignore", message="builtin type SwigPyPacked has no __module__ attribute")
+warnings.filterwarnings("ignore", message="builtin type SwigPyObject has no __module__ attribute")
+warnings.filterwarnings("ignore", message="builtin type swigvarlink has no __module__ attribute")
+
+
+def test_extract_text_with_sample_pdf():
+    """Test text extraction with the sample PDF file."""
+    # Define paths
+    test_dir = os.path.dirname(__file__)
+    input_data_dir= os.path.join(test_dir, 'data', 'input')
+    sample_pdf_path = os.path.join(input_data_dir, "sample.pdf")
+    sample_md_path = os.path.join(input_data_dir, "sample.md")
     
-    if os.path.isdir(private_dir):
-        pdf_files = [f for f in os.listdir(private_dir) if f.lower().endswith('.pdf')]
-        if pdf_files:
-            return os.path.join(private_dir, pdf_files[0])
+    # Extract text from PDF using pymupdf4llm
+    extracted_md = pymupdf4llm.to_markdown(sample_pdf_path)
     
-    # If no PDF found, mark test as skipped
-    pytest.skip("No sample PDF file found in the private directory")
-
-
-def test_pdf_extractor_initialization():
-    """Test that the PDF extractor can be initialized with various options."""
-    # Default initialization
-    extractor = PDFExtractor()
-    assert extractor.strategy == "markdown"
+    # Read the expected markdown content
+    with open(sample_md_path, 'r', encoding='utf-8') as f:
+        expected_md = f.read()
     
-    # With specific strategy - note that only markdown is supported
-    extractor = PDFExtractor(strategy="text")
-    assert extractor.strategy == "markdown"  # Should default to markdown
-
-
-def test_extract_text_file_not_found():
-    """Test that the extractor raises an error for non-existent files."""
-    extractor = PDFExtractor()
-    with pytest.raises(FileNotFoundError):
-        extractor.extract_text("non_existent_file.pdf")
-
-
-def test_extract_text_with_real_pdf(sample_pdf_path):
-    """Test text extraction with a real PDF file."""
-    # Skip this test if no sample PDF is available
-    if not sample_pdf_path:
-        pytest.skip("No sample PDF file found")
-        
-    # Create extractor
-    extractor = PDFExtractor()
+    # Compare the content
+    # Note: PDF extraction might have slight formatting differences compared to the sample markdown
+    # We'll check for content similarity rather than exact matches
     
-    # Extract text
-    markdown_output = extractor.extract_text(sample_pdf_path)
+    # Make sure the extracted content is not empty
+    assert extracted_md.strip(), "Extracted content should not be empty"
     
-    # Basic validation
-    assert markdown_output, "Markdown output should not be empty"
+    # Instead of comparing specific lines, check for key phrases
+    # PDF extraction can vary significantly from the original text formatting
+    key_phrases = [
+        "Hexagonal Architecture",
+        "Pattern for",
+        "Software Development",
+        "Ports and Adapters"
+    ]
     
-    # Check basic markdown formatting
-    assert "#" in markdown_output or "*" in markdown_output or "-" in markdown_output, \
-        "Markdown output should contain some markdown formatting"
+    # Check if these key phrases appear in the extracted text
+    for phrase in key_phrases:
+        assert phrase.lower() in extracted_md.lower(), \
+            f"Key phrase '{phrase}' not found in extracted text"
+            
+    # Print the first few lines of extracted text for debugging
+    print("\nExtracted text begins with:")
+    print(extracted_md[:200] + "...")
