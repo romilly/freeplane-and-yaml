@@ -1,0 +1,23 @@
+root:
+  title: "Hexagonal Architecture: A Pattern for Sustainable Software Development"
+  note: "An architectural pattern also known as Ports and Adapters, designed for flexibility and testability."
+  children:
+    core_concepts:
+      title: "Core Concepts"
+      note: "The foundational ideas behind Hexagonal Architecture, focusing on ports, adapters, and domain."
+      children:
+        ports:
+          title: "Ports"
+          note: "Define boundaries between the application and the outside world, with primary and secondary types."
+        adapters:
+          title: "Adapters"
+          note: "Implement interfaces defined by ports, translating between the application and external systems."
+        domain:
+          title: "Domain"
+          note: "Represents the core business logic, isolated from external concerns."
+    benefits:
+      title: "Benefits"
+      note: "Advantages of using Hexagonal Architecture, including testability, flexibility, maintainability, and technology independence."
+    implementing_hexagonal_architecture:
+      title: "Implementing Hexagonal Architecture"
+      note: "Steps to effectively implement the pattern, ensuring business logic remains pure and focused."
